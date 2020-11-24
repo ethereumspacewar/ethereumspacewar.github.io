@@ -33,8 +33,10 @@
           <div class="m-6 p-4 bg-gray-900">
 
             <ul>
-              <li> <a href="#" @click="setContent('thegame')"> The Game </a> </li>
-              <li> <a href="#" @click="setContent('connecting')"> Connecting with Metamask </a> </li>
+              <li> <a href="#" @click="setPaneContent('wikihome')"> Wiki Home </a> </li>
+              <li> <a href="#" @click="setPaneContent('solarsystems')"> Solarsystems </a> </li>
+              <li> <a href="#" @click="setPaneContent('ships')"> Ships </a> </li>
+              <li> <a href="#" @click="setPaneContent('items')"> Items </a> </li>
           </ul>
 
           </div>
@@ -42,39 +44,11 @@
         <div class="w-2/3 bg-gray-800 text-white " >
           <div class="m-6 p-4 bg-gray-900">
 
+            <WikiContentPane
 
-            <div v-if="activeContent == 'thegame'">
-              <h3 class="text-lg">  Ethereum Space War </h3>
-              <br>
+            ref="wikicontentpane"
+            />
 
-              <p>
-                Ethereum Space War is a 3D Space MMORPG that is played in a browser such as Chrome or Firefox.
-                </p>
-                <br>
-                <p>
-                   In order to connect to the game, you will need to download the Ethereum Wallet plugin 'Metamask' in order to log into the game and so that you can interact with the in-game currency named '0xBTC'.
-               </p>
-
-            </div>
-
-            <div v-if="activeContent == 'connecting'">
-              <h3 class="text-lg"> Getting Connected </h3>
-              <br>
-
-              <p> To connect to this Application, you will need a Web3 compatible browser or extension such as Metamask. (<a href="https://metamask.io" target="_blank" >https://metamask.io</a>)    </p>
-              <br>
-              <p> Once you have installed Metamask, you will need to add a Custom RPC for the Matic Network so that you will be able to digitally sign transactions for the Matic Network.   To do this, click on the 'Networks' dropdown at the very top of Metamask and change it from 'Main Ethereum Network' to 'Custom RPC' and use the following information: </p>
-                <br>
-                <ul>
-                  <li> Network Name: "Matic Network"</li>
-                  <li> New RPC URL: "https://rpc-mainnet.matic.network"</li>
-                  <li> Chain ID: "137" </li>
-                  <li> Symbol: "M" </li>
-                  <li> Block Explorer URL: "https://explorer.matic.network" </li>
-                </ul>
-                <br>
-                <p> Once you have added the Matic Network information to Metamask, switch Metamask back to 'Ethereum Mainnet Network'.  During the use of the Dapp, you may be asked to switch over to the 'Matic Mainnet Network' when you intend to digitally sign transactions for the Matic Network and now you are prepared to do so.  </p>
-            </div>
 
 
 
@@ -89,39 +63,52 @@
 
 
 <script>
+
+//import  MarkdownIt  from 'markdown-it';
+//import hljs from 'highlight.js'
+
+import Vue from 'vue'
+import WikiContentPane from './wiki/WikiContentPane.vue'
 import Footer from './Footer.vue'
 
 export default {
   name: 'Wiki',
   props: [],
-  components:{Footer},
+  components:{Footer,WikiContentPane},
   data() {
     return {
-      activeContent: 'thegame',
+
       searchQuery: null
     }
   },
   mounted(){
-        this.loadContentUsingQuery(this.$route.params.query)
+    Vue.nextTick(function () {
+      this.setPaneContent(this.$route.params.query)
+
+    }.bind(this))
 
   },
   watch: {
     $route(to, from) {
-          this.loadContentUsingQuery(this.$route.params.query)
+      Vue.nextTick(function () {
+        this.setPaneContent(this.$route.params.query)
+
+      }.bind(this))
 
       // react to route changes...
     }
   },
   methods: {
 
-    setContent (contentName) {
-      console.log('set content', contentName)
-      this.activeContent = contentName;
+    setPaneContent (contentName) {
+      if(this.$refs.wikicontentpane && contentName){
+        this.$refs.wikicontentpane.setContent( contentName )
+
+      }
+
     },
 
-    loadContentUsingQuery(query){
-          console.log('loading query ',query)
-    },
+
 
     onSearchSubmit (){
       this.handleSearchQuery( this.searchQuery )
