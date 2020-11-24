@@ -54,7 +54,7 @@ export default class WikiContentBuilder {
 
 
       return {
-        title:'Ethereum Space War Wiki',
+        title:'All Solarsystems',
         linkarray: solarSystemLinksArray
       }
 
