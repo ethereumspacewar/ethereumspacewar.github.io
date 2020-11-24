@@ -1,0 +1,68 @@
+{
+ "defi":{
+   "skybox":"purplenebula",
+   "base_blueprint_groups":["basic","alpha","beta"],
+   "mission_campaigns": ["onslaught"],
+   "typical_warpgate_entitytype":"warpgateA"
+
+ },
+ "unikron":{
+    "skybox":"purplenebula",
+   "base_blueprint_groups":["basic","alpha","beta","unikron"],
+   "typical_warpgate_entitytype":"warpgateA",
+
+   "typical_anomaly_types":["droneraiders","darkchildhideout","abandonedwreckage","guardedwreckage","hivemindagents","hivemindbeacon"]
+ },
+ "legacy":{
+    "skybox":"simplenebula",
+   "base_blueprint_groups":["basic","alpha","delta"],
+   "typical_warpgate_entitytype":"warpgateF"
+
+
+ },
+ "synthesis":{
+    "skybox":"redeclipse",
+   "base_blueprint_groups":["basic","gamma","beta","synthesis"],
+   "typical_anomaly_types":["hivemindsquad","synthoutpost","synthforce","droneoutpost","hivemindagents"],
+   "typical_warpgate_entitytype":"warpgateD"
+
+
+ },
+ "node":{
+    "skybox":"simplenebula",
+   "base_blueprint_groups":["basic","gamma","beta"],
+   "typical_warpgate_entitytype":"warpgateG",
+
+
+    "typical_anomaly_types":["droneraiders","synthoutpost","synthforce","imperialpatrol","imperialescort","renegadescouts"]
+ },
+
+ "the arc":{
+    "skybox":"simplenebula",
+   "base_blueprint_groups":["basic","gamma","beta"],
+   "typical_warpgate_entitytype":"warpgateC",
+    "typical_anomaly_types":["droneraiders","imperialwarpgate","synthforce","darkchildrondevoux","hivemindsquad","hivemindagents","hivemindbeacon"]
+ },
+ "nomad":{
+    "skybox":"simplenebula",
+   "base_blueprint_groups":["basic","gamma","beta"],
+    "typical_anomaly_types":["darkchildhideout","imperialwarpgate"],
+    "typical_warpgate_entitytype":"warpgateB"
+  },
+
+  "hegemony":{
+     "skybox":"simplenebula",
+    "base_blueprint_groups":["basic","gamma","beta"],
+     "typical_anomaly_types":[],
+     "typical_warpgate_entitytype":"warpgateE"
+   },
+
+   "sunesis":{
+      "skybox":"simplenebula",
+     "base_blueprint_groups":["basic","gamma","beta"],
+      "typical_anomaly_types":[],
+      "typical_warpgate_entitytype":"warpgateH"
+     }
+
+
+}

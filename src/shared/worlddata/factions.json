@@ -1,0 +1,59 @@
+{
+  "drones":{
+    "internalName":"drones",
+    "publicAddress":"0xB3d2Cd64D8D0aA3Aca81346AC9d74eb57E4CB771",
+    "homeGridUUID":""
+  },
+  "gaia":{
+    "internalName":"gaia",
+    "publicAddress":"0xC8cFe25eF7923c5F9e3d4982047C82cE8dD73F6F",
+    "homeGridUUID":""
+
+  },
+
+  "hivemind":{
+    "internalName":"hivemind",
+    "publicAddress":"0xbc3a2164F425402490B49C8e5c71cDD65250587a",
+    "homeGridUUID":"" 
+
+  },
+
+  "satoshislegion":{
+
+    "internalName":"satoshislegion",
+    "publicAddress":"0x5E8EBC53146fBDD2b0F9fa21bD637cB3bD3beE92",
+    "homeGridUUID":"86dbca36ab49ae87",
+    "startGridUUID": "3a18a44ca7cc6000",
+    "allowsPlayers":true
+
+  },
+  "childrenofethereum":{
+    "internalName":"childrenofethereum",
+    "publicAddress":"0x4860b5273468d66f52D56D4D0913e32DD611419C",
+    "homeGridUUID":"86dbca36ab49ae87",
+      "startGridUUID": "3a18a44ca7cc6000",
+    "allowsPlayers":true
+
+  },
+  "synthetics":{
+    "internalName":"synthetics",
+    "publicAddress":"0x952cfcC32966e1940ADbAac2425F9E8fA84cd358",
+    "homeGridUUID":"86dbca36ab49ae87",
+      "startGridUUID": "3a18a44ca7cc6000",
+    "allowsPlayers":true
+
+  },
+  "renegades":{
+    "internalName":"renegades",
+    "publicAddress":"0x1cd59A9fBd08BFc3671eB0B855161eFD8995Ad87",
+    "homeGridUUID":"86dbca36ab49ae87",
+      "startGridUUID": "3a18a44ca7cc6000",
+    "allowsPlayers":true
+
+  }
+
+
+
+
+
+}

@@ -1,0 +1,28 @@
+{
+
+  "shield_damage_explosion": {
+    "textureName": "explosions_2",
+    "tilesHoriz": 4,
+    "tilesVert": 4,
+    "minTile": 0,
+    "maxTile": 7,
+    "loop":false
+  },
+  "armor_damage_explosion": {
+    "textureName": "explosions_2",
+    "tilesHoriz": 4,
+    "tilesVert": 4,
+    "minTile": 8,
+    "maxTile": 15,
+    "loop":false
+  },
+  "ship_death_explosion": {
+    "textureName": "explosions_1",
+    "tilesHoriz": 4,
+    "tilesVert": 4,
+    "minTile": 0,
+    "maxTile": 11,
+    "loop":false
+  }
+
+}

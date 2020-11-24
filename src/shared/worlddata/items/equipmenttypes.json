@@ -1,0 +1,544 @@
+{
+  "devcannon": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 5,
+    "activation_sound_name": "dramatic_laser",
+    "effect_range": 900,
+    "bullet_type":"laser",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "projectileweapon",
+    "cpu":0,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 999,
+      "damage_kin": 20,
+      "weapon_optimal": 900,
+      "weapon_tracking": 10
+    }
+  },
+  "civiliancannon": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 8,
+    "activation_sound_name": "impact_shot",
+    "effect_range": 400,
+    "bullet_type":"laser",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "projectileweapon",
+    "cpu":1,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 90,
+      "damage_kin": 0,
+      "weapon_optimal": 200,
+      "weapon_tracking": 420
+    }
+  },
+  "roguephotoncannon": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 10,
+    "activation_sound_name": "tiny_laser",
+    "effect_range": 400,
+    "bullet_type":"laser",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "energyweapon",
+    "cpu":0,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 35,
+      "damage_kin": 0,
+      "weapon_optimal": 200,
+      "weapon_tracking": 10
+    },
+
+    "stat_bonuses_self": {
+      "armor": 0,
+      "shields": 0,
+      "mass": 0,
+      "speed": 0,
+      "warp_strength": 0
+    },
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {
+      "armor": 0,
+      "shields": 0,
+      "mass": 0,
+      "speed": 0,
+      "warp_strength": 0
+    },
+    "vitals_deltas_target": {}
+  },
+  "roguebarragecannon": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 10,
+    "activation_sound_name": "definite_shot",
+    "effect_range": 400,
+    "bullet_type":"explosive",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "projectileweapon",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 60,
+      "damage_kin": 30,
+      "weapon_optimal": 80,
+      "weapon_tracking": 10
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+  "roguerailgun": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 20,
+    "activation_sound_name": "electric_laser",
+    "bullet_type":"explosive",
+    "effect_range": 900,
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "hybridweapon",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 30,
+      "damage_kin": 40,
+      "weapon_optimal": 400,
+      "weapon_tracking": 10
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+  "rogueminigun": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 6,
+    "activation_sound_name": "impact_shot",
+    "bullet_type":"explosive",
+    "effect_range": 220,
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "projectileweapon",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 10,
+      "damage_kin": 20,
+      "weapon_optimal": 140,
+      "weapon_tracking": 140
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+  "roguebomblauncher": {
+    "activation_energy": 0,
+    "activation_cooldown_ticks": 20,
+    "activation_sound_name": "electric_laser",
+    "effect_range": 160,
+    "bullet_type":"explosive",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "explosiveweapon",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"missile",
+      "damage_em": 10,
+      "damage_kin": 80,
+      "missile_speed": 20
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+  "lightrailgun": {
+    "activation_energy": 5,
+    "activation_cooldown_ticks": 6,
+    "activation_sound_name": "electric_laser",
+    "effect_range": 800,
+    "bullet_type":"laser",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "hybridweapon",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 70,
+      "damage_kin": 10,
+      "weapon_optimal": 200,
+      "weapon_tracking": 80
+      }
+    },
+
+    "antimatterrailcannon": {
+      "activation_energy": 5,
+      "activation_cooldown_ticks": 10,
+      "activation_sound_name": "impact_shot",
+      "effect_range": 800,
+      "bullet_type":"laser",
+      "target_type": "other",
+      "equipment_slot": "high",
+      "equipment_class": "hybridweapon",
+      "cpu":80,
+      "weapon_stats": {
+        "weapon_type":"instant",
+        "damage_em": 240,
+        "damage_kin": 120,
+        "weapon_optimal": 400,
+        "weapon_tracking": 10
+      },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+
+  "smallpulselaser": {
+    "activation_energy": 10,
+    "activation_cooldown_ticks": 6,
+    "activation_sound_name": "electric_laser",
+    "effect_range": 400,
+    "bullet_type":"laser",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "energyweapon",
+    "cpu":15,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 120,
+      "damage_kin": 0,
+      "weapon_optimal": 200,
+      "weapon_tracking": 200
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+
+  "hypercannon": {
+    "activation_energy": 5,
+    "activation_cooldown_ticks": 5,
+    "activation_sound_name": "impact_shot",
+    "effect_range": 150,
+    "bullet_type":"laser",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "energyweapon",
+    "cpu":20,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 130,
+      "damage_kin": 30,
+      "weapon_optimal": 100,
+      "weapon_tracking": 400
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+
+  "lightmissilebay": {
+    "activation_energy": 5,
+    "activation_cooldown_ticks": 6,
+    "activation_sound_name": "missile_launch",
+    "effect_range": 400,
+    "bullet_type":"explosive",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "missilebay",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"missile",
+      "damage_em": 20,
+      "damage_kin": 40,
+      "missile_speed":50
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+
+  "vectormissilebay": {
+    "activation_energy": 5,
+    "activation_cooldown_ticks": 6,
+    "activation_sound_name": "missile_launch",
+    "effect_range": 400,
+    "bullet_type":"explosive",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "missilebay",
+    "cpu":20,
+    "weapon_stats": {
+      "weapon_type":"missile",
+      "damage_em": 20,
+      "damage_kin": 70,
+      "missile_speed":20
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+  "rapidrocketlauncher": {
+    "activation_energy": 5,
+    "activation_cooldown_ticks": 4,
+    "activation_sound_name": "missile_launch",
+    "effect_range": 150,
+    "bullet_type":"explosive",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "missilebay",
+    "cpu":20,
+    "weapon_stats": {
+      "weapon_type":"missile",
+      "damage_em": 10,
+      "damage_kin": 75,
+      "missile_speed": 40
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+  "gatlingcannon": {
+    "activation_energy": 1,
+    "activation_cooldown_ticks": 4,
+    "activation_sound_name": "hard_shot",
+    "effect_range": 330,
+    "bullet_type":"explosive",
+    "target_type": "other",
+    "equipment_slot": "high",
+    "equipment_class": "projectileweapon",
+    "cpu":10,
+    "weapon_stats": {
+      "weapon_type":"instant",
+      "damage_em": 65,
+      "damage_kin": 65,
+      "weapon_optimal": 100,
+      "weapon_tracking": 500
+    },
+
+    "stat_bonuses_self": {},
+    "vitals_deltas_self": {},
+    "stat_bonuses_target": {},
+    "vitals_deltas_target": {}
+  },
+
+  "smallenergyneutralizer": {
+    "activation_energy": 10,
+    "activation_cooldown_ticks": 4,
+    "effect_range": 400,
+    "target_type": "other",
+    "equipment_slot": "mid",
+    "equipment_class": "neutralizer",
+    "cpu":15,
+    "weapon_stats": {},
+    "vitals_deltas_target": {
+      "energy": -18
+    }
+  },
+
+  "smallenergyvampire": {
+    "activation_energy": 10,
+    "activation_cooldown_ticks": 4,
+    "effect_range": 400,
+    "target_type": "other",
+    "equipment_slot": "mid",
+    "equipment_class": "neutralizer",
+    "cpu":10,
+    "weapon_stats": {},
+    "vitals_deltas_self": {
+      "energy": 8
+    },
+    "vitals_deltas_target": {
+      "energy": -8
+    }
+  },
+
+  "mediumenergyneutralizer": {
+    "activation_energy": 28,
+    "activation_cooldown_ticks": 4,
+    "effect_range": 400,
+    "target_type": "other",
+    "equipment_slot": "mid",
+    "equipment_class": "neutralizer",
+    "cpu":125,
+    "weapon_stats": {},
+    "vitals_deltas_target": {
+      "energy": -36
+    }
+  },
+  "smallshieldregenerator": {
+    "activation_energy": 45,
+    "activation_cooldown_ticks": 10,
+    "effect_range": 400,
+    "target_type": "self",
+    "equipment_slot": "mid",
+    "equipment_class": "shieldmod",
+    "cpu":10,
+    "weapon_stats": {},
+    "vitals_deltas_self": {
+      "shields": 45
+    }
+  },
+  "smallshieldrecharger": {
+    "target_type": "passive",
+    "equipment_slot": "mid",
+    "equipment_class": "shieldmod",
+    "effect_range": 400,
+    "cpu":10,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "shield_regen": 2
+    }
+  },
+  "smallbatteryrecharger": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "batterymod",
+    "cpu":10,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "energy_regen": 1
+    }
+  },
+  "smallcapacitorbank": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "batterymod",
+    "cpu":10,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "max_energy": 125
+    }
+  },
+  "smallcoprocessor": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "computermod",
+    "cpu":0,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "cpu_size": 15
+    }
+  },
+  "smallcargoexpansion": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "cargomod",
+    "cpu":15,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "cargo_size_percent": 10,
+      "mass": 10
+    }
+  },
+  "atomicpropulsor": {
+    "activation_energy": 20,
+    "activation_cooldown_ticks": 6,
+    "target_type": "self",
+    "equipment_slot": "mid",
+    "equipment_class": "propulsionmod",
+    "cpu":15,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "speed_percent": 20
+    }
+  },
+
+  "atomicoverdrive": {
+    "activation_energy": 40,
+    "activation_cooldown_ticks": 6,
+    "target_type": "self",
+    "equipment_slot": "mid",
+    "equipment_class": "propulsionmod",
+    "cpu":65,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "speed_percent": 35
+    }
+  },
+
+
+  "warpcoredisruptor": {
+    "activation_energy": 2,
+    "activation_cooldown_ticks": 6,
+    "effect_range": 250,
+    "target_type": "target",
+    "equipment_slot": "mid",
+    "equipment_class": "disruptor",
+    "cpu":25,
+    "weapon_stats": {},
+    "stat_bonuses_target": {
+      "warp_strength": -1
+    }
+  },
+  "smallstasiswebifier": {
+    "activation_energy": 2,
+    "activation_cooldown_ticks": 10,
+    "effect_range": 250,
+    "target_type": "other",
+    "equipment_slot": "mid",
+    "equipment_class": "webifier",
+    "cpu":15,
+    "weapon_stats": {},
+    "stat_bonuses_target": {
+      "speed_percent": -20
+    }
+  },
+  "heavyarmorplating": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "armormod",
+    "cpu":55,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "max_armor": 450,
+      "mass": 12
+    }
+  },
+  "basicarmorplating": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "armormod",
+    "cpu":5,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "max_armor": 100,
+      "mass": 5
+    }
+  },
+  "smallshieldextender": {
+    "target_type": "passive",
+    "equipment_slot": "low",
+    "equipment_class": "shieldmod",
+    "cpu":10,
+    "weapon_stats": {},
+    "stat_bonuses_self": {
+      "max_shields": 100,
+      "signature_radius": 25
+    }
+  }
+
+
+
+}

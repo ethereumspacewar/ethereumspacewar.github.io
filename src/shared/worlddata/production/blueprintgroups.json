@@ -1,0 +1,25 @@
+{
+  "basic":[
+    "heavyarmorplating",
+    "basicarmorplating",
+    "warpcore",
+    "fluxreactor",
+    "teslacoil",
+    "reinforcedarmorplate",
+    "smallcoprocessor",
+    "shieldbattery",
+    "energycore",
+    "supercapacitor",
+    "fuelcell",
+    "fusionreactor"
+
+
+  ],
+  "alpha":["lightrailgun","gatlingcannon","nymph","sprite"],
+  "beta":["warpcoredisruptor","hedron"],
+  "gamma":["smallshieldregenerator","smallshieldrecharger","smallstasiswebifier"],
+  "delta":["smallbatteryrecharger","atomicpropulsor","katana"],
+  "unikron":["kraken","antimatterrailcannon"],
+  "synthesis":["virus"]
+
+}

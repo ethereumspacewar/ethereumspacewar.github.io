@@ -1,0 +1,54 @@
+{
+  "minor_scrap": [
+    {"itemInternalName":"metalscrap", "itemRoll": 35000},
+    {"itemInternalName":"vanadium", "itemRoll": 2100}
+
+  ],
+  "average_materials": [
+    {"itemInternalName":"nanocrystals", "itemRoll": 14000},
+    {"itemInternalName":"ionizedfluid", "itemRoll": 12100},
+    {"itemInternalName":"carbonizedmembranes", "itemRoll": 9100}
+
+  ],
+
+  "northern_materials": [
+    {"itemInternalName":"plasmids", "itemRoll": 9000},
+    {"itemInternalName":"hexinite", "itemRoll": 9000},
+    {"itemInternalName":"ionizedfluid", "itemRoll": 6100},
+    {"itemInternalName":"antimatter", "itemRoll": 6100} 
+
+
+  ],
+
+  "rare_materials": [
+    {"itemInternalName":"tritium", "itemRoll": 22000},
+    {"itemInternalName":"uranium", "itemRoll": 16100},
+    {"itemInternalName":"vanadium", "itemRoll": 3400}
+
+  ],
+
+  "minor_components": [
+    {"itemInternalName":"supercapacitor", "itemRoll": 5000},
+    {"itemInternalName":"fuelcell", "itemRoll": 4100},
+    {"itemInternalName":"energycore", "itemRoll": 5100}
+
+  ],
+  "average_components": [
+    {"itemInternalName":"supercapacitor", "itemRoll": 5000},
+    {"itemInternalName":"fuelcell", "itemRoll": 4100},
+    {"itemInternalName":"reinforcedarmorplate", "itemRoll": 5100}
+
+  ],
+  "rare_components": [
+    {"itemInternalName":"integratedcpu", "itemRoll": 5000},
+    {"itemInternalName":"energycore", "itemRoll": 4100},
+    {"itemInternalName":"fluxreactor", "itemRoll": 5100},
+    {"itemInternalName":"teslacoil", "itemRoll": 5100}
+
+  ]
+
+
+
+
+
+}

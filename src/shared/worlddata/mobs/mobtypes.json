@@ -1,0 +1,725 @@
+{
+  "roguedrone": {
+    "basetype":"minordrone",
+    "name":"rogue drone",
+    "faction": "drones",
+    "aggro_radius": 3000,
+    "preferred_radius":100,
+     "modules": {
+       "high_slots":["roguephotoncannon"],
+       "mid_slots":[],
+       "low_slots":[]
+
+     },
+     "loot_tables":[
+        {"table_name": "minor_scrap", "roll_multiplier": 10.0}
+     ]
+
+
+   },
+   "scoutdrone": {
+     "basetype":"scoutdrone",
+     "name":"scout drone",
+     "faction": "drones",
+     "aggro_radius": 5000,
+     "preferred_radius":200,
+      "modules": {
+        "high_slots":["roguephotoncannon"],
+        "mid_slots":[],
+        "low_slots":[]
+
+      },
+      "loot_tables":[
+         {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+         {"table_name": "average_materials", "roll_multiplier": 10.0}
+      ]
+
+
+    },
+
+    "aerialdrone": {
+      "basetype":"aerialdrone",
+      "name":"aerial drone",
+      "faction": "drones",
+      "aggro_radius": 7000,
+      "preferred_radius":300,
+       "modules": {
+         "high_slots":["roguerailgun"],
+         "mid_slots":[],
+         "low_slots":[]
+
+       },
+       "loot_tables":[
+          {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+          {"table_name": "average_materials", "roll_multiplier": 10.0}
+       ]
+
+
+     },
+
+     "observerdrone": {
+       "basetype":"observerdrone",
+       "name":"observer drone",
+       "faction": "drones",
+       "aggro_radius": 5000,
+       "preferred_radius":200,
+        "modules": {
+          "high_slots":["smallstasiswebifier"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+           {"table_name": "average_materials", "roll_multiplier": 10.0}
+        ]
+
+
+      },
+
+
+    "eliminatordrone": {
+      "basetype":"attackdrone",
+      "name":"eliminator drone",
+      "faction": "drones",
+      "aggro_radius": 5000,
+      "preferred_radius":70,
+       "modules": {
+         "high_slots":["roguebarragecannon"],
+         "mid_slots":[],
+         "low_slots":[]
+
+       },
+       "loot_tables":[
+          {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+              {"table_name": "rare_materials", "roll_multiplier": 10.0}
+       ]
+
+
+     },
+
+
+
+
+
+
+     "darkchildghost": {
+       "basetype":"darkchildghost",
+       "name":"darkchild ghost",
+       "faction": "childrenofethereum",
+       "aggro_radius": 5000,
+       "preferred_radius":100,
+        "modules": {
+          "high_slots":["rogueminigun"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+            {"table_name": "average_materials", "roll_multiplier": 10.0}
+        ]
+
+      },
+
+
+     "darkchildraider": {
+       "basetype":"scoutdrone",
+       "name":"darkchild raider",
+       "faction": "childrenofethereum",
+       "aggro_radius": 5000,
+       "preferred_radius":200,
+        "modules": {
+          "high_slots":["roguerailgun"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+            {"table_name": "average_materials", "roll_multiplier": 10.0}
+        ]
+
+      },
+
+      "darkchildtransport": {
+        "basetype":"hedron",
+        "name":"darkchild transport",
+        "faction": "childrenofethereum",
+        "aggro_radius": 9000,
+        "preferred_radius":900,
+         "modules": {
+           "high_slots":[ ],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 50.0},
+             {"table_name": "rare_components", "roll_multiplier": 17.0},
+           {"table_name": "average_components", "roll_multiplier": 17.0},
+             {"table_name": "rare_materials", "roll_multiplier": 17.0},
+           {"table_name": "rare_materials", "roll_multiplier": 20.0}
+         ]
+
+       },
+
+
+     "darkchildhorror": {
+       "basetype":"darkchildhorror",
+       "name":"darkchild horror",
+       "faction": "childrenofethereum",
+       "aggro_radius": 5000,
+       "preferred_radius":200,
+        "modules": {
+          "high_slots":["roguebomblauncher"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+             {"table_name": "minor_components", "roll_multiplier": 10.0},
+               {"table_name": "average_materials", "roll_multiplier": 10.0}
+        ]
+
+      },
+
+      "darkchildsubjugator": {
+        "basetype":"darkchildsubjugator",
+        "name":"darkchild subjugator",
+        "faction": "childrenofethereum",
+        "aggro_radius": 5000,
+        "preferred_radius":200,
+         "modules": {
+           "high_slots":["roguephotoncannon","roguephotoncannon"],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                {"table_name": "rare_materials", "roll_multiplier": 10.0},
+                  {"table_name": "average_components", "roll_multiplier": 10.0}
+         ]
+
+       },
+
+
+
+
+     "imperialscout": {
+       "basetype":"imperialscout",
+       "name":"imperial scout",
+       "faction": "satoshislegion",
+       "aggro_radius": 5000,
+       "preferred_radius":200,
+        "modules": {
+          "high_slots":["roguephotoncannon"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 10.0}
+        ]
+
+      },
+
+
+      "imperialwarrior": {
+        "basetype":"imperialwarrior",
+        "name":"imperial warrior",
+        "faction": "satoshislegion",
+        "aggro_radius": 5000,
+        "preferred_radius":200,
+         "modules": {
+           "high_slots":["roguerailgun"],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+            {"table_name": "minor_components", "roll_multiplier": 4.0}
+         ]
+
+       },
+
+      "imperialtransport": {
+        "basetype":"hedron",
+        "name":"imperial transport",
+        "faction": "satoshislegion",
+        "aggro_radius": 9000,
+        "preferred_radius":900,
+         "modules": {
+           "high_slots":[ ],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 50.0},
+              {"table_name": "rare_components", "roll_multiplier": 17.0},
+            {"table_name": "average_components", "roll_multiplier": 17.0},
+              {"table_name": "rare_materials", "roll_multiplier": 17.0},
+            {"table_name": "rare_materials", "roll_multiplier": 20.0}
+         ]
+
+       },
+
+
+       "imperialdroid": {
+         "basetype":"observerdrone",
+         "name":"imperial droid",
+         "faction": "satoshislegion",
+         "aggro_radius": 5000,
+         "preferred_radius":200,
+          "modules": {
+            "high_slots":["smallstasiswebifier"],
+            "mid_slots":[],
+            "low_slots":[]
+
+          },
+          "loot_tables":[
+             {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+             {"table_name": "average_materials", "roll_multiplier": 10.0}
+          ]
+
+
+        },
+
+       "imperialdestroyer": {
+         "basetype":"imperialdestroyer",
+         "name":"Imperial Destroyer",
+         "faction": "satoshislegion",
+         "aggro_radius": 4000,
+         "preferred_radius":140,
+          "modules": {
+            "high_slots":["rapidrocketlauncher"],
+            "mid_slots":[],
+            "low_slots":[]
+
+          },
+          "loot_tables":[
+                {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+               {"table_name": "minor_components", "roll_multiplier": 11.0}
+          ]
+        },
+
+        "imperialbattleguard": {
+          "basetype":"imperialbattleguard",
+          "name":"Imperial Battleguard",
+          "faction": "satoshislegion",
+          "aggro_radius": 4000,
+          "preferred_radius":140,
+           "modules": {
+             "high_slots":["lightmissilebay"],
+             "mid_slots":[],
+             "low_slots":[]
+
+           },
+           "loot_tables":[
+                 {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+                {"table_name": "minor_components", "roll_multiplier": 11.0}
+           ]
+         },
+
+     "imperialsquadronleader": {
+       "basetype":"imperiallegionnaire",
+       "name":"Imperial Squadron Leader",
+       "faction": "satoshislegion",
+       "aggro_radius": 4000,
+       "preferred_radius":340,
+        "modules": {
+          "high_slots":["lightmissilebay"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+             {"table_name": "minor_components", "roll_multiplier": 17.0},
+             {"table_name": "rare_materials", "roll_multiplier": 10.0}
+        ],
+       "bonus_loot":[{"itemInternalName":"squadron_leader_frozen_corpse", "itemRoll": 65535}]
+
+      },
+
+      "legionnaire": {
+        "basetype":"imperiallegionnaire",
+        "name":"legionnaire",
+        "faction": "satoshislegion",
+        "aggro_radius": 4000,
+        "preferred_radius":240,
+         "modules": {
+           "high_slots":["vectormissilebay"],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+              {"table_name": "minor_components", "roll_multiplier": 17.0},
+              {"table_name": "rare_materials", "roll_multiplier": 10.0}
+         ]
+
+       },
+
+     "renegadelancer": {
+       "basetype":"renegadelancer",
+       "name":"renegade lancer",
+       "faction": "renegades",
+       "aggro_radius": 5000,
+       "preferred_radius":100,
+        "modules": {
+          "high_slots":["rogueminigun"],
+          "mid_slots":[],
+          "low_slots":[]
+
+        },
+        "loot_tables":[
+           {"table_name": "minor_scrap", "roll_multiplier": 10.0}
+        ]
+
+
+      },
+
+      "renegadeimposter": {
+        "basetype":"renegadeimposter",
+        "name":"renegade imposter",
+        "faction": "renegades",
+        "aggro_radius": 5000,
+        "preferred_radius":400,
+         "modules": {
+           "high_slots":["roguerailgun"],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+              {"table_name": "minor_components", "roll_multiplier": 7.0}
+         ]
+
+
+       },
+
+      "renegadebomber": {
+        "basetype":"renegadebomber",
+        "name":"renegade bomber",
+        "faction": "renegades",
+        "aggro_radius": 5000,
+        "preferred_radius":70,
+         "modules": {
+           "high_slots":["roguebomblauncher"],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 20.0},
+              {"table_name": "minor_components", "roll_multiplier": 7.0},
+            {"table_name": "rare_materials", "roll_multiplier": 5.0}
+         ]
+
+
+       },
+
+      "renegadewingleader": {
+        "basetype":"renegadewingleader",
+        "name":"renegade wingleader",
+        "faction": "renegades",
+        "aggro_radius": 5000,
+        "preferred_radius":300,
+         "modules": {
+           "high_slots":["vectormissilebay"],
+           "mid_slots":[],
+           "low_slots":[]
+
+         },
+         "loot_tables":[
+            {"table_name": "minor_scrap", "roll_multiplier": 30.0},
+            {"table_name": "minor_components", "roll_multiplier": 20.0},
+            {"table_name": "average_materials", "roll_multiplier": 20.0}
+         ]
+
+
+       },
+
+       "syntheticprobe": {
+         "basetype":"syntheticprobe",
+         "name":"synthetic probe",
+         "faction": "synthetics",
+         "aggro_radius": 5000,
+         "preferred_radius":70,
+          "modules": {
+            "high_slots":["roguebarragecannon" ],
+            "mid_slots":[],
+            "low_slots":[]
+
+          },
+          "loot_tables":[
+             {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+             {"table_name": "minor_components", "roll_multiplier": 2.0}
+          ]
+        },
+
+
+        "syntheticjailer": {
+          "basetype":"syntheticprobe",
+          "name":"synthetic jailer",
+          "faction": "synthetics",
+          "aggro_radius": 5000,
+          "preferred_radius":170,
+           "modules": {
+             "high_slots":["warpcoredisruptor" ],
+             "mid_slots":[],
+             "low_slots":[]
+
+           },
+           "loot_tables":[
+              {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+              {"table_name": "minor_components", "roll_multiplier": 2.0}
+           ]
+         },
+
+       "synthetichunter": {
+         "basetype":"synthetichunter",
+         "name":"synthetic hunter",
+         "faction": "synthetics",
+         "aggro_radius": 5000,
+         "preferred_radius":340,
+          "modules": {
+            "high_slots":["roguerailgun" ],
+            "mid_slots":[],
+            "low_slots":[]
+
+          },
+          "loot_tables":[
+             {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+             {"table_name": "minor_components", "roll_multiplier": 2.0},
+            {"table_name": "average_materials", "roll_multiplier": 2.0}
+          ]
+
+
+        },
+        "syntheticassimilator": {
+          "basetype":"syntheticassimilator",
+          "name":"synthetic assimilator",
+          "faction": "synthetics",
+          "aggro_radius": 5000,
+          "preferred_radius":200,
+           "modules": {
+             "high_slots":["roguephotoncannon","smallstasiswebifier"],
+             "mid_slots":[],
+             "low_slots":[]
+
+           },
+           "loot_tables":[
+              {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                {"table_name": "minor_components", "roll_multiplier": 10.0},
+               {"table_name": "average_materials", "roll_multiplier": 10.0}
+           ]
+
+
+         },
+         "syntheticterminator": {
+           "basetype":"syntheticterminator",
+           "name":"synthetic terminator",
+           "faction": "synthetics",
+           "aggro_radius": 5000,
+           "preferred_radius":60,
+            "modules": {
+              "high_slots":["roguebarragecannon","roguebarragecannon"],
+              "mid_slots":[],
+              "low_slots":[]
+
+            },
+            "loot_tables":[
+               {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+               {"table_name": "minor_components", "roll_multiplier": 10.0},
+                {"table_name": "average_components", "roll_multiplier": 10.0}
+            ]
+
+
+          },
+
+
+
+            "syntheticsoyran": {
+              "basetype":"virus",
+              "name":"soyran animus",
+              "faction": "synthetics",
+              "aggro_radius": 5000,
+              "preferred_radius":270,
+               "modules": {
+                 "high_slots":["roguebarragecannon","roguebarragecannon"],
+                 "mid_slots":["warpcoredisruptor"],
+                 "low_slots":[]
+
+               },
+               "loot_tables":[
+                  {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                   {"table_name": "northern_materials", "roll_multiplier": 18.0},
+                   {"table_name": "rare_materials", "roll_multiplier": 14.0}
+               ],
+               "bonus_loot":[{"itemInternalName":"datachip_virus", "itemRoll": 15535}]
+
+
+
+             },
+
+
+          "hivemindspawn": {
+            "basetype":"hivemindspawn",
+            "name":"hivemind spawn",
+            "faction": "hivemind",
+            "aggro_radius": 5000,
+            "preferred_radius":70,
+             "modules": {
+               "high_slots":["roguephotoncannon"],
+               "mid_slots":[],
+               "low_slots":[]
+
+             },
+             "loot_tables":[
+                {"table_name": "minor_scrap", "roll_multiplier": 10.0}
+
+             ]
+
+
+           },
+
+
+
+           "hivemindcontroller": {
+             "basetype":"hivemindcontroller",
+             "name":"hivemind controller",
+             "faction": "hivemind",
+             "aggro_radius": 5000,
+             "preferred_radius":220,
+              "modules": {
+                "high_slots":["warpcoredisruptor"],
+                "mid_slots":[],
+                "low_slots":[]
+
+              },
+              "loot_tables":[
+                 {"table_name": "minor_scrap", "roll_multiplier": 10.0}
+
+              ]
+
+
+            },
+
+            "hivemindwarrior": {
+              "basetype":"hivemindwarrior",
+              "name":"hivemind warrior",
+              "faction": "hivemind",
+              "aggro_radius": 5000,
+              "preferred_radius":350,
+               "modules": {
+                 "high_slots":["roguerailgun"],
+                 "mid_slots":[],
+                 "low_slots":[]
+
+               },
+               "loot_tables":[
+                  {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                  {"table_name": "average_materials", "roll_multiplier": 6.0},
+                  {"table_name": "northern_materials", "roll_multiplier": 6.0}
+
+               ]
+
+
+             },
+
+           "hiveminddisintegrator": {
+             "basetype":"hiveminddisintegrator",
+             "name":"hivemind disintegrator",
+             "faction": "hivemind",
+             "aggro_radius": 5000,
+             "preferred_radius":150,
+              "modules": {
+                "high_slots":["rogueminigun","smallstasiswebifier"],
+                "mid_slots":[],
+                "low_slots":[]
+
+              },
+              "loot_tables":[
+                 {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                  {"table_name": "northern_materials", "roll_multiplier": 6.0}
+              ]
+
+
+            },
+
+
+            "hivemindoverseer": {
+              "basetype":"hivemindoverseer",
+              "name":"hivemind overseer",
+              "faction": "hivemind",
+              "aggro_radius": 5000,
+              "preferred_radius":140,
+               "modules": {
+                 "high_slots":["roguebarragecannon"],
+                 "mid_slots":[],
+                 "low_slots":[]
+
+               },
+               "loot_tables":[
+                  {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                   {"table_name": "northern_materials", "roll_multiplier": 14.0},
+                   {"table_name": "rare_materials", "roll_multiplier": 4.0}
+               ]
+
+
+             },
+
+             "hivemindobliterator": {
+               "basetype":"hivemindobliterator",
+               "name":"hivemind obliterator",
+               "faction": "hivemind",
+               "aggro_radius": 5000,
+               "preferred_radius":70,
+                "modules": {
+                  "high_slots":["roguebarragecannon"],
+                  "mid_slots":[],
+                  "low_slots":[]
+
+                },
+                "loot_tables":[
+                   {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                    {"table_name": "northern_materials", "roll_multiplier": 18.0},
+                    {"table_name": "rare_materials", "roll_multiplier": 14.0}
+                ]
+
+
+              },
+
+
+              "hivemindtyrannix": {
+                "basetype":"kraken",
+                "name":"hivelord tyrannix",
+                "faction": "hivemind",
+                "aggro_radius": 5000,
+                "preferred_radius":70,
+                 "modules": {
+                   "high_slots":["roguebarragecannon","roguebarragecannon"],
+                   "mid_slots":[],
+                   "low_slots":[]
+
+                 },
+                 "loot_tables":[
+                    {"table_name": "minor_scrap", "roll_multiplier": 10.0},
+                     {"table_name": "northern_materials", "roll_multiplier": 18.0},
+                     {"table_name": "rare_materials", "roll_multiplier": 14.0}
+                 ],
+                 "bonus_loot":[{"itemInternalName":"datachip_kraken", "itemRoll": 15535}]
+
+
+
+               }
+
+}

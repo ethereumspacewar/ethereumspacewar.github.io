@@ -1,0 +1,1378 @@
+{
+  "warpgate1": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "warpgate2": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateB",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "warpgate3": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateC",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "warpgate4": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateD",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "warpgate5": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateE",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "warpgate6": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateF",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 200
+        }
+      }
+    ]
+  },
+  "warpgate7": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateG",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "warpgate8": {
+    "celestialclass": "warpgate",
+    "entities": [
+      {
+        "basetype": "warpgateH",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ]
+  },
+  "asteroids1": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "rocksA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 300
+        }
+      }
+    ]
+  },
+  "largewaterplanet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "iceplanet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetB",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "waterplanet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetC",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "barrenplanet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetD",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "brokenplanet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetE",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "smallmoon": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetF",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "largemoon": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetH",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+  "islandplanet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetI",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 800
+        }
+      }
+    ]
+  },
+
+  "icecomet": {
+    "celestialclass": "planet",
+    "entities": [
+      {
+        "basetype": "planetL",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 500
+        }
+      }
+    ]
+  },
+
+  "stationA": {
+    "celestialclass": "structure",
+    "entities": [
+      {
+        "basetype": "stationA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 500
+        }
+      }
+    ]
+  },
+
+  "stationB": {
+    "celestialclass": "structure",
+    "entities": [
+      {
+        "basetype": "stationB",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 500
+        }
+      }
+    ]
+  },
+
+  "stationC": {
+    "celestialclass": "structure",
+    "entities": [
+      {
+        "basetype": "stationC",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 500
+        }
+      }
+    ]
+  },
+
+
+
+  "stationD": {
+    "celestialclass": "structure",
+    "entities": [
+      {
+        "basetype": "stationD",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 500
+        }
+      }
+    ]
+  },
+
+
+
+    "strongholdA": {
+      "celestialclass": "structure",
+      "entities": [
+        {
+          "basetype": "strongholdA",
+          "locationVector": {
+            "x": 0,
+            "y": 0,
+            "z": 500
+          }
+        }
+      ]
+    },
+
+
+
+
+  "minordronehideout": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedStructure",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "minor_roguedrone_squad",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "dronehideout": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_agents",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "dronerepairfacility": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": 40,
+          "y": 0,
+          "z": -60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_squad",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "minorreplicationfacility": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": 20,
+          "y": -80,
+          "z": 20
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "sythetic_scouts",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "droneraiders": {
+    "celestialclass": "anomaly",
+    "typicalName":"Drone Raiders",
+    "entities": [
+      {
+        "basetype": "rocksA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_band",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "darkchildwing": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "rocksA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "darkchild_wing",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+
+    "darkchildhideout": {
+      "celestialclass": "anomaly",
+      "typicalName":"Darkchild Hideout",
+      "entities": [
+        {
+          "basetype": "artifactE",
+          "locationVector": {
+            "x": 90,
+            "y": 0,
+            "z": 60
+          },
+          "basetype": "ruinedStructure",
+          "locationVector": {
+            "x": -490,
+            "y": 0,
+            "z": 60
+          }
+
+
+        }
+      ],
+      "mobgangs": [
+        {
+          "gangtype": "darkchild_wing2",
+          "locationVector": {
+            "x": 300,
+            "y": 0,
+            "z": 50
+          }
+        }
+      ]
+    },
+
+
+  "creepingdronehideout": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "artifactA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_spies",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "darkchildtwins": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "artifactB",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "darkchild_twins",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+  "mysteriousrelic": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ancientGateA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 100
+        }
+      }
+    ],
+    "mobgangs": [
+
+    {
+      "gangtype": "roguedrone_band",
+      "locationVector": {
+        "x": 100,
+        "y": 60,
+        "z": 50
+      }
+    }
+
+    ]
+  },
+  "droneoutpost": {
+    "celestialclass": "anomaly",
+    "typicalName":"Drone Outpost",
+    "entities": [
+      {
+        "basetype": "ancientGateA",
+        "locationVector": {
+          "x": -100,
+          "y": -10,
+          "z": 60
+        }
+      },
+      {
+        "basetype": "ruinedShipyardB",
+        "locationVector": {
+          "x": 120,
+          "y": 15,
+          "z": 360
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_horde",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+
+  "synthoutpost": {
+    "celestialclass": "anomaly",
+    "typicalName":"Synth Outpost",
+    "entities": [
+      {
+        "basetype": "artifactE",
+        "locationVector": {
+          "x": -100,
+          "y": -10,
+          "z": 60
+        }
+      },
+      {
+        "basetype": "ruinedShipyardB",
+        "locationVector": {
+          "x": 120,
+          "y": 15,
+          "z": 360
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "sythetic_wing",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "synthforce": {
+    "celestialclass": "anomaly",
+    "typicalName": "Synth Roamers",
+    "entities": [
+      {
+        "basetype": "chunkyblock",
+        "locationVector": {
+          "x": -100,
+          "y": -10,
+          "z": 60
+        }
+      },
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": 120,
+          "y": 15,
+          "z": 360
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "sythetic_force",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+  "roguedronelookout": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ancientGateB",
+        "locationVector": {
+          "x": -100,
+          "y": -10,
+          "z": 60
+        }
+      },
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": 120,
+          "y": 15,
+          "z": 360
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_agents",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+  "darkchildrondevoux": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "artifactA",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "darkchild_escort",
+        "locationVector": {
+          "x": 300,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+  "darkchildsquad": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "artifactC",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "darkchild_squad",
+        "locationVector": {
+          "x": 70,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+  "darkchildinvestigation": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "artifactC",
+        "locationVector": {
+          "x": 0,
+          "y": 0,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "darkchild_agents",
+        "locationVector": {
+          "x": 70,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+    "renegadewing": {
+      "celestialclass": "anomaly",
+      "entities": [
+        {
+          "basetype": "ancientGateB",
+          "locationVector": {
+            "x": 300,
+            "y": 0,
+            "z": 60
+          }
+        }
+      ],
+      "mobgangs": [
+        {
+          "gangtype": "renegade_wing",
+          "locationVector": {
+            "x": 470,
+            "y": 0,
+            "z": 50
+          }
+        }
+      ]
+    },
+
+    "renegadescouts": {
+      "celestialclass": "anomaly",
+      "typicalName":"Renegade Scouts",
+      "entities": [
+        {
+          "basetype": "ruinedShipyardA",
+          "locationVector": {
+            "x": 220,
+            "y": 0,
+            "z": 60
+          }
+        }
+      ],
+      "mobgangs": [
+        {
+          "gangtype": "renegade_scouts",
+          "locationVector": {
+            "x": 570,
+            "y": 0,
+            "z": 50
+          }
+        }
+      ]
+    },
+
+    "imperialescort": {
+      "celestialclass": "anomaly",
+      "typicalName":"Imperial Escort",
+      "entities": [
+        {
+          "basetype": "artifactE",
+          "locationVector": {
+            "x": 0,
+            "y": 0,
+            "z": 60
+          }
+        },
+        {
+          "basetype": "solarArray",
+          "locationVector": {
+            "x": 220,
+            "y": -20,
+            "z": 30
+          }
+        }
+      ],
+      "mobgangs": [
+        {
+          "gangtype": "imperial_escort",
+          "locationVector": {
+            "x": 100,
+            "y": 100,
+            "z": 50
+          }
+        }
+      ]
+    },
+
+
+  "imperialpatrol": {
+    "celestialclass": "anomaly",
+    "typicalName":"Imperial Patrol",
+    "entities": [
+      {
+        "basetype": "artifactD",
+        "locationVector": {
+          "x": -30,
+          "y": 60,
+          "z": 60
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "imperial_twins",
+        "locationVector": {
+          "x": -70,
+          "y": 0,
+          "z": 90
+        }
+      }
+    ]
+  },
+
+
+
+    "imperialwarpgate": {
+      "celestialclass": "anomaly",
+      "typicalName":"imperialWarpgate",
+      "entities": [
+        {
+          "basetype": "stable_warpgate",
+          "locationVector": {
+            "x": -30,
+            "y": 60,
+            "z": 602
+          }
+        }
+      ],
+      "mobgangs": [
+        {
+          "gangtype": "imperial_band2",
+          "locationVector": {
+            "x": -70,
+            "y": 0,
+            "z": 90
+          }
+        }
+      ]
+    },
+
+
+  "imperialshipyard": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ancientGateA",
+        "locationVector": {
+          "x": -100,
+          "y": -10,
+          "z": 60
+        }
+      },
+      {
+        "basetype": "ruinedShipyardB",
+        "locationVector": {
+          "x": 120,
+          "y": 15,
+          "z": 360
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "imperial_force",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "imperialstaging": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ancientGateA",
+        "locationVector": {
+          "x": -100,
+          "y": -10,
+          "z": 60
+        }
+      },
+      {
+        "basetype": "ruinedShipyardB",
+        "locationVector": {
+          "x": 120,
+          "y": 15,
+          "z": 360
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "imperial_horde",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "ancientrelic": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ancientGateA",
+        "locationVector": {
+          "x": 120,
+          "y": 0,
+          "z": 10
+        }
+      }
+    ],
+    "mobgangs": [
+
+    ]
+  },
+
+  "abandonedshipyard": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": -80,
+          "y": 0,
+          "z": 10
+        }
+      },
+      {
+        "basetype": "ruinedShipyardB",
+        "locationVector": {
+          "x": 90,
+          "y": 0,
+          "z": -30
+        }
+      }
+    ],
+    "mobgangs": [
+
+    ]
+  },
+  "taintedshipyard": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedShipyardA",
+        "locationVector": {
+          "x": -80,
+          "y": 0,
+          "z": 10
+        }
+      },
+      {
+        "basetype": "ruinedShipyardB",
+        "locationVector": {
+          "x": 90,
+          "y": 0,
+          "z": -30
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "darkchild_squad",
+        "locationVector": {
+          "x": 100,
+          "y": 60,
+          "z": 50
+        }
+      }
+    ]
+  },
+  "abandonedwreckage": {
+    "celestialclass": "anomaly",
+    "typicalName": "Abandoned Wreckage",
+    "entities": [
+      {
+        "basetype": "ruinedStructure",
+        "locationVector": {
+          "x": -80,
+          "y": 0,
+          "z": 10
+        }
+      },
+      {
+        "basetype": "ruinedShip",
+        "locationVector": {
+          "x": 90,
+          "y": 0,
+          "z": -30
+        }
+      },
+      {
+        "basetype": "ruinedShip",
+        "locationVector": {
+          "x": 90,
+          "y": 20,
+          "z": -90
+        }
+      },
+      {
+        "basetype": "ruinedShip",
+        "locationVector": {
+          "x": 40,
+          "y": -10,
+          "z": 30
+        }
+      }
+    ],
+    "mobgangs": [
+
+    ]
+  },
+  "hiddenwreckage": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedStructure",
+        "locationVector": {
+          "x": -80,
+          "y": 0,
+          "z": 10
+        }
+      },
+      {
+        "basetype": "ruinedShip",
+        "locationVector": {
+          "x": 90,
+          "y": 0,
+          "z": -30
+        }
+      },
+      {
+        "basetype": "ruinedShip",
+        "locationVector": {
+          "x": 90,
+          "y": 20,
+          "z": -90
+        }
+      },
+      {
+        "basetype": "ruinedShip",
+        "locationVector": {
+          "x": 40,
+          "y": -10,
+          "z": 30
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_attackers",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+  "guardedwreckage": {
+    "celestialclass": "anomaly",
+    "typicalName": "Guarded Wreckage",
+    "entities": [
+      {
+        "basetype": "ruinedStructure",
+        "locationVector": {
+          "x": 80,
+          "y": -40,
+          "z": 120
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_wing",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+  "lostemple": {
+    "celestialclass": "anomaly",
+    "entities": [
+      {
+        "basetype": "ruinedStructure",
+        "locationVector": {
+          "x": 80,
+          "y": -40,
+          "z": 120
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "roguedrone_wing",
+        "locationVector": {
+          "x": 100,
+          "y": 0,
+          "z": 50
+        }
+      }
+    ]
+  },
+
+
+
+    "hivemindsquad": {
+      "celestialclass": "anomaly",
+      "typicalName":"Hivemind Squad",
+      "entities": [
+        {
+          "basetype": "artifactD",
+          "locationVector": {
+            "x": -30,
+            "y": 60,
+            "z": 60
+          }
+        }
+      ],
+      "mobgangs": [
+        {
+          "gangtype": "hivemind_squad",
+          "locationVector": {
+            "x": -70,
+            "y": 0,
+            "z": 290
+          }
+        }
+      ]
+    },
+
+
+
+
+        "hivemindbeacon": {
+          "celestialclass": "anomaly",
+          "typicalName":"Hivemind Beacon",
+          "entities": [
+            {
+              "basetype": "artifactE",
+              "locationVector": {
+                "x": -30,
+                "y": 60,
+                "z": -260
+              }
+            }
+          ],
+          "mobgangs": [
+            {
+              "gangtype": "hivemind_band",
+              "locationVector": {
+                "x": -70,
+                "y": 0,
+                "z": 290
+              }
+            }
+          ]
+        },
+
+
+        "hivemindagents": {
+          "celestialclass": "anomaly",
+          "typicalName":"Hivemind Agents",
+          "entities": [
+            {
+              "basetype": "ruinedShip",
+              "locationVector": {
+                "x": -30,
+                "y": 60,
+                "z": -60
+              }
+            }
+          ],
+          "mobgangs": [
+            {
+              "gangtype": "hivemind_agents",
+              "locationVector": {
+                "x": -70,
+                "y": 0,
+                "z": 290
+              }
+            }
+          ]
+        },
+
+
+  "deadspace_imperial_reconnaissance": {
+    "celestialclass": "deadspace",
+    "entities": [
+      {
+        "basetype": "destructible_imperialsignaltower",
+        "faction": "satoshislegion",
+        "locationVector": {
+          "x": 80,
+          "y": -40,
+          "z": -420
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "imperial_scouts",
+        "locationVector": {
+          "x": 200,
+          "y": 0,
+          "z": 350
+        }
+      }
+    ]
+  },
+
+
+  "deadspace_test_of_strength": {
+    "celestialclass": "deadspace",
+    "entities": [
+      {
+        "basetype": "planetA",
+        "locationVector": {
+          "x": 80,
+          "y": -40,
+          "z": -1620
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "deadspace_test_of_strength_A",
+        "locationVector": {
+          "x": 200,
+          "y": 0,
+          "z": 350
+        }
+      }
+    ]
+  },
+
+
+  "deadspace_the_replicants": {
+    "celestialclass": "deadspace",
+    "entities": [
+      {
+        "basetype": "destructible_replication_subfactory",
+        "faction": "synthetics",
+        "locationVector": {
+          "x": 380,
+          "y": 40,
+          "z": 220
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "deadspace_the_replicants_A",
+        "locationVector": {
+          "x": 200,
+          "y": 0,
+          "z": 350
+        }
+      }
+    ]
+  },
+
+  "deadspace_stopping_the_reinforcements": {
+    "celestialclass": "deadspace",
+    "entities": [
+      {
+        "basetype": "destructible_unpowered_warpgate",
+        "faction": "satoshislegion",
+        "locationVector": {
+          "x": 380,
+          "y": 40,
+          "z": 220
+        }
+      }
+    ],
+    "mobgangs": [
+      {
+        "gangtype": "deadspace_stopping_the_reinforcements_A",
+        "locationVector": {
+          "x": 200,
+          "y": 0,
+          "z": 350
+        }
+      }
+    ]
+  }
+
+
+
+
+
+
+
+}

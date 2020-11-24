@@ -1,0 +1,129 @@
+{
+  "campaigns": {
+    "onslaught": [
+      "imperial_reconnaissance",
+      "drone_technology",
+      "cargo_expansion",
+      "warfront_supplies",
+      "the_replicants",
+      "test_of_strength",
+      "stopping_the_reinforcements",
+      "sample_mission"
+    ]
+  },
+  "missions": {
+    "imperial_reconnaissance": {
+      "internalName": "imperial_reconnaissance",
+      "name": "Imperial Reconnaissance",
+      "description": "A group of hostile scouts from Satoshi's Legion has been spotted in this system, Antonopoulos. Destroy their encrypted signal beacon to prevent them from spying on our activities.  They are dangerously close to Ethereum Reach. ",
+      "encounterGridUUIDs": [ "c49dbf513cce000" ],
+      "prerequisites": { "has_completed_missions": [] },
+      "objectives": {
+        "kill_entitytype_in_grid_uuid": { "basetype": "destructible_imperialsignaltower", "gridUUID": "c49dbf513cce000" }
+      },
+      "rewards": { "send_matic": 1 },
+      "campaign_name": "onslaught"
+    },
+    "drone_technology": {
+      "internalName": "drone_technology",
+      "name": "Drone Technology",
+      "description": "Our researchers have been studying the laser technology of the Rogue Photon Cannons used by the drones in this region.  We believe that we can repurpose this technology in our fight against Satoshi's Legion. Bring us their metalscrap, tritium and nanocrystals to advance our research. ",
+      "encounterGridUUIDs": [],
+      "prerequisites": { "has_completed_missions": [ "imperial_reconnaissance" ] },
+      "objectives": {
+        "take_items": [
+          { "internalName": "metalscrap", "quantity": 20 },
+          { "internalName": "tritium", "quantity": 4 },
+          { "internalName": "nanocrystals", "quantity": 8 }
+        ]
+      },
+      "rewards": { "teach_blueprint": "smallpulselaser" },
+      "campaign_name": "onslaught"
+    },
+    "cargo_expansion": {
+      "internalName": "cargo_expansion",
+      "name": "Cargo Expansions",
+      "description": "Moving goods around the Infernal Galaxy can be a very profitable endeavour but also carries a great deal of risk. Bring me some metalscrap and reinforced armor plates and I will show you how to install a cargo expansion on your ship so that you can bring back more riches from space.",
+      "encounterGridUUIDs": [],
+      "prerequisites": { "has_completed_missions": [ "imperial_reconnaissance" ] },
+      "objectives": {
+        "take_items": [
+          { "internalName": "metalscrap", "quantity": 6 },
+          { "internalName": "reinforcedarmorplate", "quantity": 2 }
+        ]
+      },
+      "rewards": {
+        "teach_blueprint": "smallcargoexpansion",
+        "give_items": [ { "internalName": "smallcargoexpansion", "quantity": 1 } ]
+      },
+      "campaign_name": "onslaught"
+    },
+    "warfront_supplies": {
+      "internalName": "warfront_supplies",
+      "name": "Warfront Supplies",
+      "description": "The battles against The Hivemind have been in our favor.  One of our distant stations in the Valhalla system has a surplus of 400m3 of material that we can reclaim and produce into modules.  Go to the station in Valhalla and bring those supplies back here.",
+      "encounterGridUUIDs": [],
+      "prerequisites": { "has_completed_missions": [ "cargo_expansion" ] },
+      "initialization_items": [
+        {
+          "internalName": "warfront_supplies",
+          "quantity": 4,
+          "stationGridUUID": "c7c0a56269533000"
+        }
+      ],
+      "objectives": { "take_items": [ { "internalName": "warfront_supplies", "quantity": 4 } ] },
+      "rewards": { "teach_blueprint": "smallshieldextender" },
+      "campaign_name": "onslaught"
+    },
+    "the_replicants": {
+      "internalName": "the_replicants",
+      "name": "The Replicants",
+      "description": "The Replicants, also knows as the 'Synthetics', are an organized collective of robotic entities with highly advanced artificial intelligence; even surpassing our own.  Their numbers have grown out of control as they requisition metals and materials throughout the universe to multiply their forces ad infinitum.  Destroy their replication factory in Adastar.",
+      "encounterGridUUIDs": [ "ce7e1f47aecfa000" ],
+      "prerequisites": { "has_completed_missions": [ "drone_technology" ] },
+      "objectives": {
+        "kill_entitytype_in_grid_uuid": { "basetype": "destructible_replication_subfactory", "gridUUID": "ce7e1f47aecfa000" }
+      },
+      "rewards": { "teach_blueprint": "smallenergyvampire" },
+      "campaign_name": "onslaught"
+    },
+    "test_of_strength": {
+      "internalName": "test_of_strength",
+      "name": "Test of Strength",
+      "description": "Our radar has idenfitied a large force of Satoshi's Legion Warrior spacecraft; they are invading the Defi constellation!  Quickly, you must go to the Tarcq system and intercept their forces.  Bring me the frozen corpse of their squadron leader.",
+      "encounterGridUUIDs": [ "3e22760c09a3000" ],
+      "prerequisites": { "has_completed_missions": [ "drone_technology" ] },
+      "objectives": { "take_items": [ { "internalName": "squadron_leader_frozen_corpse", "quantity": 1 } ] },
+      "rewards": { "teach_blueprint": "satyr" },
+      "campaign_name": "onslaught"
+    },
+    "stopping_the_reinforcements": {
+      "internalName": "stopping_the_reinforcements",
+      "name": "Stopping The Reinforcements",
+      "description": "A forward scout has just spotted an unpowered jumpgate in the Hal solarsystem that can be used by Satoshi's Legion.  You must quickly destroy it before they reinforce it with their warriors. ",
+      "encounterGridUUIDs": [ "9e7c425653766000" ],
+      "prerequisites": { "has_completed_missions": [ "test_of_strength" ] },
+      "objectives": {
+        "kill_entitytype_in_grid_uuid": { "basetype": "destructible_unpowered_warpgate", "gridUUID": "9e7c425653766000" }
+      },
+      "rewards": { "teach_blueprint": "smallenergyneutralizer" },
+      "campaign_name": "onslaught"
+    },
+    "sample_mission": {
+      "internalName": "sample_mission",
+      "name": "Imperial Reconnaissance",
+      "description": "A group of hostile scouts from Satoshi's Legion has been spotted in this system. Destroy their encrypted signal beacon to prevent them from spying on our activities.  They are dangerously close to Ethereum Reach. ",
+      "prerequisites": { "has_completed_missions": [ "sample_mission" ] },
+      "objectives": {
+        "take_items": [ { "internalName": "metalscrap", "quantity": 1 } ],
+        "kill_entitytype_in_grid_uuid": { "basetype": "signal_beacon", "gridUUID": null }
+      },
+      "rewards": {
+        "teach_blueprint": null,
+        "give_items": [ { "internalName": "metalscrap", "quantity": 1 } ],
+        "send_matic": 0
+      },
+      "campaign_name": "onslaught"
+    }
+  }
+}

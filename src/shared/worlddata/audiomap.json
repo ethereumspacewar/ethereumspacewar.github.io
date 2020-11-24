@@ -1,0 +1,82 @@
+{
+  "warpin": {
+    "path":"LowBassHit2.wav"
+    },
+  "warpout": {
+    "path":"warp/warpout.wav"
+    },
+    "gatejump": {
+      "path":"warp/warpin.wav"
+      },
+    "lootitems": {
+      "path":"LootItems.wav"
+    },
+    "hullbreach": {
+      "path":"voice/hullbreach.wav"
+    },
+    "lockingjammed": {
+      "path":"voice/lockingjammed.wav"
+    },
+    "lockingincomplete": {
+      "path":"voice/incompletelock.wav"
+    },
+    "neutralized": {
+      "path":"voice/neutralized.wav"
+    },
+    "outofrange": {
+      "path":"voice/outofrange.wav"
+    },
+    "permissiondenied": {
+      "path":"voice/permissiondenied.wav"
+    },
+    "requestaccepted": {
+      "path":"voice/requestaccepted.wav"
+    },
+    "shieldcoreunstable": {
+      "path":"voice/shieldcoreunstable.wav"
+    },
+    "transmitdockingrequest": {
+      "path":"voice/transmitdockingrequest.wav"
+    },
+    "warpdriveactive": {
+      "path":"voice/warpdriveactive3.wav"
+    },
+    "warpcoreunstable": {
+      "path":"voice/warpcoreunstable.wav"
+    },
+    "locking": {
+      "path":"combat/locking.wav"
+    },
+    "explosion_medium": {
+      "path":"combat/explosion_medium.wav"
+    },
+    "dramatic_laser": {
+      "path":"weapons/DramaticLaser.wav"
+    },
+    "tiny_laser": {
+      "path":"weapons/TinyLaser.wav"
+    },
+    "definite_shot": {
+      "path":"weapons/DefiniteShot.wav"
+    },
+    "impact_shot": {
+      "path":"weapons/ImpactShot.wav"
+    },
+    "rocket_shot": {
+      "path":"weapons/RocketShot.wav"
+    },
+    "hard_shot": {
+      "path":"weapons/HardShot.wav"
+    },
+    "missile_launch": {
+      "path":"weapons/MissileLaunch.wav"
+    },
+    "small_rocket": {
+      "path":"weapons/SmallRocket.wav"
+    },
+    "electric_laser": {
+      "path":"weapons/ElectricLaser.wav"
+    }
+
+
+}

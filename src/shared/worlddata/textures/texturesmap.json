@@ -1,0 +1,25 @@
+{
+  "targetlock": {
+    "path":"ui/targetlock2.png"
+    } ,
+  "targetlock_green": {
+    "path":"ui/targetlock2_green.png"
+    } ,
+
+  "materials_sheet": {
+    "path":"icon_sheets/materials_sheet.jpg"
+  },
+  "modules_sheet": {
+    "path":"icon_sheets/modules_sheet.jpg"
+  },
+  "weapons_sheet": {
+    "path":"icon_sheets/weapons_sheet.jpg"
+  },
+  "explosions_1": {
+    "path":"sprites/explo1.png"
+  },
+  "explosions_2": {
+    "path":"sprites/explo2.png"
+  }
+
+}

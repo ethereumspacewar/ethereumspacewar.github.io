@@ -1,0 +1,568 @@
+{
+  "metalscrap": {
+    "internalName":"metalscrap",
+    "name":"Metal Scrap",
+    "description":"One cubic meter of salvaged metal from outer space.",
+    "iconName": "metalscrap",
+    "volume": 1,
+    "itemClass": "commodity"
+  },
+  "vanadium": {
+    "internalName":"vanadium",
+    "name":"Vanadium",
+    "description":"An uncommon silvery-grey transition metal. Useful for producing space-grade weapons and armor.",
+    "iconName": "vanadium",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "tritium": {
+    "internalName":"tritium",
+    "name":"Tritium",
+    "description":"A rare radioactive isotope of hydrogen. A Powerful source of energy for fusion reactions.",
+    "iconName": "tritium",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "uranium": {
+    "internalName":"uranium",
+    "name":"Uranium",
+    "description":"A rare unstable metal, offering superb power density in high powered applications.",
+    "iconName": "uranium",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "nanocrystals": {
+    "internalName":"nanocrystals",
+    "name":"Nano Crystals",
+    "description":"Microscopic crystalline microstructures ideal for producing nanobots and wetware.",
+    "iconName": "nanocrystals",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "ionizedfluid": {
+    "internalName":"ionizedfluid",
+    "name":"Ionized Fluid",
+    "description":"A blend of synthetic fluid with properties ideal for electromechanical engineering.",
+    "iconName": "ionizedfluid",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "plasmids": {
+    "internalName":"plasmids",
+    "name":"Plasmids",
+    "description":"Soluble mutagenic fluids ideal for bio-engineering.",
+    "iconName": "plasmids",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "hexinite": {
+    "internalName":"hexinite",
+    "name":"Hexinite",
+    "description":"A rare metal that can only be mined from deep within the cores of barren planets.",
+    "iconName": "hexinite",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+  "antimatter": {
+    "internalName":"antimatter",
+    "name":"Antimatter",
+    "description":"Highly dangerous antimatter, capable of producing unfathomable amounts of energy if combined with matter.",
+    "iconName": "antimatter",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+
+
+  "carbonizedmembranes": {
+    "internalName":"carbonizedmembranes",
+    "name":"Carbonized Membranes",
+    "description":"Hardened and woven nano-membrane material, able to protect against radiation and extreme temperature.",
+    "iconName": "membranes",
+    "volume": 2,
+    "itemClass": "commodity"
+  },
+
+
+
+  "datachip_kraken": {
+    "internalName":"datachip_kraken",
+    "name":"Datachip: Kraken",
+    "description":"An encrypted datachip containing the design for a new spacecraft.",
+    "iconName": "datachip",
+    "volume": 0,
+    "itemClass": "datachip"
+  },
+
+
+  "datachip_virus": {
+    "internalName":"datachip_virus",
+    "name":"Datachip: Virus",
+    "description":"An encrypted datachip containing the design for a new spacecraft.",
+    "iconName": "datachip",
+    "volume": 0,
+    "itemClass": "datachip"
+  },
+
+
+  "squadron_leader_frozen_corpse":{
+    "internalName":"squadron_leader_frozen_corpse",
+    "name":"Squadron Leader's Frozen Corpse",
+    "description":"The corpse of a former squadron leader for the Satoshi's Imperial Legion.",
+    "iconName": "frozen_corpse",
+    "volume": 0,
+    "itemClass": "missionitem"
+  },
+
+    "warfront_supplies":{
+      "internalName":"warfront_supplies",
+      "name":"Warfront Supplies",
+      "description":"Surplus material from salvaged ships.",
+      "iconName": "supplies",
+      "volume": 100,
+      "itemClass": "missionitem"
+    },
+
+
+  "supercapacitor": {
+    "internalName":"supercapacitor",
+    "name":"Supercapacitor",
+    "description":"A highly-engineered energy storage device, able to store and release gigajoules of energy instantaneously.",
+    "iconName": "capacitor",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "fuelcell": {
+    "internalName":"fuelcell",
+    "name":"Fuel Cell",
+    "description":"A long-term and portable fuel cell for energy storage in starships.",
+    "iconName": "fuelcell",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "energycore": {
+    "internalName":"energycore",
+    "name":"Energy Core",
+    "description":"The primary energy repository for any capable starship.",
+    "iconName": "energycore",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "warpcore": {
+    "internalName":"warpcore",
+    "name":"Warp Core",
+    "description":"A primary warp drive core for starships, able to achieve faster-than-light travel.",
+    "iconName": "warpcore",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "shieldbattery": {
+    "internalName":"shieldbattery",
+    "name":"Shield Battery",
+    "description":"A modulated energy bank optimized for defensive shield systems.",
+    "iconName": "shieldbattery",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "integratedcpu": {
+    "internalName":"integratedcpu",
+    "name":"Integrated CPU",
+    "description":"An overclocked micro-processor able to synchronize additional ship modules with a hull.",
+    "iconName": "integratedcpu",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "reinforcedarmorplate": {
+    "internalName":"reinforcedarmorplate",
+    "name":"Reinforced Armor Plate",
+    "description":"Carbonized shell plating ready to install on a starship hull for ample protection against the hazards of deep space.",
+    "iconName": "metalplate",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "fluxreactor": {
+    "internalName":"fluxreactor",
+    "name":"Flux Reactor",
+    "description":"Modified chemical reaction unit capable of generating high amounts of power for a limited time.",
+    "iconName": "fluxreactor",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "fusionreactor": {
+    "internalName":"fusionreactor",
+    "name":"Fusion Reactor",
+    "description":"Radioactive phenomenon reaction unit capable of generating enormous amounts of power for powering large modules and spacecraft.",
+    "iconName": "fusionreactor",
+    "volume": 2,
+    "itemClass": "component"
+  },
+  "teslacoil": {
+    "internalName":"teslacoil",
+    "name":"Tesla Coil",
+    "description":"A powerful magnetic field generator that consume large amounts of energy.",
+    "iconName": "teslacoil",
+    "volume": 2,
+    "itemClass": "component"
+  },
+
+
+
+
+
+
+
+
+
+
+  "devcannon": {
+    "internalName":"devcannon",
+    "name":"Dev Cannon",
+    "iconName": "laser1",
+    "volume": 1,
+    "itemClass": "equipment"
+  },
+
+
+  "roguephotoncannon": {
+    "internalName":"roguephotoncannon",
+    "name":"Rogue Photon Cannon",
+    "iconName": "laser1",
+    "volume": 1,
+    "itemClass": "equipment"
+  },
+
+  "roguebarragecannon": {
+    "internalName":"roguebarragecannon",
+    "name":"Rogue Barrage Cannon",
+    "iconName": "laser1",
+    "volume": 1,
+    "itemClass": "equipment"
+  },
+
+  "roguerailgun": {
+    "internalName":"roguerailgun",
+    "name":"Rogue Railgun",
+    "iconName": "laser1",
+    "volume": 1,
+    "itemClass": "equipment"
+  },
+
+
+
+  "rogueminigun": {
+    "internalName":"rogueminigun",
+    "name":"Rogue Minigun",
+    "iconName": "laser1",
+    "volume": 1,
+    "itemClass": "equipment"
+  },
+
+  "roguebomblauncher": {
+    "internalName":"roguebomblauncher",
+    "name":"Rogue Bomb Launcher",
+    "iconName": "laser1",
+    "volume": 1,
+    "itemClass": "equipment"
+  },
+
+  "civiliancannon": {
+    "internalName":"civiliancannon",
+    "name":"Civilian Cannon",
+    "iconName": "laser1",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+
+
+
+
+  "lightrailgun": {
+    "internalName":"lightrailgun",
+    "name":"Light Railgun",
+    "iconName": "laser1",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+    "antimatterrailcannon": {
+      "internalName":"antimatterrailcannon",
+      "name":"Antimatter Railcannon",
+      "iconName": "laser1",
+      "volume": 15,
+      "itemClass": "equipment"
+    },
+
+
+
+  "hypercannon": {
+    "internalName":"hypercannon",
+    "name":"Hypercannon",
+    "iconName": "laser1",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+  "lightmissilebay": {
+    "internalName":"lightmissilebay",
+    "name":"Light Missile Bay",
+    "iconName": "weapon_missiles",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+  "vectormissilebay": {
+    "internalName":"vectormissilebay",
+    "name":"Vector Missile Bay",
+    "iconName": "weapon_missiles",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+
+
+  "rapidrocketlauncher": {
+    "internalName":"rapidrocketlauncher",
+    "name":"Rapid Rocket Launcher",
+    "iconName": "weapon_rockets",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+
+
+  "gatlingcannon": {
+    "internalName":"gatlingcannon",
+    "name":"Gatling Cannon",
+    "iconName": "weapon_smallcannon",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+  "smallpulselaser": {
+    "internalName":"smallpulselaser",
+    "name":"Small Pulse Laser",
+    "iconName": "weapon_smallcannon",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+  "smallenergyneutralizer": {
+    "internalName":"smallenergyneutralizer",
+    "name":"Small Energy Neutralizer",
+    "iconName": "neutralizer",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+
+    "smallenergyvampire": {
+      "internalName":"smallenergyvampire",
+      "name":"Small Energy Vampire",
+      "iconName": "energyvampire",
+      "volume": 5,
+      "itemClass": "equipment"
+    },
+
+  "mediumenergyneutralizer": {
+    "internalName":"mediumenergyneutralizer",
+    "name":"Medium Energy Neutralizer",
+    "iconName": "neutralizer",
+    "volume": 15,
+    "itemClass": "equipment"
+  },
+
+
+  "smallshieldregenerator": {
+    "internalName":"smallshieldregenerator",
+    "name":"Small Shield Regenerator",
+    "iconName": "shieldregenerator",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+  "smallshieldrecharger": {
+    "internalName":"smallshieldrecharger",
+    "name":"Small Shield Recharger",
+    "iconName": "shieldrecharger",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+  "smallbatteryrecharger": {
+    "internalName":"smallbatteryrecharger",
+    "name":"Small Battery Recharger",
+    "iconName": "batteryrecharger",
+    "volume": 5,
+    "itemClass": "equipment"
+  },
+
+
+  "smallcapacitorbank": {
+    "internalName":"smallcapacitorbank",
+    "name":"Small Capacitor Bank",
+    "iconName": "capacitorbank",
+    "volume": 2,
+    "itemClass": "equipment"
+  },
+
+
+  "smallcoprocessor": {
+    "internalName":"smallcoprocessor",
+    "name":"Small Co-Processor",
+    "iconName": "coprocessor",
+    "volume": 2,
+    "itemClass": "equipment"
+  },
+
+
+  "smallcargoexpansion": {
+    "internalName":"smallcargoexpansion",
+    "name":"Small Cargo Expansion",
+    "iconName": "cargoexpansion",
+    "volume": 2,
+    "itemClass": "equipment"
+  },
+
+  "atomicpropulsor": {
+    "internalName":"atomicpropulsor",
+    "name":"Atomic Propulsor",
+    "iconName": "thruster1",
+    "volume": 2,
+    "itemClass": "equipment"
+  },
+  "atomicoverdrive": {
+    "internalName":"atomicoverdrive",
+    "name":"Atomic Overdrive",
+    "iconName": "thruster1",
+    "volume": 6,
+    "itemClass": "equipment"
+  },
+
+
+
+  "smallstasiswebifier": {
+    "internalName":"smallstasiswebifier",
+    "name":"Small Statis Webifier",
+    "iconName": "webifier",
+    "volume": 2,
+    "itemClass": "equipment"
+  },
+
+  "warpcoredisruptor": {
+    "internalName":"warpcoredisruptor",
+    "name":"Warpcore Disruptor",
+    "iconName": "disruptor",
+    "volume": 2,
+    "itemClass": "equipment"
+  },
+
+  "basicarmorplating": {
+    "internalName":"basicarmorplating",
+    "name":"Basic Armor Plating",
+    "iconName": "armor1",
+    "volume": 3,
+    "itemClass": "equipment"
+  },
+
+  "heavyarmorplating": {
+    "internalName":"heavyarmorplating",
+    "name":"Heavy Armor Plating",
+    "iconName": "armor2",
+    "volume": 3,
+    "itemClass": "equipment"
+  },
+
+
+    "smallshieldextender": {
+      "internalName":"smallshieldextender",
+      "name":"Small Shield Extender",
+      "iconName": "shieldextender",
+      "volume": 2,
+      "itemClass": "equipment"
+    },
+
+
+    "capsule": {
+      "internalName":"capsule",
+      "name":"capsule",
+      "iconName": "ship_ethereum",
+      "volume": 50,
+      "itemClass": "ship"
+    },
+
+
+
+  "nymph": {
+    "internalName":"nymph",
+    "name":"nymph",
+    "description":"Developed by the Hydra DAO to decimate roguedrones, the nymph is designed for long-range combat sporting augmented sensors and module hardpoints.",
+
+    "iconName": "ship_ethereum",
+    "volume": 250,
+    "itemClass": "ship"
+  },
+
+  "sprite": {
+    "internalName":"sprite",
+    "name":"sprite",
+    "description":"Specifically tuned for close and mid-range combat, the sprite is light, fast, and has modulated shields to mount a fortified attack.",
+
+    "iconName": "ship_ethereum",
+    "volume": 250,
+    "itemClass": "ship"
+  },
+
+
+  "katana": {
+    "internalName":"katana",
+    "name":"Katana",
+    "description":"The fearsome Katana is the mainstay of Satoshi's Imperial Legion. This well-rounded fighter excels at mid-range combat and offers a mix of agility and strength.",
+
+    "iconName": "ship_imperial",
+    "volume": 250,
+    "itemClass": "ship"
+  },
+
+
+    "virus": {
+      "internalName":"virus",
+      "name":"Virus",
+      "description":"A ship design originating from Synth replication factories, the Virus is a pestilent destroyer with bonuses to warpcore disruption and stasis webifier range projection.",
+      "iconName": "ship_synthetic",
+      "volume": 250,
+      "itemClass": "ship"
+    },
+
+  "satyr": {
+    "internalName":"satyr",
+    "name":"Satyr",
+    "description":"The hallmark of the Children of Ethereum, the Satyr is an agile and deadly destroyer with an affinity for missile launchers.",
+    "iconName": "ship_ethereum",
+    "volume": 250,
+    "itemClass": "ship"
+  },
+
+
+  "hedron": {
+    "internalName":"hedron",
+    "name":"Hedron",
+    "description":"The Children of Ethereum's Hedron Transport is well known throught the Galaxy as a capable and spacious hauler, most capable of secure logistics operations.",
+    "iconName": "ship_ethereum",
+    "volume": 750,
+    "itemClass": "ship"
+  },
+
+
+  "kraken": {
+    "internalName":"kraken",
+    "name":"Kraken",
+    "description":"The flagship battlecruiser of the Darkchild's rebellion, the Kraken is a fearsome and heavily defended warship.  What it lacks in speed, it makes up for in firepower and sustainability.",
+    "iconName": "ship_ethereum",
+    "volume": 950,
+    "itemClass": "ship"
+  }
+
+
+
+
+}

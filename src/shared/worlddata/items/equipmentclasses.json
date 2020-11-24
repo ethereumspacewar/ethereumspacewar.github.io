@@ -1,0 +1,45 @@
+{
+  "projectileweapon": {
+    "name":"Projectile Weapon"
+  },
+  "energyweapon": {
+    "name":"Energy Weapon"
+  },
+  "hybridweapon": {
+    "name":"Hybrid Weapon"
+  },
+  "explosiveweapon": {
+    "name":"Explosive Weapon"
+  },
+ 
+  "missilebay": {
+    "name":"Missile Bay"
+  },
+  "neutralizer": {
+    "name":"Neutralizer"
+  },
+  "shieldmod": {
+    "name":"Shield Mod"
+  },
+  "batterymod": {
+    "name":"Battery Mod"
+  },
+  "computermod": {
+    "name":"Computer Mod"
+  },
+  "armormod": {
+    "name":"Armor Mod"
+  },
+  "cargomod": {
+    "name":"Cargo Mod"
+  },
+  "propulsionmod": {
+    "name":"Propulsion Mod"
+  },
+  "disruptor": {
+    "name":"Disruptor"
+  },
+  "webifier": {
+    "name":"Webifier"
+  }
+}

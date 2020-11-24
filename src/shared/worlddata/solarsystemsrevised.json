@@ -1,0 +1,3453 @@
+{
+  "solarsystems": {
+    "antonopoulos": {
+      "name": "antonopoulos",
+      "constellation": "defi",
+      "security": 9,
+      "systemLocationVector": { "x": 44, "y": -8, "z": -54 },
+      "celestials": [
+        "02900cd84abaa991",
+        "d60c57c1fb1ab000",
+        "1e5509521deb2000",
+        "2c22bb644d0e5000",
+        "f28d20858b419000",
+        "45b533c78dc99000",
+        "c49dbf513cce000",
+        "1d329ceaca82d000",
+        "7d343ca61a65e000",
+        "d05d64eecce3c000",
+        "ade8fb116221f000"
+      ]
+    },
+    "llarval": {
+      "name": "llarval",
+      "constellation": "defi",
+      "security": 8,
+      "systemLocationVector": { "x": -230, "y": 11, "z": 42 },
+      "celestials": [
+        "ddff5b7dedba8000",
+        "c545f8fca6b75000",
+        "8605e2ae9951a000",
+        "1ac02a6442ac8000",
+        "f0cc105f08608000",
+        "9b4220629f8b3000",
+        "6286d29bf243a000",
+        "c9cf649f814be000",
+        "911d3dca8967e000",
+        "63a250770181d000"
+      ]
+    },
+    "rekkt": {
+      "name": "rekkt",
+      "constellation": "unikron",
+      "security": 4,
+      "systemLocationVector": { "x": 145, "y": 4, "z": 55 },
+      "celestials": [
+        "f786522382fca000",
+        "36092f8f1bb2b000",
+        "90bcbf040b0f000",
+        "d4c67c2d59d99000",
+        "5caeb75ce0a5c000",
+        "44c8ea617e3af000"
+      ]
+    },
+    "the circle": {
+      "name": "the circle",
+      "security": 9,
+      "constellation": "defi",
+      "systemLocationVector": { "x": 0, "y": 0, "z": 0 },
+      "celestials": [
+        "86dbca36ab49ae87",
+        "3a18a44ca7cc6000",
+        "98c0a73939c77000",
+        "3b6b923ef133b000",
+        "ff2af40d747a8000",
+        "41875596b50b7000",
+        "10653deb47912000",
+        "c8ac6843b629f000",
+        "322d5d0287c77000",
+        "bafc0e7c76902000",
+        "9217ece94c38b000"
+      ]
+    },
+    "v-ii": {
+      "name": "v-ii",
+      "security": 7,
+      "constellation": "defi",
+      "systemLocationVector": { "x": 45, "y": 13, "z": 150 },
+      "celestials": [
+        "7ddd26899fd19000",
+        "361c0d2091b08f0c",
+        "2d8108957a0ba000",
+        "818eb10efd548000",
+        "fa2f6c4d34daf000",
+        "b0416f1b8a028000",
+        "f1fec6cf1e82f000",
+        "862bd583d165000"
+      ]
+    },
+    "cerberus": {
+      "name": "cerberus",
+      "security": 7,
+      "constellation": "defi",
+      "systemLocationVector": { "x": -220, "y": -20, "z": -310 },
+      "celestials": [
+        "a2d5decccae22000",
+        "a125f9e4fad7b000",
+        "bbefeacd31081000",
+        "5920e7c20250a000",
+        "5577ee2d5a600000"
+      ]
+    },
+    "hallow": {
+      "name": "hallow",
+      "security": 7,
+      "constellation": "defi",
+      "systemLocationVector": { "x": -270, "y": 10, "z": -210 },
+      "celestials": [
+        "2d026a083457e000",
+        "bafca5c13f00c000",
+        "e77b59126c1ad000",
+        "dc5cdef985637000",
+        "3620d6cd69232000",
+        "110df5eb10385000",
+        "2c286a1df413000",
+        "fd660195a6b43000"
+      ]
+    },
+    "the void": {
+      "name": "the void",
+      "security": 4,
+      "constellation": "defi",
+      "systemLocationVector": { "x": -370, "y": 40, "z": -160 },
+      "celestials": [
+        "54e77e3e457e6000",
+        "86b8ed416a90b000",
+        "bf28eaaac84b9000",
+        "b58e38dce1aaf000",
+        "a9955236a801b000",
+        "20d1f0ee6b1a2000"
+      ]
+    },
+    "misery": {
+      "name": "misery",
+      "security": 3,
+      "constellation": "defi",
+      "systemLocationVector": { "x": -320, "y": 20, "z": -260 },
+      "celestials": [
+        "6f73899c2577d000",
+        "7dace43c72c51000",
+        "b70844558e0f7000",
+        "c148f9ed78c69000",
+        "357796bf08f36000",
+        "6e4facaebb8eb000",
+        "ff26251e5f4e4000"
+      ]
+    },
+    "tarcq": {
+      "name": "tarcq",
+      "security": 8,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 220, "y": -10, "z": -60 },
+      "celestials": [
+        "de67d87c2cc64000",
+        "8f06e45531d66000",
+        "78aea25575e7e000",
+        "775a09002710000",
+        "266b1dbd3f191000",
+        "d5d7f2f8413b8000",
+        "4ed285d6d2e87000",
+        "3e22760c09a3000",
+        "7b90bb5f4006b000",
+        "9e1f164ec4368000",
+        "84773d5c0f457000"
+      ]
+    },
+    "majora minor": {
+      "name": "majora minor",
+      "security": 6,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 410, "y": -10, "z": 30 },
+      "celestials": [
+        "91029c3f360f9000",
+        "23db82f92238000",
+        "49e660ea01397000",
+        "90bcc3fb8a803000",
+        "9be6e3738b834000",
+        "c634a22a3eaf3000",
+        "16fcf9d039449000",
+        "6bdaaa8f36153000"
+      ]
+    },
+    "mikers": {
+      "name": "mikers",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 610, "y": 40, "z": 120 },
+      "celestials": [
+        "118b15c5aea24000",
+        "8c6dbef8df46000",
+        "ff018999e1c9b000",
+        "1ea3907f942a8000",
+        "bd3c09e3c52c4000",
+        "de4a2405fe5d3000",
+        "de9d414909743000",
+        "b7140378cbec000",
+        "bf4fe2f82af6000"
+      ]
+    },
+    "adastar": {
+      "name": "adastar",
+      "security": 6,
+      "constellation": "synthesis",
+      "systemLocationVector": { "x": 510, "y": 40, "z": 320 },
+      "celestials": [
+        "4da2c8ad9b805000",
+        "a6dac85fb6845000",
+        "fc5122db8b461000",
+        "3041276098694000",
+        "957385bcf11b1000",
+        "674eca284864f000",
+        "ce7e1f47aecfa000",
+        "66e3083052370000"
+      ]
+    },
+    "synthesis": {
+      "name": "synthesis",
+      "security": 8,
+      "constellation": "synthesis",
+      "systemLocationVector": { "x": 640, "y": 20, "z": 720 },
+      "celestials": [
+        "8239f4c0a4c77000",
+        "2f5065eac6e8e000",
+        "fa637f623f614000",
+        "ad3b9dc715719000",
+        "afd5016261af0000",
+        "35601645cf08c000",
+        "ca4f023cf441b000",
+        "ca69beac3118b000",
+        "3ad76eee98e22000"
+      ]
+    },
+    "orwyn": {
+      "name": "orwyn",
+      "security": 8,
+      "constellation": "synthesis",
+      "systemLocationVector": { "x": 720, "y": -20, "z": 410 },
+      "celestials": [
+        "33cc3c1c7585000",
+        "f03637236332b000",
+        "9d6c71b106dbb000",
+        "cfc2ef5045518000",
+        "45a39285d1896000",
+        "327047299f0b4000",
+        "4598328094048000",
+        "d84df9b690a74000",
+        "56b3ca8e2acaf000"
+      ]
+    },
+    "zero-x": {
+      "name": "zero-x",
+      "security": 8,
+      "constellation": "defi",
+      "systemLocationVector": { "x": 880, "y": -40, "z": 210 },
+      "celestials": [
+        "2ee438fa6663000",
+        "f555eea041331000",
+        "3038a04754a5000",
+        "a9a026cdc992c000",
+        "ccb91a20adaaa000"
+      ]
+    },
+    "turbulensa": {
+      "name": "turbulensa",
+      "security": 8,
+      "constellation": "defi",
+      "systemLocationVector": { "x": -480, "y": -40, "z": 210 },
+      "celestials": [
+        "3b37fb748a968000",
+        "9cfff82e84db7000",
+        "318ac016e68f5000",
+        "82eb741aa4d9f000",
+        "3ae1ad174b3a000",
+        "c61db3c4ab071000",
+        "ac730232a165e000"
+      ]
+    },
+    "szabo": {
+      "name": "szabo",
+      "security": 6,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": -380, "y": -40, "z": 910 },
+      "celestials": [
+        "92b9566217962000",
+        "56b98a1eb3aea000",
+        "2d876a867da86000",
+        "d2e40a7c53dbc000",
+        "29fe389094759000",
+        "3b290fc4e93e5000",
+        "1ba77d5497f49000",
+        "41b0194928c93000",
+        "9178f73a65e39000",
+        "5e2913f8ce629000"
+      ]
+    },
+    "satoshi": {
+      "name": "satoshi",
+      "security": 8,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": -580, "y": -40, "z": 740 },
+      "celestials": [
+        "f2903ac6b27fa000",
+        "ab4ebfa6e9e4f000",
+        "f3c155023da64000",
+        "9e894f0ac75eb000",
+        "9653927f5d842000",
+        "80bb05758ee09000",
+        "4d6455814cb76000"
+      ]
+    },
+    "hal": {
+      "name": "hal",
+      "security": 7,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": -440, "y": -40, "z": 510 },
+      "celestials": [
+        "fcce964138e95000",
+        "aa8055b19aab6000",
+        "3b953c9dd40ae000",
+        "da62790ec1857000",
+        "672a1793fa9d9000",
+        "433fadba37f8d000",
+        "f5ccdbf5206e1000",
+        "4859123ed3020000",
+        "a63258dcb0bca000",
+        "3a52eb63d4708000",
+        "9e7c425653766000",
+        "f5375d431063c000",
+        "e963d12cab204000",
+        "6e2e027784798000",
+        "19b271971bee3000"
+      ]
+    },
+    "azlehria": {
+      "name": "azlehria",
+      "security": 7,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": -340, "y": -40, "z": 810 },
+      "celestials": [
+        "6656ab556c40d000",
+        "cf2939e3bf6fa000",
+        "44622522dbeac000",
+        "e5adb35edfb40000",
+        "e1ba92ad5f3c4000",
+        "9812712813648000",
+        "2f9a17ef3443a000",
+        "603b25b658cad000",
+        "ebcb2ca418c74000"
+      ]
+    },
+    "m-vis": {
+      "name": "m-vis",
+      "security": 8,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": -140, "y": -40, "z": 910 },
+      "celestials": [
+        "ab57aa67668a8000",
+        "940ce5d2ef23f000",
+        "edbff0b38507d000",
+        "687fff61efdf000",
+        "cab09b726e72000",
+        "93fab85913eca000",
+        "b294c53b9628b000",
+        "8c8d3261f5ef6000",
+        "a57f810c1448e000",
+        "6cc3d239c2a81000",
+        "57f605007817e000",
+        "dc3375d1597d1000",
+        "54aeb81dbcbe000"
+      ]
+    },
+    "shiba": {
+      "name": "shiba",
+      "security": 7,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": 340, "y": -20, "z": 870 },
+      "celestials": [ "5a84d6ed8f0cc000", "d13bf5b83fad2000" ]
+    },
+    "snarks": {
+      "name": "snarks",
+      "security": 5,
+      "constellation": "legacy",
+      "systemLocationVector": { "x": 220, "y": -20, "z": 1270 },
+      "celestials": [ "bc59f8840cf90000" ]
+    },
+    "serenity": {
+      "name": "serenity",
+      "security": 8,
+      "constellation": "node",
+      "systemLocationVector": { "x": 620, "y": 0, "z": 990 },
+      "celestials": [
+        "f41b430c2f4b3000",
+        "e582f0d42ec2000",
+        "d5fb233692666000",
+        "170369f4beb00000",
+        "10c987da9fc47000",
+        "9a757a230af4b000"
+      ]
+    },
+    "the fringe": {
+      "name": "the fringe",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 170, "y": -40, "z": -610 },
+      "celestials": [
+        "f6467db43bd45000",
+        "fc8ed5d35f308000",
+        "bac47e5ec07f0000",
+        "b7bbde7392ed6000",
+        "a947332b01210000",
+        "d3c9c1f709d2c000",
+        "8af1a17b597cd000",
+        "75ff0ca104193000",
+        "1bb6930d1fda1000"
+      ]
+    },
+    "hex": {
+      "name": "hex",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 370, "y": -20, "z": -310 },
+      "celestials": [
+        "a2e620201bb3000",
+        "1a7349f69dec8000",
+        "f6d6b561e7563000",
+        "390b2d12241fe000",
+        "122a0444e43d3000",
+        "77b5a01a4995000",
+        "7632fe3f24167000"
+      ]
+    },
+    "erebus": {
+      "name": "erebus",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 320, "y": -20, "z": -810 },
+      "celestials": [
+        "ff83d9947835000",
+        "a3232fecd40e000",
+        "4c61a37408e4e000",
+        "f1967826264a8000",
+        "73e142911422e000",
+        "8b4e4551294fc000",
+        "83ae439094001000",
+        "9d3bd447f10e8000"
+      ]
+    },
+    "frontier": {
+      "name": "frontier",
+      "security": 3,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 820, "y": -20, "z": -610 },
+      "celestials": [
+        "887b2d3a989b000",
+        "b53bcc5f5993c000",
+        "101f572378bcc000",
+        "acf6d90cc7f72000",
+        "496a14becffd2000",
+        "f7ddfcc7ab8d5000",
+        "cfc46ba429e49000",
+        "522476f7bb703000"
+      ]
+    },
+    "metropolis": {
+      "name": "metropolis",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 620, "y": -20, "z": -570 },
+      "celestials": [
+        "3aa3beea3b9e7000",
+        "6c7d8bda979a000",
+        "9939c778c3eca000",
+        "d02f42762fe4e000",
+        "5e93c78035091000",
+        "c67b88944b56a000",
+        "27c6618dcdfc4000"
+      ]
+    },
+    "valhalla": {
+      "name": "valhalla",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 720, "y": -20, "z": -970 },
+      "celestials": [
+        "c7c0a56269533000",
+        "d4933f465f9ca000",
+        "9e1c4f7c51c1e000",
+        "f53d057fe5f66000",
+        "89c7d4ab33e2e000"
+      ]
+    },
+    "quanta": {
+      "name": "quanta",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 220, "y": 0, "z": -1100 },
+      "celestials": [
+        "d66c034ade104000",
+        "1d5219b19c1da000",
+        "da09ed322b9b4000",
+        "22e18d33c293f000",
+        "46bc7e80b6a6d000",
+        "d59fa64c784f3000",
+        "5ed0ff48ec763000"
+      ]
+    },
+    "insidia": {
+      "name": "insidia",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 920, "y": -20, "z": -410 },
+      "celestials": [
+        "22d0746bb231c000",
+        "db888b4b9accc000",
+        "ddbef27c4a9b4000",
+        "8cf8a3cc08712000",
+        "9590787c8a680000",
+        "7c48e43da5e4e000",
+        "1408864e85a82000"
+      ]
+    },
+    "the valley": {
+      "name": "the valley",
+      "security": 5,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 950, "y": -20, "z": -610 },
+      "celestials": [
+        "6ee4e5fd18539000",
+        "e5e99ecdc38d6000",
+        "79b1243ade517000",
+        "223bf6185d13b000",
+        "94dfcb2e1ccf0000",
+        "e6bdeb51be11c000"
+      ]
+    },
+    "amethyst": {
+      "name": "amethyst",
+      "security": 4,
+      "constellation": "nomad",
+      "systemLocationVector": { "x": 750, "y": -20, "z": -1110 },
+      "celestials": [
+        "e67dd658cacb0000",
+        "2c5878192da09000",
+        "35d3abc9043d000",
+        "4c2cf6899b9b8000",
+        "f9ab255a467a000"
+      ]
+    },
+    "uruk": {
+      "name": "uruk",
+      "security": 3,
+      "constellation": "nomad",
+      "systemLocationVector": { "x": 650, "y": -20, "z": -1310 },
+      "celestials": [ "9aa7338815e8a000", "a487d59dc4aec000", "c7479e3e55077000" ]
+    },
+    "mode": {
+      "name": "mode",
+      "security": 2,
+      "constellation": "nomad",
+      "systemLocationVector": { "x": 1150, "y": -20, "z": -1310 },
+      "celestials": [ "a53d498298073000", "a2d68fda54722000", "398a42a7704f7000", "a6be9afe8ed17000" ]
+    },
+    "vorta": {
+      "name": "vorta",
+      "security": 2,
+      "constellation": "the arc",
+      "systemLocationVector": { "x": 1050, "y": -40, "z": -1210 },
+      "celestials": [
+        "4655ba78976d3000",
+        "bdf03bb2f3076000",
+        "81eca331579bb000",
+        "a72962dd404c8000",
+        "9ae1a4584ac51000",
+        "69da004d60151000"
+      ]
+    },
+    "farse": {
+      "name": "farse",
+      "security": 2,
+      "constellation": "the arc",
+      "systemLocationVector": { "x": 1350, "y": -20, "z": -1010 },
+      "celestials": [
+        "9e97feafff463000",
+        "2e4084f431b65000",
+        "ef4034635e568000",
+        "40c4694a1a216000",
+        "237c92cefd70c000",
+        "f66cc6d0ef85e000",
+        "ee15b3e44e866000"
+      ]
+    },
+    "xena": {
+      "name": "xena",
+      "security": 3,
+      "constellation": "the arc",
+      "systemLocationVector": { "x": 1450, "y": 0, "z": -810 },
+      "celestials": [ "823fdd2223d8000", "edd353f3e7e3000", "fa09ca6506415000", "55faadb6ef16e000" ]
+    },
+    "tornado": {
+      "name": "tornado",
+      "security": 3,
+      "constellation": "the arc",
+      "systemLocationVector": { "x": 1410, "y": 20, "z": -710 },
+      "celestials": [
+        "b22a9235b2e3a000",
+        "cb2d9bedba972000",
+        "7196c9556bdfa000",
+        "7f194a4774c03000",
+        "3067f2e00150f000",
+        "67050c9b5f62b000",
+        "266eff8da5104000"
+      ]
+    },
+    "ream": {
+      "name": "ream",
+      "security": 3,
+      "constellation": "the arc",
+      "systemLocationVector": { "x": 1310, "y": -20, "z": -540 },
+      "celestials": [
+        "185bd348dc1f2000",
+        "2305dc49abe38000",
+        "40c0b7be9ae96000",
+        "1a555fe87fa66000",
+        "586b561f48abc000",
+        "606ab36df2d3f000",
+        "c4768b8e9bef8000",
+        "3af3957d6ea7b000"
+      ]
+    },
+    "the edge": {
+      "name": "the edge",
+      "security": 3,
+      "constellation": "the arc",
+      "systemLocationVector": { "x": 1680, "y": 20, "z": -570 },
+      "celestials": [
+        "f14d0fcf977f000",
+        "31f0d0e692236000",
+        "303e2eef940ac000",
+        "2fe5006927d28000",
+        "140508a5c0adc000"
+      ]
+    },
+    "xel": {
+      "name": "xel",
+      "security": 4,
+      "constellation": "unikron",
+      "systemLocationVector": { "x": 770, "y": -40, "z": -210 },
+      "celestials": [
+        "40045275a2847000",
+        "ffb2daa97e7e6000",
+        "de20381177128000",
+        "db2b3e3b541d000",
+        "5d6fb151eca28000",
+        "1247db51ed4bd000",
+        "a4b467a47ebbd000",
+        "29b6e895af7d2000",
+        "21bb608a10be8000",
+        "40cc7c29d051000",
+        "29d43f563d7f3000",
+        "ecc590c02caca000"
+      ]
+    }
+  },
+  "celestials": {
+    "02900cd84abaa991": {
+      "uuid": "02900cd84abaa991",
+      "type": "asteroids1",
+      "name": "Medium Asteroid Field",
+      "celestialLocationVector": { "x": 333, "y": 405, "z": 111 },
+      "solarsystem": "antonopoulos"
+    },
+    "d60c57c1fb1ab000": {
+      "type": "strongholdA",
+      "name": "Sanctuary Sanctum",
+      "celestialLocationVector": { "x": 233, "y": 5, "z": 11 },
+      "uuid": "d60c57c1fb1ab000",
+      "solarsystem": "antonopoulos"
+    },
+    "1e5509521deb2000": {
+      "uuid": "1e5509521deb2000",
+      "type": "creepingdronehideout",
+      "name": "Creeping Drone Hideout",
+      "celestialLocationVector": { "x": -392, "y": -45, "z": 111 },
+      "solarsystem": "antonopoulos"
+    },
+    "2c22bb644d0e5000": {
+      "uuid": "2c22bb644d0e5000",
+      "type": "roguedronelookout",
+      "name": "Rogue Drone Lookout",
+      "celestialLocationVector": { "x": -713, "y": 319, "z": -2842 },
+      "solarsystem": "antonopoulos"
+    },
+    "f28d20858b419000": {
+      "uuid": "f28d20858b419000",
+      "type": "imperialshipyard",
+      "name": "Imperial Shipyard",
+      "celestialLocationVector": { "x": -2561, "y": 21, "z": -1921 },
+      "solarsystem": "antonopoulos"
+    },
+    "45b533c78dc99000": {
+      "uuid": "45b533c78dc99000",
+      "type": "mysteriousrelic",
+      "name": "Mysterious Relic",
+      "celestialLocationVector": { "x": 656, "y": 336, "z": 1617 },
+      "solarsystem": "antonopoulos"
+    },
+    "c49dbf513cce000": {
+      "type": "deadspace_imperial_reconnaissance",
+      "name": "Imperial Reconnaissance",
+      "uuid": "c49dbf513cce000",
+      "celestialLocationVector": { "x": -1928, "y": -399, "z": 1164 },
+      "solarsystem": "antonopoulos"
+    },
+    "1d329ceaca82d000": {
+      "uuid": "1d329ceaca82d000",
+      "solarsystem": "antonopoulos",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 728, "y": -190, "z": -2385 },
+      "jumpDestinationUUID": "322d5d0287c77000",
+      "jumpDestinationSystemName": "the circle"
+    },
+    "7d343ca61a65e000": {
+      "uuid": "7d343ca61a65e000",
+      "solarsystem": "antonopoulos",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1579, "y": 449, "z": 1481 },
+      "jumpDestinationUUID": "f1fec6cf1e82f000",
+      "jumpDestinationSystemName": "v-ii"
+    },
+    "d05d64eecce3c000": {
+      "uuid": "d05d64eecce3c000",
+      "solarsystem": "antonopoulos",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2899, "y": -165, "z": -1113 },
+      "jumpDestinationUUID": "7b90bb5f4006b000",
+      "jumpDestinationSystemName": "tarcq"
+    },
+    "ade8fb116221f000": {
+      "uuid": "ade8fb116221f000",
+      "solarsystem": "antonopoulos",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2338, "y": -13, "z": 1902 },
+      "jumpDestinationUUID": "5caeb75ce0a5c000",
+      "jumpDestinationSystemName": "rekkt"
+    },
+    "ddff5b7dedba8000": {
+      "uuid": "ddff5b7dedba8000",
+      "type": "abandonedwreckage",
+      "name": "Abandoned Wreckage",
+      "celestialLocationVector": { "x": -1054, "y": 486, "z": -1361 },
+      "solarsystem": "llarval"
+    },
+    "c545f8fca6b75000": {
+      "uuid": "c545f8fca6b75000",
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "celestialLocationVector": { "x": -2824, "y": -130, "z": -1596 },
+      "solarsystem": "llarval"
+    },
+    "8605e2ae9951a000": {
+      "uuid": "8605e2ae9951a000",
+      "type": "mysteriousrelic",
+      "name": "Mysterious Relic",
+      "celestialLocationVector": { "x": -845, "y": -350, "z": -2095 },
+      "solarsystem": "llarval"
+    },
+    "1ac02a6442ac8000": {
+      "type": "guardedwreckage",
+      "name": "Rogue Drone Wing",
+      "uuid": "1ac02a6442ac8000",
+      "celestialLocationVector": { "x": -942, "y": 182, "z": -1195 },
+      "solarsystem": "llarval"
+    },
+    "f0cc105f08608000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "f0cc105f08608000",
+      "celestialLocationVector": { "x": -1698, "y": -147, "z": 1656 },
+      "solarsystem": "llarval"
+    },
+    "9b4220629f8b3000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "9b4220629f8b3000",
+      "celestialLocationVector": { "x": 1989, "y": 68, "z": 1584 },
+      "solarsystem": "llarval"
+    },
+    "6286d29bf243a000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "6286d29bf243a000",
+      "celestialLocationVector": { "x": 2069, "y": -320, "z": 1892 },
+      "solarsystem": "llarval"
+    },
+    "c9cf649f814be000": {
+      "uuid": "c9cf649f814be000",
+      "solarsystem": "llarval",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1435, "y": 395, "z": 1836 },
+      "jumpDestinationUUID": "9217ece94c38b000",
+      "jumpDestinationSystemName": "the circle"
+    },
+    "911d3dca8967e000": {
+      "uuid": "911d3dca8967e000",
+      "solarsystem": "llarval",
+      "type": "warpgate4",
+      "celestialLocationVector": { "x": 1468, "y": 250, "z": -720 },
+      "jumpDestinationUUID": "ac730232a165e000",
+      "jumpDestinationSystemName": "turbulensa"
+    },
+    "63a250770181d000": {
+      "uuid": "63a250770181d000",
+      "solarsystem": "llarval",
+      "type": "warpgate4",
+      "celestialLocationVector": { "x": -1200, "y": 237, "z": 2208 },
+      "jumpDestinationUUID": "f5375d431063c000",
+      "jumpDestinationSystemName": "hal"
+    },
+    "f786522382fca000": {
+      "uuid": "f786522382fca000",
+      "type": "roguedronelookout",
+      "name": "Rogue Drone Lookout",
+      "celestialLocationVector": { "x": 749, "y": -67, "z": -340 },
+      "solarsystem": "rekkt"
+    },
+    "36092f8f1bb2b000": {
+      "uuid": "36092f8f1bb2b000",
+      "type": "imperialshipyard",
+      "name": "Imperial Shipyard",
+      "celestialLocationVector": { "x": -220, "y": -133, "z": -860 },
+      "solarsystem": "rekkt"
+    },
+    "90bcbf040b0f000": {
+      "uuid": "90bcbf040b0f000",
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Investigation",
+      "celestialLocationVector": { "x": -455, "y": -127, "z": -1912 },
+      "solarsystem": "rekkt"
+    },
+    "d4c67c2d59d99000": {
+      "uuid": "d4c67c2d59d99000",
+      "type": "darkchildrondevoux",
+      "name": "Darkchild Rondevoux",
+      "celestialLocationVector": { "x": 203, "y": 38, "z": 1027 },
+      "solarsystem": "rekkt"
+    },
+    "5caeb75ce0a5c000": {
+      "uuid": "5caeb75ce0a5c000",
+      "solarsystem": "rekkt",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1332, "y": -145, "z": 181 },
+      "jumpDestinationUUID": "ade8fb116221f000",
+      "jumpDestinationSystemName": "antonopoulos"
+    },
+    "44c8ea617e3af000": {
+      "uuid": "44c8ea617e3af000",
+      "solarsystem": "rekkt",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 287, "y": -96, "z": -1419 },
+      "jumpDestinationUUID": "16fcf9d039449000",
+      "jumpDestinationSystemName": "majora minor"
+    },
+    "86dbca36ab49ae87": {
+      "uuid": "86dbca36ab49ae87",
+      "type": "stationC",
+      "name": "ethereum reach",
+      "celestialLocationVector": { "x": 57, "y": 25, "z": 1111 },
+      "solarsystem": "the circle"
+    },
+    "3a18a44ca7cc6000": {
+      "uuid": "3a18a44ca7cc6000",
+      "type": "largewaterplanet",
+      "name": "alterhaven",
+      "celestialLocationVector": { "x": 257, "y": 225, "z": 111 },
+      "solarsystem": "the circle"
+    },
+    "98c0a73939c77000": {
+      "uuid": "98c0a73939c77000",
+      "type": "minordronehideout",
+      "name": "Minor Drone Hideout",
+      "celestialLocationVector": { "x": 992, "y": 5, "z": 1211 },
+      "solarsystem": "the circle"
+    },
+    "3b6b923ef133b000": {
+      "uuid": "3b6b923ef133b000",
+      "type": "creepingdronehideout",
+      "name": "Creeping Drone Hideout",
+      "celestialLocationVector": { "x": -2902, "y": -295, "z": -1591 },
+      "solarsystem": "the circle"
+    },
+    "ff2af40d747a8000": {
+      "uuid": "ff2af40d747a8000",
+      "type": "creepingdronehideout",
+      "name": "Creeping Drone Hideout",
+      "celestialLocationVector": { "x": 236, "y": 384, "z": -965 },
+      "solarsystem": "the circle"
+    },
+    "41875596b50b7000": {
+      "uuid": "41875596b50b7000",
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "celestialLocationVector": { "x": 693, "y": 300, "z": 2697 },
+      "solarsystem": "the circle"
+    },
+    "10653deb47912000": {
+      "uuid": "10653deb47912000",
+      "type": "roguedronelookout",
+      "name": "Rogue Drone Lookout",
+      "celestialLocationVector": { "x": -2406, "y": 289, "z": -457 },
+      "solarsystem": "the circle"
+    },
+    "c8ac6843b629f000": {
+      "uuid": "c8ac6843b629f000",
+      "type": "mysteriousrelic",
+      "name": "Mysterious Relic",
+      "celestialLocationVector": { "x": 1677, "y": 27, "z": 2932 },
+      "solarsystem": "the circle"
+    },
+    "322d5d0287c77000": {
+      "uuid": "322d5d0287c77000",
+      "solarsystem": "the circle",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 507, "y": -402, "z": 460 },
+      "jumpDestinationUUID": "1d329ceaca82d000",
+      "jumpDestinationSystemName": "antonopoulos"
+    },
+    "bafc0e7c76902000": {
+      "uuid": "bafc0e7c76902000",
+      "solarsystem": "the circle",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1734, "y": 156, "z": -1069 },
+      "jumpDestinationUUID": "110df5eb10385000",
+      "jumpDestinationSystemName": "hallow"
+    },
+    "9217ece94c38b000": {
+      "uuid": "9217ece94c38b000",
+      "solarsystem": "the circle",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2229, "y": -17, "z": 943 },
+      "jumpDestinationUUID": "c9cf649f814be000",
+      "jumpDestinationSystemName": "llarval"
+    },
+    "7ddd26899fd19000": {
+      "uuid": "7ddd26899fd19000",
+      "type": "waterplanet",
+      "name": "Dominara",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "v-ii"
+    },
+    "361c0d2091b08f0c": {
+      "uuid": "361c0d2091b08f0c",
+      "type": "largemoon",
+      "name": "jarren",
+      "celestialLocationVector": { "x": 257, "y": 225, "z": 111 },
+      "solarsystem": "v-ii"
+    },
+    "2d8108957a0ba000": {
+      "uuid": "2d8108957a0ba000",
+      "type": "mysteriousrelic",
+      "name": "Mysterious Relic",
+      "celestialLocationVector": { "x": -87, "y": 357, "z": 1925 },
+      "solarsystem": "v-ii"
+    },
+    "818eb10efd548000": {
+      "uuid": "818eb10efd548000",
+      "type": "darkchildrondevoux",
+      "name": "Darkchild Rondevoux",
+      "celestialLocationVector": { "x": -1313, "y": 460, "z": -2800 },
+      "solarsystem": "v-ii"
+    },
+    "fa2f6c4d34daf000": {
+      "uuid": "fa2f6c4d34daf000",
+      "type": "darkchildsquad",
+      "name": "Darkchild Squad",
+      "celestialLocationVector": { "x": -1353, "y": 297, "z": 2485 },
+      "solarsystem": "v-ii"
+    },
+    "b0416f1b8a028000": {
+      "uuid": "b0416f1b8a028000",
+      "type": "droneoutpost",
+      "name": "Drone Outpost",
+      "celestialLocationVector": { "x": 1112, "y": -72, "z": -2681 },
+      "solarsystem": "v-ii"
+    },
+    "f1fec6cf1e82f000": {
+      "uuid": "f1fec6cf1e82f000",
+      "solarsystem": "v-ii",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -68, "y": -393, "z": 445 },
+      "jumpDestinationUUID": "7d343ca61a65e000",
+      "jumpDestinationSystemName": "antonopoulos"
+    },
+    "862bd583d165000": {
+      "uuid": "862bd583d165000",
+      "solarsystem": "v-ii",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1094, "y": 201, "z": -1351 },
+      "jumpDestinationUUID": "c61db3c4ab071000",
+      "jumpDestinationSystemName": "turbulensa"
+    },
+    "a2d5decccae22000": {
+      "uuid": "a2d5decccae22000",
+      "type": "brokenplanet",
+      "name": "cerberus",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "cerberus"
+    },
+    "a125f9e4fad7b000": {
+      "uuid": "a125f9e4fad7b000",
+      "type": "dronehideout",
+      "name": "Drone Hideout",
+      "celestialLocationVector": { "x": 1302, "y": -292, "z": -246 },
+      "solarsystem": "cerberus"
+    },
+    "bbefeacd31081000": {
+      "uuid": "bbefeacd31081000",
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "celestialLocationVector": { "x": 1548, "y": -461, "z": 1516 },
+      "solarsystem": "cerberus"
+    },
+    "5920e7c20250a000": {
+      "uuid": "5920e7c20250a000",
+      "type": "minordronehideout",
+      "name": "Mine Drone Hideout",
+      "celestialLocationVector": { "x": -548, "y": 252, "z": 590 },
+      "solarsystem": "cerberus"
+    },
+    "5577ee2d5a600000": {
+      "uuid": "5577ee2d5a600000",
+      "solarsystem": "cerberus",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 842, "y": -13, "z": -1366 },
+      "jumpDestinationUUID": "fd660195a6b43000",
+      "jumpDestinationSystemName": "hallow"
+    },
+    "2d026a083457e000": {
+      "uuid": "2d026a083457e000",
+      "type": "largemoon",
+      "name": "maiden's moon",
+      "celestialLocationVector": { "x": -457, "y": 225, "z": 511 },
+      "solarsystem": "hallow"
+    },
+    "bafca5c13f00c000": {
+      "uuid": "bafca5c13f00c000",
+      "type": "dronehideout",
+      "name": "Drone Hideout",
+      "celestialLocationVector": { "x": 2376, "y": -214, "z": 1501 },
+      "solarsystem": "hallow"
+    },
+    "e77b59126c1ad000": {
+      "uuid": "e77b59126c1ad000",
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "celestialLocationVector": { "x": -1717, "y": 403, "z": -1255 },
+      "solarsystem": "hallow"
+    },
+    "dc5cdef985637000": {
+      "uuid": "dc5cdef985637000",
+      "type": "minordronehideout",
+      "name": "Minor Drone Hideout",
+      "celestialLocationVector": { "x": -904, "y": -259, "z": -2314 },
+      "solarsystem": "hallow"
+    },
+    "3620d6cd69232000": {
+      "uuid": "3620d6cd69232000",
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Investigation",
+      "celestialLocationVector": { "x": -1725, "y": -224, "z": 1136 },
+      "solarsystem": "hallow"
+    },
+    "110df5eb10385000": {
+      "uuid": "110df5eb10385000",
+      "solarsystem": "hallow",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 573, "y": -484, "z": 453 },
+      "jumpDestinationUUID": "bafc0e7c76902000",
+      "jumpDestinationSystemName": "the circle"
+    },
+    "2c286a1df413000": {
+      "uuid": "2c286a1df413000",
+      "solarsystem": "hallow",
+      "type": "warpgate2",
+      "celestialLocationVector": { "x": 405, "y": -215, "z": -1274 },
+      "jumpDestinationUUID": "6e4facaebb8eb000",
+      "jumpDestinationSystemName": "misery"
+    },
+    "fd660195a6b43000": {
+      "uuid": "fd660195a6b43000",
+      "solarsystem": "hallow",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 871, "y": -224, "z": 563 },
+      "jumpDestinationUUID": "5577ee2d5a600000",
+      "jumpDestinationSystemName": "cerberus"
+    },
+    "54e77e3e457e6000": {
+      "uuid": "54e77e3e457e6000",
+      "type": "abandonedwreckage",
+      "name": "abandoned wreckage",
+      "celestialLocationVector": { "x": 257, "y": 425, "z": 311 },
+      "solarsystem": "the void"
+    },
+    "86b8ed416a90b000": {
+      "uuid": "86b8ed416a90b000",
+      "type": "mysteriousrelic",
+      "name": "Mysterious Relic",
+      "celestialLocationVector": { "x": -713, "y": -161, "z": 987 },
+      "solarsystem": "the void"
+    },
+    "bf28eaaac84b9000": {
+      "uuid": "bf28eaaac84b9000",
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "celestialLocationVector": { "x": 555, "y": -354, "z": -577 },
+      "solarsystem": "the void"
+    },
+    "b58e38dce1aaf000": {
+      "uuid": "b58e38dce1aaf000",
+      "type": "darkchildsquad",
+      "name": "Darkchild Squad",
+      "celestialLocationVector": { "x": -1947, "y": -261, "z": 1076 },
+      "solarsystem": "the void"
+    },
+    "a9955236a801b000": {
+      "uuid": "a9955236a801b000",
+      "type": "droneoutpost",
+      "name": "Drone Outpost",
+      "celestialLocationVector": { "x": 1365, "y": 176, "z": -627 },
+      "solarsystem": "the void"
+    },
+    "20d1f0ee6b1a2000": {
+      "uuid": "20d1f0ee6b1a2000",
+      "solarsystem": "the void",
+      "type": "warpgate2",
+      "celestialLocationVector": { "x": -2363, "y": -422, "z": -2336 },
+      "jumpDestinationUUID": "ff26251e5f4e4000",
+      "jumpDestinationSystemName": "misery"
+    },
+    "6f73899c2577d000": {
+      "uuid": "6f73899c2577d000",
+      "type": "abandonedshipyard",
+      "name": "abandoned shipyard",
+      "celestialLocationVector": { "x": 257, "y": 25, "z": -711 },
+      "solarsystem": "misery"
+    },
+    "7dace43c72c51000": {
+      "type": "abandonedwreckage",
+      "name": "Abandoned Wreckage",
+      "uuid": "7dace43c72c51000",
+      "celestialLocationVector": { "x": -2064, "y": 426, "z": 1321 },
+      "solarsystem": "misery"
+    },
+    "b70844558e0f7000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "b70844558e0f7000",
+      "celestialLocationVector": { "x": 2869, "y": -446, "z": 1237 },
+      "solarsystem": "misery"
+    },
+    "c148f9ed78c69000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "c148f9ed78c69000",
+      "celestialLocationVector": { "x": 2801, "y": 448, "z": 178 },
+      "solarsystem": "misery"
+    },
+    "357796bf08f36000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "357796bf08f36000",
+      "celestialLocationVector": { "x": -76, "y": -405, "z": -1582 },
+      "solarsystem": "misery"
+    },
+    "6e4facaebb8eb000": {
+      "uuid": "6e4facaebb8eb000",
+      "solarsystem": "misery",
+      "type": "warpgate2",
+      "celestialLocationVector": { "x": 1937, "y": -330, "z": -1265 },
+      "jumpDestinationUUID": "2c286a1df413000",
+      "jumpDestinationSystemName": "hallow"
+    },
+    "ff26251e5f4e4000": {
+      "uuid": "ff26251e5f4e4000",
+      "solarsystem": "misery",
+      "type": "warpgate2",
+      "celestialLocationVector": { "x": 1956, "y": -212, "z": -2100 },
+      "jumpDestinationUUID": "20d1f0ee6b1a2000",
+      "jumpDestinationSystemName": "the void"
+    },
+    "de67d87c2cc64000": {
+      "uuid": "de67d87c2cc64000",
+      "type": "islandplanet",
+      "name": "serum",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "tarcq"
+    },
+    "8f06e45531d66000": {
+      "type": "minordronehideout",
+      "name": "Minor Drone Hideout",
+      "uuid": "8f06e45531d66000",
+      "celestialLocationVector": { "x": 1891, "y": -498, "z": -760 },
+      "solarsystem": "tarcq"
+    },
+    "78aea25575e7e000": {
+      "type": "creepingdronehideout",
+      "name": "Creeping Drone Hideout",
+      "uuid": "78aea25575e7e000",
+      "celestialLocationVector": { "x": -2764, "y": -467, "z": 1658 },
+      "solarsystem": "tarcq"
+    },
+    "775a09002710000": {
+      "type": "creepingdronehideout",
+      "name": "Creeping Drone Hideout",
+      "uuid": "775a09002710000",
+      "celestialLocationVector": { "x": 2653, "y": 344, "z": -2281 },
+      "solarsystem": "tarcq"
+    },
+    "266b1dbd3f191000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "266b1dbd3f191000",
+      "celestialLocationVector": { "x": -1291, "y": 401, "z": -1575 },
+      "solarsystem": "tarcq"
+    },
+    "d5d7f2f8413b8000": {
+      "type": "roguedronelookout",
+      "name": "Rogue Drone Lookout",
+      "uuid": "d5d7f2f8413b8000",
+      "celestialLocationVector": { "x": 1085, "y": 262, "z": 2835 },
+      "solarsystem": "tarcq"
+    },
+    "4ed285d6d2e87000": {
+      "type": "mysteriousrelic",
+      "name": "Mysterious Relic",
+      "uuid": "4ed285d6d2e87000",
+      "celestialLocationVector": { "x": 1238, "y": 191, "z": -2717 },
+      "solarsystem": "tarcq"
+    },
+    "3e22760c09a3000": {
+      "type": "deadspace_test_of_strength",
+      "name": "Test Of Strength",
+      "uuid": "3e22760c09a3000",
+      "celestialLocationVector": { "x": -812, "y": -27, "z": 478 },
+      "solarsystem": "tarcq"
+    },
+    "7b90bb5f4006b000": {
+      "uuid": "7b90bb5f4006b000",
+      "solarsystem": "tarcq",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1369, "y": -356, "z": 540 },
+      "jumpDestinationUUID": "d05d64eecce3c000",
+      "jumpDestinationSystemName": "antonopoulos"
+    },
+    "9e1f164ec4368000": {
+      "uuid": "9e1f164ec4368000",
+      "solarsystem": "tarcq",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -446, "y": 468, "z": 1586 },
+      "jumpDestinationUUID": "d3c9c1f709d2c000",
+      "jumpDestinationSystemName": "the fringe"
+    },
+    "84773d5c0f457000": {
+      "uuid": "84773d5c0f457000",
+      "solarsystem": "tarcq",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1566, "y": 408, "z": 392 },
+      "jumpDestinationUUID": "c634a22a3eaf3000",
+      "jumpDestinationSystemName": "majora minor"
+    },
+    "91029c3f360f9000": {
+      "uuid": "91029c3f360f9000",
+      "type": "barrenplanet",
+      "name": "detheroc",
+      "celestialLocationVector": { "x": 57, "y": 425, "z": 111 },
+      "solarsystem": "majora minor"
+    },
+    "23db82f92238000": {
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "uuid": "23db82f92238000",
+      "celestialLocationVector": { "x": -1984, "y": -389, "z": 2220 },
+      "solarsystem": "majora minor"
+    },
+    "49e660ea01397000": {
+      "type": "hiddenwreckage",
+      "name": "Hidden Wreckage",
+      "uuid": "49e660ea01397000",
+      "celestialLocationVector": { "x": 150, "y": -304, "z": 1453 },
+      "solarsystem": "majora minor"
+    },
+    "90bcc3fb8a803000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "90bcc3fb8a803000",
+      "celestialLocationVector": { "x": -1226, "y": -93, "z": -1862 },
+      "solarsystem": "majora minor"
+    },
+    "9be6e3738b834000": {
+      "type": "darkchildwing",
+      "name": "Darkchild Execution",
+      "uuid": "9be6e3738b834000",
+      "celestialLocationVector": { "x": -2055, "y": -95, "z": -475 },
+      "solarsystem": "majora minor"
+    },
+    "c634a22a3eaf3000": {
+      "uuid": "c634a22a3eaf3000",
+      "solarsystem": "majora minor",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1598, "y": 204, "z": -2559 },
+      "jumpDestinationUUID": "84773d5c0f457000",
+      "jumpDestinationSystemName": "tarcq"
+    },
+    "16fcf9d039449000": {
+      "uuid": "16fcf9d039449000",
+      "solarsystem": "majora minor",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -2129, "y": -124, "z": -444 },
+      "jumpDestinationUUID": "44c8ea617e3af000",
+      "jumpDestinationSystemName": "rekkt"
+    },
+    "6bdaaa8f36153000": {
+      "uuid": "6bdaaa8f36153000",
+      "solarsystem": "majora minor",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1248, "y": 424, "z": -1528 },
+      "jumpDestinationUUID": "de9d414909743000",
+      "jumpDestinationSystemName": "mikers"
+    },
+    "118b15c5aea24000": {
+      "uuid": "118b15c5aea24000",
+      "type": "brokenplanet",
+      "name": "southpaux",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "mikers"
+    },
+    "8c6dbef8df46000": {
+      "type": "guardedwreckage",
+      "name": "Rogue Drone Wing",
+      "uuid": "8c6dbef8df46000",
+      "celestialLocationVector": { "x": -2274, "y": 329, "z": -2519 },
+      "solarsystem": "mikers"
+    },
+    "ff018999e1c9b000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "ff018999e1c9b000",
+      "celestialLocationVector": { "x": -1907, "y": 281, "z": 834 },
+      "solarsystem": "mikers"
+    },
+    "1ea3907f942a8000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "1ea3907f942a8000",
+      "celestialLocationVector": { "x": 521, "y": -226, "z": -2506 },
+      "solarsystem": "mikers"
+    },
+    "bd3c09e3c52c4000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "bd3c09e3c52c4000",
+      "celestialLocationVector": { "x": 634, "y": 183, "z": -646 },
+      "solarsystem": "mikers"
+    },
+    "de4a2405fe5d3000": {
+      "type": "imperialpatrol",
+      "name": "Imperial Patrol",
+      "uuid": "de4a2405fe5d3000",
+      "celestialLocationVector": { "x": 1530, "y": -22, "z": -463 },
+      "solarsystem": "mikers"
+    },
+    "de9d414909743000": {
+      "uuid": "de9d414909743000",
+      "solarsystem": "mikers",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2371, "y": 199, "z": -1449 },
+      "jumpDestinationUUID": "6bdaaa8f36153000",
+      "jumpDestinationSystemName": "majora minor"
+    },
+    "b7140378cbec000": {
+      "uuid": "b7140378cbec000",
+      "solarsystem": "mikers",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1081, "y": 455, "z": 2773 },
+      "jumpDestinationUUID": "40cc7c29d051000",
+      "jumpDestinationSystemName": "xel"
+    },
+    "bf4fe2f82af6000": {
+      "uuid": "bf4fe2f82af6000",
+      "solarsystem": "mikers",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1160, "y": 416, "z": 2603 },
+      "jumpDestinationUUID": "4598328094048000",
+      "jumpDestinationSystemName": "orwyn"
+    },
+    "4da2c8ad9b805000": {
+      "uuid": "4da2c8ad9b805000",
+      "type": "iceplanet",
+      "name": "dominara",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "adastar"
+    },
+    "a6dac85fb6845000": {
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "uuid": "a6dac85fb6845000",
+      "celestialLocationVector": { "x": 2446, "y": -45, "z": -2161 },
+      "solarsystem": "adastar"
+    },
+    "fc5122db8b461000": {
+      "type": "imperialshipyard",
+      "name": "Imperial Force",
+      "uuid": "fc5122db8b461000",
+      "celestialLocationVector": { "x": 2234, "y": -482, "z": 2207 },
+      "solarsystem": "adastar"
+    },
+    "3041276098694000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Outpost",
+      "uuid": "3041276098694000",
+      "celestialLocationVector": { "x": -2355, "y": -497, "z": -208 },
+      "solarsystem": "adastar"
+    },
+    "957385bcf11b1000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "957385bcf11b1000",
+      "celestialLocationVector": { "x": -2629, "y": -55, "z": 1725 },
+      "solarsystem": "adastar"
+    },
+    "674eca284864f000": {
+      "type": "imperialescort",
+      "name": "Imperial Escort",
+      "uuid": "674eca284864f000",
+      "celestialLocationVector": { "x": 2858, "y": 469, "z": 753 },
+      "solarsystem": "adastar"
+    },
+    "ce7e1f47aecfa000": {
+      "type": "deadspace_the_replicants",
+      "name": "Replication Subfactory",
+      "uuid": "ce7e1f47aecfa000",
+      "celestialLocationVector": { "x": 782, "y": -278, "z": 2333 },
+      "solarsystem": "adastar"
+    },
+    "66e3083052370000": {
+      "uuid": "66e3083052370000",
+      "solarsystem": "adastar",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 669, "y": -314, "z": 2302 },
+      "jumpDestinationUUID": "d84df9b690a74000",
+      "jumpDestinationSystemName": "orwyn"
+    },
+    "8239f4c0a4c77000": {
+      "uuid": "8239f4c0a4c77000",
+      "type": "stationB",
+      "name": "starcity velara",
+      "celestialLocationVector": { "x": 357, "y": -125, "z": 411 },
+      "solarsystem": "synthesis"
+    },
+    "2f5065eac6e8e000": {
+      "uuid": "2f5065eac6e8e000",
+      "type": "waterplanet",
+      "name": "trena",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "synthesis"
+    },
+    "fa637f623f614000": {
+      "type": "renegadewing",
+      "name": "Renegade Wing",
+      "uuid": "fa637f623f614000",
+      "celestialLocationVector": { "x": 2499, "y": -222, "z": 1652 },
+      "solarsystem": "synthesis"
+    },
+    "ad3b9dc715719000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "ad3b9dc715719000",
+      "celestialLocationVector": { "x": -2038, "y": -103, "z": -1303 },
+      "solarsystem": "synthesis"
+    },
+    "afd5016261af0000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "afd5016261af0000",
+      "celestialLocationVector": { "x": -1967, "y": -494, "z": 662 },
+      "solarsystem": "synthesis"
+    },
+    "35601645cf08c000": {
+      "type": "synthoutpost",
+      "name": "Synth Outpost",
+      "uuid": "35601645cf08c000",
+      "celestialLocationVector": { "x": 520, "y": 367, "z": 1638 },
+      "solarsystem": "synthesis"
+    },
+    "ca4f023cf441b000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "ca4f023cf441b000",
+      "celestialLocationVector": { "x": 2556, "y": 340, "z": -209 },
+      "solarsystem": "synthesis"
+    },
+    "ca69beac3118b000": {
+      "uuid": "ca69beac3118b000",
+      "solarsystem": "synthesis",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1106, "y": -159, "z": 355 },
+      "jumpDestinationUUID": "56b3ca8e2acaf000",
+      "jumpDestinationSystemName": "orwyn"
+    },
+    "3ad76eee98e22000": {
+      "uuid": "3ad76eee98e22000",
+      "solarsystem": "synthesis",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2175, "y": -357, "z": -1962 },
+      "jumpDestinationUUID": "170369f4beb00000",
+      "jumpDestinationSystemName": "serenity"
+    },
+    "33cc3c1c7585000": {
+      "uuid": "33cc3c1c7585000",
+      "type": "islandplanet",
+      "name": "vorta v",
+      "celestialLocationVector": { "x": 157, "y": 225, "z": -711 },
+      "solarsystem": "orwyn"
+    },
+    "f03637236332b000": {
+      "type": "darkchildrondevoux",
+      "name": "Darkchild Rondevoux",
+      "uuid": "f03637236332b000",
+      "celestialLocationVector": { "x": -1059, "y": -78, "z": -1714 },
+      "solarsystem": "orwyn"
+    },
+    "9d6c71b106dbb000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "9d6c71b106dbb000",
+      "celestialLocationVector": { "x": -1693, "y": -374, "z": 807 },
+      "solarsystem": "orwyn"
+    },
+    "cfc2ef5045518000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "cfc2ef5045518000",
+      "celestialLocationVector": { "x": -2836, "y": -27, "z": 2879 },
+      "solarsystem": "orwyn"
+    },
+    "45a39285d1896000": {
+      "type": "synthoutpost",
+      "name": "Synth Outpost",
+      "uuid": "45a39285d1896000",
+      "celestialLocationVector": { "x": 2209, "y": 269, "z": 235 },
+      "solarsystem": "orwyn"
+    },
+    "327047299f0b4000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "327047299f0b4000",
+      "celestialLocationVector": { "x": -2397, "y": 336, "z": -888 },
+      "solarsystem": "orwyn"
+    },
+    "4598328094048000": {
+      "uuid": "4598328094048000",
+      "solarsystem": "orwyn",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1569, "y": 224, "z": 1687 },
+      "jumpDestinationUUID": "bf4fe2f82af6000",
+      "jumpDestinationSystemName": "mikers"
+    },
+    "d84df9b690a74000": {
+      "uuid": "d84df9b690a74000",
+      "solarsystem": "orwyn",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2812, "y": 416, "z": 530 },
+      "jumpDestinationUUID": "66e3083052370000",
+      "jumpDestinationSystemName": "adastar"
+    },
+    "56b3ca8e2acaf000": {
+      "uuid": "56b3ca8e2acaf000",
+      "solarsystem": "orwyn",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 86, "y": -91, "z": -1480 },
+      "jumpDestinationUUID": "ca69beac3118b000",
+      "jumpDestinationSystemName": "synthesis"
+    },
+    "2ee438fa6663000": {
+      "uuid": "2ee438fa6663000",
+      "type": "largewaterplanet",
+      "name": "toast prime",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "zero-x"
+    },
+    "f555eea041331000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "f555eea041331000",
+      "celestialLocationVector": { "x": -2500, "y": 190, "z": -2438 },
+      "solarsystem": "zero-x"
+    },
+    "3038a04754a5000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "3038a04754a5000",
+      "celestialLocationVector": { "x": -89, "y": -302, "z": -996 },
+      "solarsystem": "zero-x"
+    },
+    "a9a026cdc992c000": {
+      "type": "synthoutpost",
+      "name": "Synth Wing",
+      "uuid": "a9a026cdc992c000",
+      "celestialLocationVector": { "x": -1600, "y": -36, "z": -1858 },
+      "solarsystem": "zero-x"
+    },
+    "ccb91a20adaaa000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "ccb91a20adaaa000",
+      "celestialLocationVector": { "x": 785, "y": -43, "z": -2794 },
+      "solarsystem": "zero-x"
+    },
+    "3b37fb748a968000": {
+      "uuid": "3b37fb748a968000",
+      "type": "barrenplanet",
+      "name": "miasma",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "turbulensa"
+    },
+    "9cfff82e84db7000": {
+      "type": "renegadescouts",
+      "name": "Synth Scouts",
+      "uuid": "9cfff82e84db7000",
+      "celestialLocationVector": { "x": 166, "y": -338, "z": -1275 },
+      "solarsystem": "turbulensa"
+    },
+    "318ac016e68f5000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "318ac016e68f5000",
+      "celestialLocationVector": { "x": -660, "y": 442, "z": -24 },
+      "solarsystem": "turbulensa"
+    },
+    "82eb741aa4d9f000": {
+      "type": "synthoutpost",
+      "name": "Synth Outpost",
+      "uuid": "82eb741aa4d9f000",
+      "celestialLocationVector": { "x": -308, "y": -184, "z": -1466 },
+      "solarsystem": "turbulensa"
+    },
+    "3ae1ad174b3a000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "3ae1ad174b3a000",
+      "celestialLocationVector": { "x": 810, "y": 404, "z": -1889 },
+      "solarsystem": "turbulensa"
+    },
+    "c61db3c4ab071000": {
+      "uuid": "c61db3c4ab071000",
+      "solarsystem": "turbulensa",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -2667, "y": 290, "z": -2399 },
+      "jumpDestinationUUID": "862bd583d165000",
+      "jumpDestinationSystemName": "v-ii"
+    },
+    "ac730232a165e000": {
+      "uuid": "ac730232a165e000",
+      "solarsystem": "turbulensa",
+      "type": "warpgate4",
+      "celestialLocationVector": { "x": -836, "y": 175, "z": 2360 },
+      "jumpDestinationUUID": "911d3dca8967e000",
+      "jumpDestinationSystemName": "llarval"
+    },
+    "92b9566217962000": {
+      "uuid": "92b9566217962000",
+      "type": "abandonedshipyard",
+      "name": "abandoned shipyard",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "szabo"
+    },
+    "56b98a1eb3aea000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "56b98a1eb3aea000",
+      "celestialLocationVector": { "x": -1602, "y": 71, "z": -2937 },
+      "solarsystem": "szabo"
+    },
+    "2d876a867da86000": {
+      "type": "dronerepairfacility",
+      "name": "Roguedrone Repair Facility",
+      "uuid": "2d876a867da86000",
+      "celestialLocationVector": { "x": 1902, "y": -363, "z": 1399 },
+      "solarsystem": "szabo"
+    },
+    "d2e40a7c53dbc000": {
+      "type": "synthoutpost",
+      "name": "Synth Wing",
+      "uuid": "d2e40a7c53dbc000",
+      "celestialLocationVector": { "x": 1539, "y": 315, "z": 1670 },
+      "solarsystem": "szabo"
+    },
+    "29fe389094759000": {
+      "type": "imperialstaging",
+      "name": "Imperial Horde",
+      "uuid": "29fe389094759000",
+      "celestialLocationVector": { "x": -1622, "y": 272, "z": -2396 },
+      "solarsystem": "szabo"
+    },
+    "3b290fc4e93e5000": {
+      "type": "guardedwreckage",
+      "name": "Rogue Drone Wing",
+      "uuid": "3b290fc4e93e5000",
+      "celestialLocationVector": { "x": -1176, "y": 65, "z": 2636 },
+      "solarsystem": "szabo"
+    },
+    "1ba77d5497f49000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "1ba77d5497f49000",
+      "celestialLocationVector": { "x": -2332, "y": 240, "z": 568 },
+      "solarsystem": "szabo"
+    },
+    "41b0194928c93000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "41b0194928c93000",
+      "celestialLocationVector": { "x": 2060, "y": -183, "z": -85 },
+      "solarsystem": "szabo"
+    },
+    "9178f73a65e39000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "9178f73a65e39000",
+      "celestialLocationVector": { "x": -2188, "y": 356, "z": 1646 },
+      "solarsystem": "szabo"
+    },
+    "5e2913f8ce629000": {
+      "uuid": "5e2913f8ce629000",
+      "solarsystem": "szabo",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": -1689, "y": 274, "z": -1738 },
+      "jumpDestinationUUID": "603b25b658cad000",
+      "jumpDestinationSystemName": "azlehria"
+    },
+    "f2903ac6b27fa000": {
+      "uuid": "f2903ac6b27fa000",
+      "type": "ancientrelic",
+      "name": "ancient relic",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "satoshi"
+    },
+    "ab4ebfa6e9e4f000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "ab4ebfa6e9e4f000",
+      "celestialLocationVector": { "x": -2649, "y": 133, "z": -2343 },
+      "solarsystem": "satoshi"
+    },
+    "f3c155023da64000": {
+      "type": "imperialshipyard",
+      "name": "Imperial Shipyard",
+      "uuid": "f3c155023da64000",
+      "celestialLocationVector": { "x": 515, "y": -268, "z": -987 },
+      "solarsystem": "satoshi"
+    },
+    "9e894f0ac75eb000": {
+      "type": "synthoutpost",
+      "name": "Synth Wing",
+      "uuid": "9e894f0ac75eb000",
+      "celestialLocationVector": { "x": -105, "y": -365, "z": 2776 },
+      "solarsystem": "satoshi"
+    },
+    "9653927f5d842000": {
+      "type": "imperialstaging",
+      "name": "Imperial Staging",
+      "uuid": "9653927f5d842000",
+      "celestialLocationVector": { "x": -1380, "y": 161, "z": -1130 },
+      "solarsystem": "satoshi"
+    },
+    "80bb05758ee09000": {
+      "uuid": "80bb05758ee09000",
+      "solarsystem": "satoshi",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 839, "y": 253, "z": 1740 },
+      "jumpDestinationUUID": "2f9a17ef3443a000",
+      "jumpDestinationSystemName": "azlehria"
+    },
+    "4d6455814cb76000": {
+      "uuid": "4d6455814cb76000",
+      "solarsystem": "satoshi",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 2481, "y": 270, "z": -292 },
+      "jumpDestinationUUID": "19b271971bee3000",
+      "jumpDestinationSystemName": "hal"
+    },
+    "fcce964138e95000": {
+      "uuid": "fcce964138e95000",
+      "type": "smallmoon",
+      "name": "rez",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "hal"
+    },
+    "aa8055b19aab6000": {
+      "uuid": "aa8055b19aab6000",
+      "type": "barrenplanet",
+      "name": "ubiquity",
+      "celestialLocationVector": { "x": 333, "y": 225, "z": -311 },
+      "solarsystem": "hal"
+    },
+    "3b953c9dd40ae000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "3b953c9dd40ae000",
+      "celestialLocationVector": { "x": -1241, "y": 144, "z": -2900 },
+      "solarsystem": "hal"
+    },
+    "da62790ec1857000": {
+      "type": "imperialshipyard",
+      "name": "Imperial Shipyard",
+      "uuid": "da62790ec1857000",
+      "celestialLocationVector": { "x": 2084, "y": -456, "z": 1331 },
+      "solarsystem": "hal"
+    },
+    "672a1793fa9d9000": {
+      "type": "synthoutpost",
+      "name": "Synth Outpost",
+      "uuid": "672a1793fa9d9000",
+      "celestialLocationVector": { "x": 2036, "y": -234, "z": 950 },
+      "solarsystem": "hal"
+    },
+    "433fadba37f8d000": {
+      "type": "imperialstaging",
+      "name": "Imperial Staging",
+      "uuid": "433fadba37f8d000",
+      "celestialLocationVector": { "x": -2871, "y": 319, "z": -981 },
+      "solarsystem": "hal"
+    },
+    "f5ccdbf5206e1000": {
+      "type": "guardedwreckage",
+      "name": "Rogue Drone Wing",
+      "uuid": "f5ccdbf5206e1000",
+      "celestialLocationVector": { "x": 2517, "y": 146, "z": -2771 },
+      "solarsystem": "hal"
+    },
+    "4859123ed3020000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "4859123ed3020000",
+      "celestialLocationVector": { "x": 1090, "y": 425, "z": -2959 },
+      "solarsystem": "hal"
+    },
+    "a63258dcb0bca000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "a63258dcb0bca000",
+      "celestialLocationVector": { "x": 2203, "y": 346, "z": -1474 },
+      "solarsystem": "hal"
+    },
+    "3a52eb63d4708000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "3a52eb63d4708000",
+      "celestialLocationVector": { "x": -1984, "y": 319, "z": 1105 },
+      "solarsystem": "hal"
+    },
+    "9e7c425653766000": {
+      "type": "deadspace_stopping_the_reinforcements",
+      "name": "Unpowered Warpgate",
+      "uuid": "9e7c425653766000",
+      "celestialLocationVector": { "x": 203, "y": -34, "z": 955 },
+      "solarsystem": "hal"
+    },
+    "f5375d431063c000": {
+      "uuid": "f5375d431063c000",
+      "solarsystem": "hal",
+      "type": "warpgate4",
+      "celestialLocationVector": { "x": -2274, "y": 126, "z": -1409 },
+      "jumpDestinationUUID": "63a250770181d000",
+      "jumpDestinationSystemName": "llarval"
+    },
+    "e963d12cab204000": {
+      "uuid": "e963d12cab204000",
+      "solarsystem": "hal",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 782, "y": 369, "z": -2496 },
+      "jumpDestinationUUID": "9812712813648000",
+      "jumpDestinationSystemName": "azlehria"
+    },
+    "6e2e027784798000": {
+      "uuid": "6e2e027784798000",
+      "solarsystem": "hal",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": -1604, "y": -225, "z": 2126 },
+      "jumpDestinationUUID": "57f605007817e000",
+      "jumpDestinationSystemName": "m-vis"
+    },
+    "19b271971bee3000": {
+      "uuid": "19b271971bee3000",
+      "solarsystem": "hal",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": -2550, "y": -436, "z": -2446 },
+      "jumpDestinationUUID": "4d6455814cb76000",
+      "jumpDestinationSystemName": "satoshi"
+    },
+    "6656ab556c40d000": {
+      "uuid": "6656ab556c40d000",
+      "type": "largemoon",
+      "name": "heim",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "azlehria"
+    },
+    "cf2939e3bf6fa000": {
+      "type": "roguedronelookout",
+      "name": "Rogue Drone Lookout",
+      "uuid": "cf2939e3bf6fa000",
+      "celestialLocationVector": { "x": 739, "y": 278, "z": -820 },
+      "solarsystem": "azlehria"
+    },
+    "44622522dbeac000": {
+      "type": "imperialshipyard",
+      "name": "Imperial Shipyard",
+      "uuid": "44622522dbeac000",
+      "celestialLocationVector": { "x": -501, "y": -275, "z": 1777 },
+      "solarsystem": "azlehria"
+    },
+    "e5adb35edfb40000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Investigation",
+      "uuid": "e5adb35edfb40000",
+      "celestialLocationVector": { "x": -2447, "y": 402, "z": -647 },
+      "solarsystem": "azlehria"
+    },
+    "e1ba92ad5f3c4000": {
+      "type": "darkchildrondevoux",
+      "name": "Darkchild Rondevoux",
+      "uuid": "e1ba92ad5f3c4000",
+      "celestialLocationVector": { "x": -1847, "y": 143, "z": 2614 },
+      "solarsystem": "azlehria"
+    },
+    "9812712813648000": {
+      "uuid": "9812712813648000",
+      "solarsystem": "azlehria",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": -2258, "y": -402, "z": 1526 },
+      "jumpDestinationUUID": "e963d12cab204000",
+      "jumpDestinationSystemName": "hal"
+    },
+    "2f9a17ef3443a000": {
+      "uuid": "2f9a17ef3443a000",
+      "solarsystem": "azlehria",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 934, "y": -317, "z": 19 },
+      "jumpDestinationUUID": "80bb05758ee09000",
+      "jumpDestinationSystemName": "satoshi"
+    },
+    "603b25b658cad000": {
+      "uuid": "603b25b658cad000",
+      "solarsystem": "azlehria",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 230, "y": -472, "z": 2600 },
+      "jumpDestinationUUID": "5e2913f8ce629000",
+      "jumpDestinationSystemName": "szabo"
+    },
+    "ebcb2ca418c74000": {
+      "uuid": "ebcb2ca418c74000",
+      "solarsystem": "azlehria",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 744, "y": 219, "z": 2787 },
+      "jumpDestinationUUID": "dc3375d1597d1000",
+      "jumpDestinationSystemName": "m-vis"
+    },
+    "ab57aa67668a8000": {
+      "uuid": "ab57aa67668a8000",
+      "type": "stationD",
+      "name": "imperial command",
+      "celestialLocationVector": { "x": 357, "y": -125, "z": 411 },
+      "solarsystem": "m-vis"
+    },
+    "940ce5d2ef23f000": {
+      "uuid": "940ce5d2ef23f000",
+      "type": "islandplanet",
+      "name": "mantissa",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "m-vis"
+    },
+    "edbff0b38507d000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "edbff0b38507d000",
+      "celestialLocationVector": { "x": 319, "y": 57, "z": -74 },
+      "solarsystem": "m-vis"
+    },
+    "687fff61efdf000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "687fff61efdf000",
+      "celestialLocationVector": { "x": 890, "y": 377, "z": -2540 },
+      "solarsystem": "m-vis"
+    },
+    "cab09b726e72000": {
+      "type": "synthoutpost",
+      "name": "Synth Wing",
+      "uuid": "cab09b726e72000",
+      "celestialLocationVector": { "x": -2352, "y": 331, "z": 677 },
+      "solarsystem": "m-vis"
+    },
+    "93fab85913eca000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "93fab85913eca000",
+      "celestialLocationVector": { "x": -1497, "y": -493, "z": -1073 },
+      "solarsystem": "m-vis"
+    },
+    "b294c53b9628b000": {
+      "type": "guardedwreckage",
+      "name": "Rogue Drone Wing",
+      "uuid": "b294c53b9628b000",
+      "celestialLocationVector": { "x": -2517, "y": -396, "z": 2179 },
+      "solarsystem": "m-vis"
+    },
+    "8c8d3261f5ef6000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "8c8d3261f5ef6000",
+      "celestialLocationVector": { "x": -1883, "y": 196, "z": 2106 },
+      "solarsystem": "m-vis"
+    },
+    "a57f810c1448e000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "a57f810c1448e000",
+      "celestialLocationVector": { "x": 1943, "y": -380, "z": -653 },
+      "solarsystem": "m-vis"
+    },
+    "6cc3d239c2a81000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "6cc3d239c2a81000",
+      "celestialLocationVector": { "x": 586, "y": 420, "z": -2896 },
+      "solarsystem": "m-vis"
+    },
+    "57f605007817e000": {
+      "uuid": "57f605007817e000",
+      "solarsystem": "m-vis",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": -789, "y": 143, "z": 882 },
+      "jumpDestinationUUID": "6e2e027784798000",
+      "jumpDestinationSystemName": "hal"
+    },
+    "dc3375d1597d1000": {
+      "uuid": "dc3375d1597d1000",
+      "solarsystem": "m-vis",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": -485, "y": -30, "z": 692 },
+      "jumpDestinationUUID": "ebcb2ca418c74000",
+      "jumpDestinationSystemName": "azlehria"
+    },
+    "54aeb81dbcbe000": {
+      "uuid": "54aeb81dbcbe000",
+      "solarsystem": "m-vis",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 2802, "y": 296, "z": 2201 },
+      "jumpDestinationUUID": "d13bf5b83fad2000",
+      "jumpDestinationSystemName": "shiba"
+    },
+    "5a84d6ed8f0cc000": {
+      "uuid": "5a84d6ed8f0cc000",
+      "solarsystem": "shiba",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -770, "y": -448, "z": -181 },
+      "jumpDestinationUUID": "9a757a230af4b000",
+      "jumpDestinationSystemName": "serenity"
+    },
+    "d13bf5b83fad2000": {
+      "uuid": "d13bf5b83fad2000",
+      "solarsystem": "shiba",
+      "type": "warpgate7",
+      "celestialLocationVector": { "x": 154, "y": 82, "z": 1142 },
+      "jumpDestinationUUID": "54aeb81dbcbe000",
+      "jumpDestinationSystemName": "m-vis"
+    },
+    "bc59f8840cf90000": {
+      "uuid": "bc59f8840cf90000",
+      "solarsystem": "snarks",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1194, "y": 234, "z": -711 },
+      "jumpDestinationUUID": "10c987da9fc47000",
+      "jumpDestinationSystemName": "serenity"
+    },
+    "f41b430c2f4b3000": {
+      "type": "synthoutpost",
+      "name": "Synth Outpost",
+      "uuid": "f41b430c2f4b3000",
+      "celestialLocationVector": { "x": 1220, "y": 88, "z": -2647 },
+      "solarsystem": "serenity"
+    },
+    "e582f0d42ec2000": {
+      "type": "imperialpatrol",
+      "name": "Imperial Patrol",
+      "uuid": "e582f0d42ec2000",
+      "celestialLocationVector": { "x": 1257, "y": 110, "z": -1202 },
+      "solarsystem": "serenity"
+    },
+    "d5fb233692666000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "d5fb233692666000",
+      "celestialLocationVector": { "x": 324, "y": -328, "z": -1755 },
+      "solarsystem": "serenity"
+    },
+    "170369f4beb00000": {
+      "uuid": "170369f4beb00000",
+      "solarsystem": "serenity",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 600, "y": -27, "z": 2822 },
+      "jumpDestinationUUID": "3ad76eee98e22000",
+      "jumpDestinationSystemName": "synthesis"
+    },
+    "10c987da9fc47000": {
+      "uuid": "10c987da9fc47000",
+      "solarsystem": "serenity",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -2072, "y": 208, "z": -2700 },
+      "jumpDestinationUUID": "bc59f8840cf90000",
+      "jumpDestinationSystemName": "snarks"
+    },
+    "9a757a230af4b000": {
+      "uuid": "9a757a230af4b000",
+      "solarsystem": "serenity",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 803, "y": 268, "z": -521 },
+      "jumpDestinationUUID": "5a84d6ed8f0cc000",
+      "jumpDestinationSystemName": "shiba"
+    },
+    "f6467db43bd45000": {
+      "uuid": "f6467db43bd45000",
+      "type": "icecomet",
+      "name": "alsa comet",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "the fringe"
+    },
+    "fc8ed5d35f308000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "fc8ed5d35f308000",
+      "celestialLocationVector": { "x": 1678, "y": 435, "z": -2470 },
+      "solarsystem": "the fringe"
+    },
+    "bac47e5ec07f0000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "bac47e5ec07f0000",
+      "celestialLocationVector": { "x": -1329, "y": -382, "z": 1127 },
+      "solarsystem": "the fringe"
+    },
+    "b7bbde7392ed6000": {
+      "type": "synthoutpost",
+      "name": "Synth Wing",
+      "uuid": "b7bbde7392ed6000",
+      "celestialLocationVector": { "x": 513, "y": 224, "z": 2464 },
+      "solarsystem": "the fringe"
+    },
+    "a947332b01210000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "a947332b01210000",
+      "celestialLocationVector": { "x": -1944, "y": 84, "z": 2106 },
+      "solarsystem": "the fringe"
+    },
+    "d3c9c1f709d2c000": {
+      "uuid": "d3c9c1f709d2c000",
+      "solarsystem": "the fringe",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1292, "y": 179, "z": 1998 },
+      "jumpDestinationUUID": "9e1f164ec4368000",
+      "jumpDestinationSystemName": "tarcq"
+    },
+    "8af1a17b597cd000": {
+      "uuid": "8af1a17b597cd000",
+      "solarsystem": "the fringe",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2266, "y": 327, "z": -570 },
+      "jumpDestinationUUID": "73e142911422e000",
+      "jumpDestinationSystemName": "erebus"
+    },
+    "75ff0ca104193000": {
+      "uuid": "75ff0ca104193000",
+      "solarsystem": "the fringe",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2678, "y": -116, "z": 2370 },
+      "jumpDestinationUUID": "77b5a01a4995000",
+      "jumpDestinationSystemName": "hex"
+    },
+    "1bb6930d1fda1000": {
+      "uuid": "1bb6930d1fda1000",
+      "solarsystem": "the fringe",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1739, "y": -357, "z": -1098 },
+      "jumpDestinationUUID": "d02f42762fe4e000",
+      "jumpDestinationSystemName": "metropolis"
+    },
+    "a2e620201bb3000": {
+      "type": "darkchildhideout",
+      "name": "Darkchild Hideout",
+      "uuid": "a2e620201bb3000",
+      "celestialLocationVector": { "x": 1089, "y": -486, "z": -2122 },
+      "solarsystem": "hex"
+    },
+    "1a7349f69dec8000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "1a7349f69dec8000",
+      "celestialLocationVector": { "x": -1713, "y": -216, "z": 964 },
+      "solarsystem": "hex"
+    },
+    "f6d6b561e7563000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "f6d6b561e7563000",
+      "celestialLocationVector": { "x": -964, "y": -106, "z": 1697 },
+      "solarsystem": "hex"
+    },
+    "390b2d12241fe000": {
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "uuid": "390b2d12241fe000",
+      "celestialLocationVector": { "x": -708, "y": -490, "z": 1268 },
+      "solarsystem": "hex"
+    },
+    "122a0444e43d3000": {
+      "type": "abandonedwreckage",
+      "name": "Abandoned Wreckage",
+      "uuid": "122a0444e43d3000",
+      "celestialLocationVector": { "x": 2494, "y": 76, "z": 1906 },
+      "solarsystem": "hex"
+    },
+    "77b5a01a4995000": {
+      "uuid": "77b5a01a4995000",
+      "solarsystem": "hex",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -2857, "y": 387, "z": -2516 },
+      "jumpDestinationUUID": "75ff0ca104193000",
+      "jumpDestinationSystemName": "the fringe"
+    },
+    "7632fe3f24167000": {
+      "uuid": "7632fe3f24167000",
+      "solarsystem": "hex",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -742, "y": 51, "z": 2482 },
+      "jumpDestinationUUID": "29d43f563d7f3000",
+      "jumpDestinationSystemName": "xel"
+    },
+    "ff83d9947835000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "ff83d9947835000",
+      "celestialLocationVector": { "x": 771, "y": 456, "z": -3 },
+      "solarsystem": "erebus"
+    },
+    "a3232fecd40e000": {
+      "type": "darkchildhideout",
+      "name": "Darkchild Hideout",
+      "uuid": "a3232fecd40e000",
+      "celestialLocationVector": { "x": -1483, "y": -432, "z": -1097 },
+      "solarsystem": "erebus"
+    },
+    "4c61a37408e4e000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "4c61a37408e4e000",
+      "celestialLocationVector": { "x": -136, "y": 198, "z": 1292 },
+      "solarsystem": "erebus"
+    },
+    "f1967826264a8000": {
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "uuid": "f1967826264a8000",
+      "celestialLocationVector": { "x": -2561, "y": -384, "z": 1953 },
+      "solarsystem": "erebus"
+    },
+    "73e142911422e000": {
+      "uuid": "73e142911422e000",
+      "solarsystem": "erebus",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1259, "y": 245, "z": 865 },
+      "jumpDestinationUUID": "8af1a17b597cd000",
+      "jumpDestinationSystemName": "the fringe"
+    },
+    "8b4e4551294fc000": {
+      "uuid": "8b4e4551294fc000",
+      "solarsystem": "erebus",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -679, "y": -38, "z": -1924 },
+      "jumpDestinationUUID": "27c6618dcdfc4000",
+      "jumpDestinationSystemName": "metropolis"
+    },
+    "83ae439094001000": {
+      "uuid": "83ae439094001000",
+      "solarsystem": "erebus",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1670, "y": 242, "z": -2726 },
+      "jumpDestinationUUID": "f7ddfcc7ab8d5000",
+      "jumpDestinationSystemName": "frontier"
+    },
+    "9d3bd447f10e8000": {
+      "uuid": "9d3bd447f10e8000",
+      "solarsystem": "erebus",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1279, "y": 10, "z": 2878 },
+      "jumpDestinationUUID": "c7479e3e55077000",
+      "jumpDestinationSystemName": "uruk"
+    },
+    "887b2d3a989b000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "887b2d3a989b000",
+      "celestialLocationVector": { "x": -1547, "y": -395, "z": 2993 },
+      "solarsystem": "frontier"
+    },
+    "b53bcc5f5993c000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "b53bcc5f5993c000",
+      "celestialLocationVector": { "x": 2461, "y": -407, "z": 1240 },
+      "solarsystem": "frontier"
+    },
+    "101f572378bcc000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "101f572378bcc000",
+      "celestialLocationVector": { "x": -101, "y": -286, "z": 2749 },
+      "solarsystem": "frontier"
+    },
+    "acf6d90cc7f72000": {
+      "uuid": "acf6d90cc7f72000",
+      "solarsystem": "frontier",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1189, "y": 65, "z": 1197 },
+      "jumpDestinationUUID": "c67b88944b56a000",
+      "jumpDestinationSystemName": "metropolis"
+    },
+    "496a14becffd2000": {
+      "uuid": "496a14becffd2000",
+      "solarsystem": "frontier",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 313, "y": -327, "z": 293 },
+      "jumpDestinationUUID": "7c48e43da5e4e000",
+      "jumpDestinationSystemName": "insidia"
+    },
+    "f7ddfcc7ab8d5000": {
+      "uuid": "f7ddfcc7ab8d5000",
+      "solarsystem": "frontier",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1606, "y": -211, "z": -716 },
+      "jumpDestinationUUID": "83ae439094001000",
+      "jumpDestinationSystemName": "erebus"
+    },
+    "cfc46ba429e49000": {
+      "uuid": "cfc46ba429e49000",
+      "solarsystem": "frontier",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1061, "y": -51, "z": -1426 },
+      "jumpDestinationUUID": "d4933f465f9ca000",
+      "jumpDestinationSystemName": "valhalla"
+    },
+    "522476f7bb703000": {
+      "uuid": "522476f7bb703000",
+      "solarsystem": "frontier",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1057, "y": 472, "z": -2916 },
+      "jumpDestinationUUID": "5ed0ff48ec763000",
+      "jumpDestinationSystemName": "quanta"
+    },
+    "3aa3beea3b9e7000": {
+      "type": "darkchildhideout",
+      "name": "Darkchild Hideout",
+      "uuid": "3aa3beea3b9e7000",
+      "celestialLocationVector": { "x": 746, "y": -260, "z": 2498 },
+      "solarsystem": "metropolis"
+    },
+    "6c7d8bda979a000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "6c7d8bda979a000",
+      "celestialLocationVector": { "x": -2113, "y": 26, "z": -735 },
+      "solarsystem": "metropolis"
+    },
+    "9939c778c3eca000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "9939c778c3eca000",
+      "celestialLocationVector": { "x": 1935, "y": 95, "z": -2797 },
+      "solarsystem": "metropolis"
+    },
+    "d02f42762fe4e000": {
+      "uuid": "d02f42762fe4e000",
+      "solarsystem": "metropolis",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 953, "y": 400, "z": 165 },
+      "jumpDestinationUUID": "1bb6930d1fda1000",
+      "jumpDestinationSystemName": "the fringe"
+    },
+    "5e93c78035091000": {
+      "uuid": "5e93c78035091000",
+      "solarsystem": "metropolis",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -2373, "y": -51, "z": 2826 },
+      "jumpDestinationUUID": "9590787c8a680000",
+      "jumpDestinationSystemName": "insidia"
+    },
+    "c67b88944b56a000": {
+      "uuid": "c67b88944b56a000",
+      "solarsystem": "metropolis",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -401, "y": -386, "z": 202 },
+      "jumpDestinationUUID": "acf6d90cc7f72000",
+      "jumpDestinationSystemName": "frontier"
+    },
+    "27c6618dcdfc4000": {
+      "uuid": "27c6618dcdfc4000",
+      "solarsystem": "metropolis",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1236, "y": 483, "z": -1790 },
+      "jumpDestinationUUID": "8b4e4551294fc000",
+      "jumpDestinationSystemName": "erebus"
+    },
+    "c7c0a56269533000": {
+      "type": "stationC",
+      "name": "valhalla",
+      "uuid": "c7c0a56269533000",
+      "celestialLocationVector": { "x": -1682, "y": -446, "z": 1084 },
+      "solarsystem": "valhalla"
+    },
+    "d4933f465f9ca000": {
+      "uuid": "d4933f465f9ca000",
+      "solarsystem": "valhalla",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2657, "y": 408, "z": -1146 },
+      "jumpDestinationUUID": "cfc46ba429e49000",
+      "jumpDestinationSystemName": "frontier"
+    },
+    "9e1c4f7c51c1e000": {
+      "uuid": "9e1c4f7c51c1e000",
+      "solarsystem": "valhalla",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 976, "y": -413, "z": 35 },
+      "jumpDestinationUUID": "d59fa64c784f3000",
+      "jumpDestinationSystemName": "quanta"
+    },
+    "f53d057fe5f66000": {
+      "uuid": "f53d057fe5f66000",
+      "solarsystem": "valhalla",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1781, "y": 464, "z": -1283 },
+      "jumpDestinationUUID": "e6bdeb51be11c000",
+      "jumpDestinationSystemName": "the valley"
+    },
+    "89c7d4ab33e2e000": {
+      "uuid": "89c7d4ab33e2e000",
+      "solarsystem": "valhalla",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1694, "y": -134, "z": 566 },
+      "jumpDestinationUUID": "35d3abc9043d000",
+      "jumpDestinationSystemName": "amethyst"
+    },
+    "d66c034ade104000": {
+      "type": "darkchildhideout",
+      "name": "Darkchild Hideout",
+      "uuid": "d66c034ade104000",
+      "celestialLocationVector": { "x": 1955, "y": -487, "z": -2705 },
+      "solarsystem": "quanta"
+    },
+    "1d5219b19c1da000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "1d5219b19c1da000",
+      "celestialLocationVector": { "x": 106, "y": 353, "z": -2411 },
+      "solarsystem": "quanta"
+    },
+    "da09ed322b9b4000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "da09ed322b9b4000",
+      "celestialLocationVector": { "x": 388, "y": 289, "z": -205 },
+      "solarsystem": "quanta"
+    },
+    "22e18d33c293f000": {
+      "type": "abandonedwreckage",
+      "name": "Abandoned Wreckage",
+      "uuid": "22e18d33c293f000",
+      "celestialLocationVector": { "x": 164, "y": -89, "z": -307 },
+      "solarsystem": "quanta"
+    },
+    "46bc7e80b6a6d000": {
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "uuid": "46bc7e80b6a6d000",
+      "celestialLocationVector": { "x": 2651, "y": -158, "z": 1638 },
+      "solarsystem": "quanta"
+    },
+    "d59fa64c784f3000": {
+      "uuid": "d59fa64c784f3000",
+      "solarsystem": "quanta",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 1233, "y": -323, "z": 749 },
+      "jumpDestinationUUID": "9e1c4f7c51c1e000",
+      "jumpDestinationSystemName": "valhalla"
+    },
+    "5ed0ff48ec763000": {
+      "uuid": "5ed0ff48ec763000",
+      "solarsystem": "quanta",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2528, "y": -16, "z": -2398 },
+      "jumpDestinationUUID": "522476f7bb703000",
+      "jumpDestinationSystemName": "frontier"
+    },
+    "22d0746bb231c000": {
+      "type": "abandonedwreckage",
+      "name": "Abandoned Wreckage",
+      "uuid": "22d0746bb231c000",
+      "celestialLocationVector": { "x": -752, "y": 483, "z": -44 },
+      "solarsystem": "insidia"
+    },
+    "db888b4b9accc000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "db888b4b9accc000",
+      "celestialLocationVector": { "x": -2622, "y": 302, "z": 2694 },
+      "solarsystem": "insidia"
+    },
+    "ddbef27c4a9b4000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "ddbef27c4a9b4000",
+      "celestialLocationVector": { "x": -17, "y": 209, "z": -2340 },
+      "solarsystem": "insidia"
+    },
+    "8cf8a3cc08712000": {
+      "uuid": "8cf8a3cc08712000",
+      "solarsystem": "insidia",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -118, "y": -390, "z": -2658 },
+      "jumpDestinationUUID": "ecc590c02caca000",
+      "jumpDestinationSystemName": "xel"
+    },
+    "9590787c8a680000": {
+      "uuid": "9590787c8a680000",
+      "solarsystem": "insidia",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1542, "y": 473, "z": -2157 },
+      "jumpDestinationUUID": "5e93c78035091000",
+      "jumpDestinationSystemName": "metropolis"
+    },
+    "7c48e43da5e4e000": {
+      "uuid": "7c48e43da5e4e000",
+      "solarsystem": "insidia",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1776, "y": -442, "z": -352 },
+      "jumpDestinationUUID": "496a14becffd2000",
+      "jumpDestinationSystemName": "frontier"
+    },
+    "1408864e85a82000": {
+      "uuid": "1408864e85a82000",
+      "solarsystem": "insidia",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -1441, "y": -367, "z": -1945 },
+      "jumpDestinationUUID": "3af3957d6ea7b000",
+      "jumpDestinationSystemName": "ream"
+    },
+    "6ee4e5fd18539000": {
+      "type": "abandonedwreckage",
+      "name": "Abandoned Wreckage",
+      "uuid": "6ee4e5fd18539000",
+      "celestialLocationVector": { "x": 1112, "y": -387, "z": -2262 },
+      "solarsystem": "the valley"
+    },
+    "e5e99ecdc38d6000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "e5e99ecdc38d6000",
+      "celestialLocationVector": { "x": -2067, "y": 287, "z": -2363 },
+      "solarsystem": "the valley"
+    },
+    "79b1243ade517000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "79b1243ade517000",
+      "celestialLocationVector": { "x": 2047, "y": -470, "z": -1978 },
+      "solarsystem": "the valley"
+    },
+    "223bf6185d13b000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "223bf6185d13b000",
+      "celestialLocationVector": { "x": -1668, "y": -189, "z": 264 },
+      "solarsystem": "the valley"
+    },
+    "94dfcb2e1ccf0000": {
+      "type": "guardedwreckage",
+      "name": "Guarded Wreckage",
+      "uuid": "94dfcb2e1ccf0000",
+      "celestialLocationVector": { "x": -1465, "y": -255, "z": -209 },
+      "solarsystem": "the valley"
+    },
+    "e6bdeb51be11c000": {
+      "uuid": "e6bdeb51be11c000",
+      "solarsystem": "the valley",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2799, "y": -83, "z": 1426 },
+      "jumpDestinationUUID": "f53d057fe5f66000",
+      "jumpDestinationSystemName": "valhalla"
+    },
+    "e67dd658cacb0000": {
+      "type": "darkchildhideout",
+      "name": "Darkchild Hideout",
+      "uuid": "e67dd658cacb0000",
+      "celestialLocationVector": { "x": -2585, "y": -174, "z": 1196 },
+      "solarsystem": "amethyst"
+    },
+    "2c5878192da09000": {
+      "type": "imperialwarpgate",
+      "name": "imperialWarpgate",
+      "uuid": "2c5878192da09000",
+      "celestialLocationVector": { "x": -1815, "y": -411, "z": -347 },
+      "solarsystem": "amethyst"
+    },
+    "35d3abc9043d000": {
+      "uuid": "35d3abc9043d000",
+      "solarsystem": "amethyst",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2560, "y": 327, "z": -65 },
+      "jumpDestinationUUID": "89c7d4ab33e2e000",
+      "jumpDestinationSystemName": "valhalla"
+    },
+    "4c2cf6899b9b8000": {
+      "uuid": "4c2cf6899b9b8000",
+      "solarsystem": "amethyst",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2945, "y": 293, "z": -400 },
+      "jumpDestinationUUID": "a487d59dc4aec000",
+      "jumpDestinationSystemName": "uruk"
+    },
+    "f9ab255a467a000": {
+      "uuid": "f9ab255a467a000",
+      "solarsystem": "amethyst",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -1718, "y": -270, "z": -192 },
+      "jumpDestinationUUID": "a72962dd404c8000",
+      "jumpDestinationSystemName": "vorta"
+    },
+    "9aa7338815e8a000": {
+      "type": "imperialwarpgate",
+      "name": "imperialWarpgate",
+      "uuid": "9aa7338815e8a000",
+      "celestialLocationVector": { "x": -432, "y": 39, "z": 2648 },
+      "solarsystem": "uruk"
+    },
+    "a487d59dc4aec000": {
+      "uuid": "a487d59dc4aec000",
+      "solarsystem": "uruk",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -593, "y": -304, "z": 2208 },
+      "jumpDestinationUUID": "4c2cf6899b9b8000",
+      "jumpDestinationSystemName": "amethyst"
+    },
+    "c7479e3e55077000": {
+      "uuid": "c7479e3e55077000",
+      "solarsystem": "uruk",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1349, "y": 463, "z": 944 },
+      "jumpDestinationUUID": "9d3bd447f10e8000",
+      "jumpDestinationSystemName": "erebus"
+    },
+    "a53d498298073000": {
+      "type": "darkchildhideout",
+      "name": "Darkchild Hideout",
+      "uuid": "a53d498298073000",
+      "celestialLocationVector": { "x": -1392, "y": 241, "z": -325 },
+      "solarsystem": "mode"
+    },
+    "a2d68fda54722000": {
+      "type": "imperialwarpgate",
+      "name": "imperialWarpgate",
+      "uuid": "a2d68fda54722000",
+      "celestialLocationVector": { "x": 1055, "y": 189, "z": 1322 },
+      "solarsystem": "mode"
+    },
+    "398a42a7704f7000": {
+      "uuid": "398a42a7704f7000",
+      "solarsystem": "mode",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 2479, "y": -9, "z": 2821 },
+      "jumpDestinationUUID": "9ae1a4584ac51000",
+      "jumpDestinationSystemName": "vorta"
+    },
+    "a6be9afe8ed17000": {
+      "uuid": "a6be9afe8ed17000",
+      "solarsystem": "mode",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -531, "y": 355, "z": 2074 },
+      "jumpDestinationUUID": "606ab36df2d3f000",
+      "jumpDestinationSystemName": "ream"
+    },
+    "4655ba78976d3000": {
+      "type": "hivemindsquad",
+      "name": "Hivemind Squad",
+      "uuid": "4655ba78976d3000",
+      "celestialLocationVector": { "x": -402, "y": 262, "z": 904 },
+      "solarsystem": "vorta"
+    },
+    "bdf03bb2f3076000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "bdf03bb2f3076000",
+      "celestialLocationVector": { "x": 2040, "y": 125, "z": 1438 },
+      "solarsystem": "vorta"
+    },
+    "81eca331579bb000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "81eca331579bb000",
+      "celestialLocationVector": { "x": -2047, "y": 132, "z": 2541 },
+      "solarsystem": "vorta"
+    },
+    "a72962dd404c8000": {
+      "uuid": "a72962dd404c8000",
+      "solarsystem": "vorta",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -1374, "y": 119, "z": 721 },
+      "jumpDestinationUUID": "f9ab255a467a000",
+      "jumpDestinationSystemName": "amethyst"
+    },
+    "9ae1a4584ac51000": {
+      "uuid": "9ae1a4584ac51000",
+      "solarsystem": "vorta",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -408, "y": 64, "z": 2218 },
+      "jumpDestinationUUID": "398a42a7704f7000",
+      "jumpDestinationSystemName": "mode"
+    },
+    "69da004d60151000": {
+      "uuid": "69da004d60151000",
+      "solarsystem": "vorta",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -1690, "y": -206, "z": -1740 },
+      "jumpDestinationUUID": "237c92cefd70c000",
+      "jumpDestinationSystemName": "farse"
+    },
+    "9e97feafff463000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "9e97feafff463000",
+      "celestialLocationVector": { "x": -2996, "y": -460, "z": 1053 },
+      "solarsystem": "farse"
+    },
+    "2e4084f431b65000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "2e4084f431b65000",
+      "celestialLocationVector": { "x": 1156, "y": -185, "z": 172 },
+      "solarsystem": "farse"
+    },
+    "ef4034635e568000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "ef4034635e568000",
+      "celestialLocationVector": { "x": -268, "y": 234, "z": -992 },
+      "solarsystem": "farse"
+    },
+    "40c4694a1a216000": {
+      "type": "hivemindsquad",
+      "name": "Hivemind Squad",
+      "uuid": "40c4694a1a216000",
+      "celestialLocationVector": { "x": -2040, "y": -231, "z": -623 },
+      "solarsystem": "farse"
+    },
+    "237c92cefd70c000": {
+      "uuid": "237c92cefd70c000",
+      "solarsystem": "farse",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 99, "y": 169, "z": 397 },
+      "jumpDestinationUUID": "69da004d60151000",
+      "jumpDestinationSystemName": "vorta"
+    },
+    "f66cc6d0ef85e000": {
+      "uuid": "f66cc6d0ef85e000",
+      "solarsystem": "farse",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 2231, "y": 369, "z": -1324 },
+      "jumpDestinationUUID": "55faadb6ef16e000",
+      "jumpDestinationSystemName": "xena"
+    },
+    "ee15b3e44e866000": {
+      "uuid": "ee15b3e44e866000",
+      "solarsystem": "farse",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -1346, "y": 171, "z": -1585 },
+      "jumpDestinationUUID": "3067f2e00150f000",
+      "jumpDestinationSystemName": "tornado"
+    },
+    "823fdd2223d8000": {
+      "type": "imperialwarpgate",
+      "name": "imperialWarpgate",
+      "uuid": "823fdd2223d8000",
+      "celestialLocationVector": { "x": 489, "y": 193, "z": 754 },
+      "solarsystem": "xena"
+    },
+    "edd353f3e7e3000": {
+      "type": "synthforce",
+      "name": "Synth Roamers",
+      "uuid": "edd353f3e7e3000",
+      "celestialLocationVector": { "x": 2627, "y": -192, "z": 569 },
+      "solarsystem": "xena"
+    },
+    "fa09ca6506415000": {
+      "type": "hivemindsquad",
+      "name": "Hivemind Squad",
+      "uuid": "fa09ca6506415000",
+      "celestialLocationVector": { "x": 1720, "y": 292, "z": -409 },
+      "solarsystem": "xena"
+    },
+    "55faadb6ef16e000": {
+      "uuid": "55faadb6ef16e000",
+      "solarsystem": "xena",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -2854, "y": -279, "z": 2755 },
+      "jumpDestinationUUID": "f66cc6d0ef85e000",
+      "jumpDestinationSystemName": "farse"
+    },
+    "b22a9235b2e3a000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "b22a9235b2e3a000",
+      "celestialLocationVector": { "x": -1287, "y": -11, "z": -1009 },
+      "solarsystem": "tornado"
+    },
+    "cb2d9bedba972000": {
+      "type": "imperialwarpgate",
+      "name": "imperialWarpgate",
+      "uuid": "cb2d9bedba972000",
+      "celestialLocationVector": { "x": 1314, "y": 270, "z": -581 },
+      "solarsystem": "tornado"
+    },
+    "7196c9556bdfa000": {
+      "type": "hivemindsquad",
+      "name": "Hivemind Squad",
+      "uuid": "7196c9556bdfa000",
+      "celestialLocationVector": { "x": 944, "y": 62, "z": 1881 },
+      "solarsystem": "tornado"
+    },
+    "7f194a4774c03000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "7f194a4774c03000",
+      "celestialLocationVector": { "x": 1684, "y": 383, "z": -874 },
+      "solarsystem": "tornado"
+    },
+    "3067f2e00150f000": {
+      "uuid": "3067f2e00150f000",
+      "solarsystem": "tornado",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 2939, "y": -201, "z": 840 },
+      "jumpDestinationUUID": "ee15b3e44e866000",
+      "jumpDestinationSystemName": "farse"
+    },
+    "67050c9b5f62b000": {
+      "uuid": "67050c9b5f62b000",
+      "solarsystem": "tornado",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 82, "y": -444, "z": -2258 },
+      "jumpDestinationUUID": "c4768b8e9bef8000",
+      "jumpDestinationSystemName": "ream"
+    },
+    "266eff8da5104000": {
+      "uuid": "266eff8da5104000",
+      "solarsystem": "tornado",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": -1326, "y": -358, "z": 659 },
+      "jumpDestinationUUID": "140508a5c0adc000",
+      "jumpDestinationSystemName": "the edge"
+    },
+    "185bd348dc1f2000": {
+      "type": "synthforce",
+      "name": "Synth Roamers",
+      "uuid": "185bd348dc1f2000",
+      "celestialLocationVector": { "x": -1584, "y": -167, "z": 2027 },
+      "solarsystem": "ream"
+    },
+    "2305dc49abe38000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "2305dc49abe38000",
+      "celestialLocationVector": { "x": 1916, "y": -265, "z": 679 },
+      "solarsystem": "ream"
+    },
+    "40c0b7be9ae96000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "40c0b7be9ae96000",
+      "celestialLocationVector": { "x": 2449, "y": -136, "z": -118 },
+      "solarsystem": "ream"
+    },
+    "1a555fe87fa66000": {
+      "type": "hivemindbeacon",
+      "name": "Hivemind Beacon",
+      "uuid": "1a555fe87fa66000",
+      "celestialLocationVector": { "x": -1079, "y": -455, "z": -1016 },
+      "solarsystem": "ream"
+    },
+    "586b561f48abc000": {
+      "type": "hivemindsquad",
+      "name": "Hivemind Squad",
+      "uuid": "586b561f48abc000",
+      "celestialLocationVector": { "x": -1474, "y": -256, "z": 1743 },
+      "solarsystem": "ream"
+    },
+    "606ab36df2d3f000": {
+      "uuid": "606ab36df2d3f000",
+      "solarsystem": "ream",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 1996, "y": -376, "z": -2389 },
+      "jumpDestinationUUID": "a6be9afe8ed17000",
+      "jumpDestinationSystemName": "mode"
+    },
+    "c4768b8e9bef8000": {
+      "uuid": "c4768b8e9bef8000",
+      "solarsystem": "ream",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 726, "y": -342, "z": 1786 },
+      "jumpDestinationUUID": "67050c9b5f62b000",
+      "jumpDestinationSystemName": "tornado"
+    },
+    "3af3957d6ea7b000": {
+      "uuid": "3af3957d6ea7b000",
+      "solarsystem": "ream",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 2678, "y": -431, "z": 2570 },
+      "jumpDestinationUUID": "1408864e85a82000",
+      "jumpDestinationSystemName": "insidia"
+    },
+    "f14d0fcf977f000": {
+      "type": "hivemindagents",
+      "name": "Hivemind Agents",
+      "uuid": "f14d0fcf977f000",
+      "celestialLocationVector": { "x": -1613, "y": -382, "z": -1755 },
+      "solarsystem": "the edge"
+    },
+    "31f0d0e692236000": {
+      "type": "droneraiders",
+      "name": "Drone Raiders",
+      "uuid": "31f0d0e692236000",
+      "celestialLocationVector": { "x": 2133, "y": -292, "z": 2129 },
+      "solarsystem": "the edge"
+    },
+    "303e2eef940ac000": {
+      "type": "hivemindsquad",
+      "name": "Hivemind Squad",
+      "uuid": "303e2eef940ac000",
+      "celestialLocationVector": { "x": 2717, "y": -188, "z": -1352 },
+      "solarsystem": "the edge"
+    },
+    "2fe5006927d28000": {
+      "type": "imperialwarpgate",
+      "name": "imperialWarpgate",
+      "uuid": "2fe5006927d28000",
+      "celestialLocationVector": { "x": -1039, "y": 180, "z": -2097 },
+      "solarsystem": "the edge"
+    },
+    "140508a5c0adc000": {
+      "uuid": "140508a5c0adc000",
+      "solarsystem": "the edge",
+      "type": "warpgate3",
+      "celestialLocationVector": { "x": 1729, "y": 274, "z": -303 },
+      "jumpDestinationUUID": "266eff8da5104000",
+      "jumpDestinationSystemName": "tornado"
+    },
+    "40045275a2847000": {
+      "uuid": "40045275a2847000",
+      "type": "largewaterplanet",
+      "name": "alterhaven",
+      "celestialLocationVector": { "x": 657, "y": 425, "z": 111 },
+      "solarsystem": "xel"
+    },
+    "ffb2daa97e7e6000": {
+      "type": "minorreplicationfacility",
+      "name": "Minor Replication Facility",
+      "uuid": "ffb2daa97e7e6000",
+      "celestialLocationVector": { "x": 2981, "y": 101, "z": 14 },
+      "solarsystem": "xel"
+    },
+    "de20381177128000": {
+      "type": "synthforce",
+      "name": "Lesser Synth Force",
+      "uuid": "de20381177128000",
+      "celestialLocationVector": { "x": -2575, "y": 400, "z": 767 },
+      "solarsystem": "xel"
+    },
+    "db2b3e3b541d000": {
+      "type": "synthoutpost",
+      "name": "Synth Wing",
+      "uuid": "db2b3e3b541d000",
+      "celestialLocationVector": { "x": -1141, "y": 176, "z": -1533 },
+      "solarsystem": "xel"
+    },
+    "5d6fb151eca28000": {
+      "type": "renegadescouts",
+      "name": "Renegade Scouts",
+      "uuid": "5d6fb151eca28000",
+      "celestialLocationVector": { "x": 1832, "y": 319, "z": -123 },
+      "solarsystem": "xel"
+    },
+    "1247db51ed4bd000": {
+      "type": "guardedwreckage",
+      "name": "Rogue Drone Wing",
+      "uuid": "1247db51ed4bd000",
+      "celestialLocationVector": { "x": 2094, "y": 168, "z": 2981 },
+      "solarsystem": "xel"
+    },
+    "a4b467a47ebbd000": {
+      "type": "darkchildtwins",
+      "name": "Darkchild Twins",
+      "uuid": "a4b467a47ebbd000",
+      "celestialLocationVector": { "x": -2638, "y": 47, "z": -535 },
+      "solarsystem": "xel"
+    },
+    "29b6e895af7d2000": {
+      "type": "droneoutpost",
+      "name": "Rogue Drone Horde",
+      "uuid": "29b6e895af7d2000",
+      "celestialLocationVector": { "x": -159, "y": 455, "z": 2515 },
+      "solarsystem": "xel"
+    },
+    "21bb608a10be8000": {
+      "type": "darkchildinvestigation",
+      "name": "Darkchild Agents",
+      "uuid": "21bb608a10be8000",
+      "celestialLocationVector": { "x": 1049, "y": -332, "z": -2896 },
+      "solarsystem": "xel"
+    },
+    "40cc7c29d051000": {
+      "uuid": "40cc7c29d051000",
+      "solarsystem": "xel",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1438, "y": 160, "z": -417 },
+      "jumpDestinationUUID": "b7140378cbec000",
+      "jumpDestinationSystemName": "mikers"
+    },
+    "29d43f563d7f3000": {
+      "uuid": "29d43f563d7f3000",
+      "solarsystem": "xel",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": -1337, "y": -273, "z": 2281 },
+      "jumpDestinationUUID": "7632fe3f24167000",
+      "jumpDestinationSystemName": "hex"
+    },
+    "ecc590c02caca000": {
+      "uuid": "ecc590c02caca000",
+      "solarsystem": "xel",
+      "type": "warpgate1",
+      "celestialLocationVector": { "x": 2911, "y": -320, "z": -1498 },
+      "jumpDestinationUUID": "8cf8a3cc08712000",
+      "jumpDestinationSystemName": "insidia"
+    }
+  },
+  "jumpgate_connections": [
+    {
+      "systemA": "the circle",
+      "systemA_uuid": "322d5d0287c77000",
+      "systemB": "antonopoulos",
+      "systemB_uuid": "1d329ceaca82d000",
+      "type": "warpgate1"
+    },
+    {
+      "systemA": "the circle",
+      "systemA_uuid": "bafc0e7c76902000",
+      "systemB": "hallow",
+      "type": "warpgate1",
+      "systemB_uuid": "110df5eb10385000"
+    },
+    {
+      "systemA": "the circle",
+      "systemA_uuid": "9217ece94c38b000",
+      "systemB": "llarval",
+      "systemB_uuid": "c9cf649f814be000",
+      "type": "warpgate1"
+    },
+    {
+      "systemA": "hallow",
+      "systemA_uuid": "2c286a1df413000",
+      "systemB": "misery",
+      "type": "warpgate2",
+      "systemB_uuid": "6e4facaebb8eb000"
+    },
+    {
+      "systemA": "the void",
+      "systemA_uuid": "20d1f0ee6b1a2000",
+      "systemB": "misery",
+      "systemB_uuid": "ff26251e5f4e4000",
+      "type": "warpgate2"
+    },
+    {
+      "systemA": "cerberus",
+      "systemA_uuid": "5577ee2d5a600000",
+      "systemB": "hallow",
+      "systemB_uuid": "fd660195a6b43000",
+      "type": "warpgate1"
+    },
+    {
+      "systemA": "V-II",
+      "systemA_uuid": "f1fec6cf1e82f000",
+      "systemB": "antonopoulos",
+      "systemB_uuid": "7d343ca61a65e000",
+      "type": "warpgate1"
+    },
+    {
+      "systemA": "tarcq",
+      "systemA_uuid": "7b90bb5f4006b000",
+      "systemB": "antonopoulos",
+      "type": "warpgate1",
+      "systemB_uuid": "d05d64eecce3c000"
+    },
+    {
+      "systemA": "tarcq",
+      "systemB": "the fringe",
+      "type": "warpgate1",
+      "systemA_uuid": "9e1f164ec4368000",
+      "systemB_uuid": "d3c9c1f709d2c000"
+    },
+    {
+      "systemA": "rekkt",
+      "systemA_uuid": "5caeb75ce0a5c000",
+      "systemB": "antonopoulos",
+      "type": "warpgate1",
+      "systemB_uuid": "ade8fb116221f000"
+    },
+    {
+      "systemA": "tarcq",
+      "systemB": "majora minor",
+      "type": "warpgate1",
+      "systemA_uuid": "84773d5c0f457000",
+      "systemB_uuid": "c634a22a3eaf3000"
+    },
+    {
+      "systemA": "rekkt",
+      "systemA_uuid": "44c8ea617e3af000",
+      "systemB": "majora minor",
+      "systemB_uuid": "16fcf9d039449000",
+      "type": "warpgate1"
+    },
+    {
+      "systemA": "majora minor",
+      "systemB": "mikers",
+      "type": "warpgate1",
+      "systemA_uuid": "6bdaaa8f36153000",
+      "systemB_uuid": "de9d414909743000"
+    },
+    {
+      "systemA": "mikers",
+      "systemB": "xel",
+      "type": "warpgate1",
+      "systemA_uuid": "b7140378cbec000",
+      "systemB_uuid": "40cc7c29d051000"
+    },
+    {
+      "systemA": "mikers",
+      "systemB": "orwyn",
+      "type": "warpgate1",
+      "systemA_uuid": "bf4fe2f82af6000",
+      "systemB_uuid": "4598328094048000"
+    },
+    {
+      "systemA": "orwyn",
+      "systemB": "adastar",
+      "type": "warpgate1",
+      "systemA_uuid": "d84df9b690a74000",
+      "systemB_uuid": "66e3083052370000"
+    },
+    {
+      "systemA": "orwyn",
+      "systemB": "synthesis",
+      "type": "warpgate1",
+      "systemA_uuid": "56b3ca8e2acaf000",
+      "systemB_uuid": "ca69beac3118b000"
+    },
+    {
+      "systemA": "V-II",
+      "systemA_uuid": "862bd583d165000",
+      "systemB": "turbulensa",
+      "systemB_uuid": "c61db3c4ab071000",
+      "type": "warpgate1"
+    },
+    {
+      "systemA": "llarval",
+      "systemA_uuid": "911d3dca8967e000",
+      "systemB": "turbulensa",
+      "systemB_uuid": "ac730232a165e000",
+      "type": "warpgate4"
+    },
+    {
+      "systemA": "llarval",
+      "systemA_uuid": "63a250770181d000",
+      "systemB": "hal",
+      "systemB_uuid": "f5375d431063c000",
+      "type": "warpgate4"
+    },
+    {
+      "systemA": "hal",
+      "systemB": "azlehria",
+      "type": "warpgate7",
+      "systemA_uuid": "e963d12cab204000",
+      "systemB_uuid": "9812712813648000"
+    },
+    {
+      "systemA": "hal",
+      "systemB": "M-VIS",
+      "type": "warpgate7",
+      "systemA_uuid": "6e2e027784798000",
+      "systemB_uuid": "57f605007817e000"
+    },
+    {
+      "systemA": "satoshi",
+      "systemB": "azlehria",
+      "type": "warpgate7",
+      "systemA_uuid": "80bb05758ee09000",
+      "systemB_uuid": "2f9a17ef3443a000"
+    },
+    {
+      "systemA": "szabo",
+      "systemB": "azlehria",
+      "type": "warpgate7",
+      "systemA_uuid": "5e2913f8ce629000",
+      "systemB_uuid": "603b25b658cad000"
+    },
+    {
+      "systemA": "M-VIS",
+      "systemB": "azlehria",
+      "type": "warpgate7",
+      "systemA_uuid": "dc3375d1597d1000",
+      "systemB_uuid": "ebcb2ca418c74000"
+    },
+    {
+      "systemA": "satoshi",
+      "systemB": "hal",
+      "type": "warpgate7",
+      "systemA_uuid": "4d6455814cb76000",
+      "systemB_uuid": "19b271971bee3000"
+    },
+    {
+      "systemA": "synthesis",
+      "systemB": "serenity",
+      "type": "warpgate1",
+      "systemA_uuid": "3ad76eee98e22000",
+      "systemB_uuid": "170369f4beb00000"
+    },
+    {
+      "systemA": "serenity",
+      "systemB": "snarks",
+      "type": "warpgate1",
+      "systemA_uuid": "10c987da9fc47000",
+      "systemB_uuid": "bc59f8840cf90000"
+    },
+    {
+      "systemA": "serenity",
+      "systemB": "shiba",
+      "type": "warpgate1",
+      "systemA_uuid": "9a757a230af4b000",
+      "systemB_uuid": "5a84d6ed8f0cc000"
+    },
+    {
+      "systemA": "m-vis",
+      "systemB": "shiba",
+      "type": "warpgate7",
+      "systemA_uuid": "54aeb81dbcbe000",
+      "systemB_uuid": "d13bf5b83fad2000"
+    },
+    {
+      "systemA": "the fringe",
+      "systemB": "erebus",
+      "type": "warpgate1",
+      "systemA_uuid": "8af1a17b597cd000",
+      "systemB_uuid": "73e142911422e000"
+    },
+    {
+      "systemA": "the fringe",
+      "systemB": "hex",
+      "type": "warpgate1",
+      "systemA_uuid": "75ff0ca104193000",
+      "systemB_uuid": "77b5a01a4995000"
+    },
+    {
+      "systemA": "the fringe",
+      "systemB": "metropolis",
+      "type": "warpgate1",
+      "systemA_uuid": "1bb6930d1fda1000",
+      "systemB_uuid": "d02f42762fe4e000"
+    },
+    {
+      "systemA": "xel",
+      "systemB": "hex",
+      "type": "warpgate1",
+      "systemA_uuid": "29d43f563d7f3000",
+      "systemB_uuid": "7632fe3f24167000"
+    },
+    {
+      "systemA": "xel",
+      "systemB": "insidia",
+      "type": "warpgate1",
+      "systemA_uuid": "ecc590c02caca000",
+      "systemB_uuid": "8cf8a3cc08712000"
+    },
+    {
+      "systemA": "metropolis",
+      "systemB": "insidia",
+      "type": "warpgate1",
+      "systemA_uuid": "5e93c78035091000",
+      "systemB_uuid": "9590787c8a680000"
+    },
+    {
+      "systemA": "metropolis",
+      "systemB": "frontier",
+      "type": "warpgate1",
+      "systemA_uuid": "c67b88944b56a000",
+      "systemB_uuid": "acf6d90cc7f72000"
+    },
+    {
+      "systemA": "frontier",
+      "systemB": "insidia",
+      "type": "warpgate1",
+      "systemA_uuid": "496a14becffd2000",
+      "systemB_uuid": "7c48e43da5e4e000"
+    },
+    {
+      "systemA": "erebus",
+      "systemB": "metropolis",
+      "type": "warpgate1",
+      "systemA_uuid": "8b4e4551294fc000",
+      "systemB_uuid": "27c6618dcdfc4000"
+    },
+    {
+      "systemA": "erebus",
+      "systemB": "frontier",
+      "type": "warpgate1",
+      "systemA_uuid": "83ae439094001000",
+      "systemB_uuid": "f7ddfcc7ab8d5000"
+    },
+    {
+      "systemA": "valhalla",
+      "systemB": "frontier",
+      "type": "warpgate1",
+      "systemA_uuid": "d4933f465f9ca000",
+      "systemB_uuid": "cfc46ba429e49000"
+    },
+    {
+      "systemA": "valhalla",
+      "systemB": "quanta",
+      "type": "warpgate1",
+      "systemA_uuid": "9e1c4f7c51c1e000",
+      "systemB_uuid": "d59fa64c784f3000"
+    },
+    {
+      "systemA": "quanta",
+      "systemB": "frontier",
+      "type": "warpgate1",
+      "systemA_uuid": "5ed0ff48ec763000",
+      "systemB_uuid": "522476f7bb703000"
+    },
+    {
+      "systemA": "valhalla",
+      "systemB": "the valley",
+      "type": "warpgate1",
+      "systemA_uuid": "f53d057fe5f66000",
+      "systemB_uuid": "e6bdeb51be11c000"
+    },
+    {
+      "systemA": "valhalla",
+      "systemB": "amethyst",
+      "type": "warpgate1",
+      "systemA_uuid": "89c7d4ab33e2e000",
+      "systemB_uuid": "35d3abc9043d000"
+    },
+    {
+      "systemA": "uruk",
+      "systemB": "amethyst",
+      "type": "warpgate1",
+      "systemA_uuid": "a487d59dc4aec000",
+      "systemB_uuid": "4c2cf6899b9b8000"
+    },
+    {
+      "systemA": "uruk",
+      "systemB": "erebus",
+      "type": "warpgate1",
+      "systemA_uuid": "c7479e3e55077000",
+      "systemB_uuid": "9d3bd447f10e8000"
+    },
+    {
+      "systemA": "vorta",
+      "systemB": "amethyst",
+      "type": "warpgate3",
+      "systemA_uuid": "a72962dd404c8000",
+      "systemB_uuid": "f9ab255a467a000"
+    },
+    {
+      "systemA": "vorta",
+      "systemB": "mode",
+      "type": "warpgate3",
+      "systemA_uuid": "9ae1a4584ac51000",
+      "systemB_uuid": "398a42a7704f7000"
+    },
+    {
+      "systemA": "ream",
+      "systemB": "mode",
+      "type": "warpgate3",
+      "systemA_uuid": "606ab36df2d3f000",
+      "systemB_uuid": "a6be9afe8ed17000"
+    },
+    {
+      "systemA": "vorta",
+      "systemB": "farse",
+      "type": "warpgate3",
+      "systemA_uuid": "69da004d60151000",
+      "systemB_uuid": "237c92cefd70c000"
+    },
+    {
+      "systemA": "xena",
+      "systemB": "farse",
+      "type": "warpgate3",
+      "systemA_uuid": "55faadb6ef16e000",
+      "systemB_uuid": "f66cc6d0ef85e000"
+    },
+    {
+      "systemA": "tornado",
+      "systemB": "farse",
+      "type": "warpgate3",
+      "systemA_uuid": "3067f2e00150f000",
+      "systemB_uuid": "ee15b3e44e866000"
+    },
+    {
+      "systemA": "tornado",
+      "systemB": "ream",
+      "type": "warpgate3",
+      "systemA_uuid": "67050c9b5f62b000",
+      "systemB_uuid": "c4768b8e9bef8000"
+    },
+    {
+      "systemA": "tornado",
+      "systemB": "the edge",
+      "type": "warpgate3",
+      "systemA_uuid": "266eff8da5104000",
+      "systemB_uuid": "140508a5c0adc000"
+    },
+    {
+      "systemA": "insidia",
+      "systemB": "ream",
+      "type": "warpgate3",
+      "systemA_uuid": "1408864e85a82000",
+      "systemB_uuid": "3af3957d6ea7b000"
+    }
+  ]
+}

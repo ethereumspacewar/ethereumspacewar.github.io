@@ -1,0 +1,374 @@
+{
+
+  "warpcore": {
+    "input":[
+      {"internalName": "supercapacitor", "quantity": 2},
+      {"internalName": "vanadium", "quantity": 4}
+    ],
+    "timeFactor": 30
+  },
+  "fluxreactor": {
+    "input":[
+      {"internalName": "tritium", "quantity": 6},
+      {"internalName": "uranium", "quantity": 4},
+      {"internalName": "carbonizedmembranes", "quantity": 2}
+    ],
+    "timeFactor": 30
+  },
+  "fusionreactor": {
+    "input":[
+      {"internalName": "tritium", "quantity": 12},
+      {"internalName": "uranium", "quantity": 4},
+      {"internalName": "hexinite", "quantity": 4},
+      {"internalName": "plasmids", "quantity": 4},
+      {"internalName": "carbonizedmembranes", "quantity": 10}
+    ],
+    "timeFactor": 30
+  },
+  "teslacoil": {
+    "input":[
+      {"internalName": "tritium", "quantity": 4},
+      {"internalName": "nanocrystals", "quantity": 4},
+      {"internalName": "metalscrap", "quantity":6}
+    ],
+    "timeFactor": 30
+  },
+  "reinforcedarmorplate": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 6},
+      {"internalName": "carbonizedmembranes", "quantity": 4}
+    ],
+    "timeFactor": 10
+  },
+  "smallcoprocessor": {
+    "input":[
+      {"internalName": "integratedcpu", "quantity": 1},
+      {"internalName": "tritium", "quantity": 4},
+      {"internalName": "uranium", "quantity": 2}
+    ],
+    "timeFactor": 10
+  },
+  "shieldbattery": {
+    "input":[
+      {"internalName": "nanocrystals", "quantity": 10},
+      {"internalName": "tritium", "quantity": 8},
+      {"internalName": "metalscrap", "quantity": 2}
+    ],
+    "timeFactor": 10
+  },
+  "energycore": {
+    "input":[
+      {"internalName": "teslacoil", "quantity": 2},
+      {"internalName": "uranium", "quantity": 4}
+    ],
+    "timeFactor": 10
+  },
+  "supercapacitor": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 8},
+      {"internalName": "ionizedfluid", "quantity": 6}
+    ],
+    "timeFactor": 10
+  },
+
+
+  "fuelcell": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "ionizedfluid", "quantity": 4},
+      {"internalName": "vanadium", "quantity": 1}
+    ],
+    "timeFactor": 10
+  },
+
+
+
+  "heavyarmorplating": {
+    "input":[
+      {"internalName": "reinforcedarmorplate", "quantity": 4},
+      {"internalName": "vanadium", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+  "basicarmorplating": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 10}
+    ],
+    "timeFactor": 10
+  },
+  "lightrailgun": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "teslacoil", "quantity": 2},
+      {"internalName": "fluxreactor", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+
+  "antimatterrailcannon": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 32},
+      {"internalName": "teslacoil", "quantity": 4},
+      {"internalName": "fluxreactor", "quantity": 2},
+      {"internalName": "hexinite", "quantity": 4},
+      {"internalName": "antimatter", "quantity": 4}
+
+    ],
+    "timeFactor": 10
+  },
+
+  "smallpulselaser": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 8},
+      {"internalName": "teslacoil", "quantity": 1},
+      {"internalName": "fluxreactor", "quantity": 1},
+      {"internalName": "uranium", "quantity": 1}
+
+
+    ],
+    "timeFactor": 10
+  },
+
+
+  "hypercannon": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "tritium", "quantity": 4},
+      {"internalName": "teslacoil", "quantity": 2},
+      {"internalName": "supercapacitor", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+  "vectormissilebay": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "tritium", "quantity": 4},
+      {"internalName": "fuelcell", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+  "rapidrocketlauncher": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "vanadium", "quantity": 4},
+      {"internalName": "fuelcell", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+  "gatlingcannon": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 8},
+      {"internalName": "vanadium", "quantity": 4},
+      {"internalName": "supercapacitor", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+  "smallshieldregenerator": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 6},
+      {"internalName": "shieldbattery", "quantity": 2},
+      {"internalName": "supercapacitor", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+  "smallshieldrecharger": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 2},
+      {"internalName": "shieldbattery", "quantity": 2},
+      {"internalName": "teslacoil", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+  "smallshieldextender": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "shieldbattery", "quantity": 2},
+      {"internalName": "vanadium", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+
+
+
+
+  "smallbatteryrecharger": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "fuelcell", "quantity": 2},
+      {"internalName": "teslacoil", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+
+  "smallcapacitorbank": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 2},
+      {"internalName": "supercapacitor", "quantity": 4}
+
+    ],
+    "timeFactor": 10
+  },
+  "smallcargoexpansion": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 6},
+      {"internalName": "reinforcedarmorplate", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+  "atomicpropulsor": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 6},
+      {"internalName": "fuelcell", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+  "warpcoredisruptor": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 6},
+      {"internalName": "fluxreactor", "quantity": 2} ,
+      {"internalName": "tritium", "quantity": 4}
+
+    ],
+    "timeFactor": 10
+  },
+  "smallstasiswebifier": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 4},
+      {"internalName": "supercapacitor", "quantity": 2} ,
+      {"internalName": "tritium", "quantity": 1}
+
+    ],
+    "timeFactor": 10
+  },
+
+  "smallenergyvampire": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 8},
+      {"internalName": "supercapacitor", "quantity": 1} ,
+      {"internalName": "teslacoil", "quantity": 1},
+      {"internalName": "plasmids", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+
+  "smallenergyneutralizer": {
+    "input":[
+      {"internalName": "metalscrap", "quantity": 8},
+      {"internalName": "supercapacitor", "quantity": 2},
+      {"internalName": "tritium", "quantity": 4},
+      {"internalName": "plasmids", "quantity": 2}
+
+    ],
+    "timeFactor": 10
+  },
+
+
+
+
+
+
+  "nymph": {
+      "input":[
+        {"internalName": "warpcore", "quantity": 1},
+        {"internalName": "energycore", "quantity": 1},
+        {"internalName": "fuelcell", "quantity": 2},
+        {"internalName": "tritium", "quantity": 10},
+        {"internalName": "reinforcedarmorplate", "quantity": 4}
+
+      ],
+      "timeFactor": 60
+    },
+  "sprite": {
+      "input":[
+        {"internalName": "warpcore", "quantity": 1},
+        {"internalName": "energycore", "quantity": 1},
+        {"internalName": "fuelcell", "quantity": 2},
+        {"internalName": "tritium", "quantity": 10},
+        {"internalName": "reinforcedarmorplate", "quantity": 4}
+
+      ],
+      "timeFactor": 60
+    },
+  "katana": {
+      "input":[
+        {"internalName": "warpcore", "quantity": 1},
+        {"internalName": "energycore", "quantity": 1},
+        {"internalName": "fuelcell", "quantity": 2},
+        {"internalName": "uranium", "quantity": 10},
+        {"internalName": "tritium", "quantity": 10},
+        {"internalName": "reinforcedarmorplate", "quantity": 4}
+
+      ],
+      "timeFactor": 60
+    },
+    "virus": {
+        "input":[
+          {"internalName": "warpcore", "quantity": 1},
+          {"internalName": "energycore", "quantity": 1},
+          {"internalName": "fuelcell", "quantity": 1},
+          {"internalName": "uranium", "quantity": 10},
+          {"internalName": "hexinite", "quantity": 4},
+          {"internalName": "reinforcedarmorplate", "quantity":1 },
+          {"internalName": "datachip_virus", "quantity": 1}
+
+
+        ],
+        "timeFactor": 60
+      },
+    "satyr": {
+        "input":[
+          {"internalName": "warpcore", "quantity": 1},
+          {"internalName": "energycore", "quantity": 1},
+          {"internalName": "fuelcell", "quantity": 2},
+          {"internalName": "uranium", "quantity": 10},
+          {"internalName": "plasmids", "quantity": 10},
+          {"internalName": "reinforcedarmorplate", "quantity": 4}
+
+        ],
+        "timeFactor": 60
+      },
+  "hedron": {
+      "input":[
+        {"internalName": "warpcore", "quantity": 1},
+        {"internalName": "energycore", "quantity": 1},
+        {"internalName": "fuelcell", "quantity": 1},
+        {"internalName": "tritium", "quantity": 4},
+        {"internalName": "reinforcedarmorplate", "quantity": 8}
+
+      ],
+      "timeFactor": 60
+    },
+  "kraken":{
+      "input":[
+        {"internalName": "warpcore", "quantity": 2},
+        {"internalName": "energycore", "quantity": 2},
+        {"internalName": "fusionreactor", "quantity": 2},
+        {"internalName": "metalscrap", "quantity": 220},
+        {"internalName": "tritium", "quantity": 20},
+        {"internalName": "plasmids", "quantity": 20},
+        {"internalName": "datachip_kraken", "quantity": 1}
+
+      ],
+      "timeFactor": 120
+    }
+
+
+
+
+
+
+
+}

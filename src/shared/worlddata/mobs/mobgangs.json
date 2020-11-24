@@ -1,0 +1,484 @@
+{
+  "minor_roguedrone_squad":{
+   "mobs":[
+     {"mobtype":"roguedrone" , "locationOffset":{"x": -50, "y": 50, "z": -50} },
+     {"mobtype":"roguedrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+     {"mobtype":"roguedrone" , "locationOffset":{"x": 50, "y": 50, "z": 50} }
+   ],
+   "deathrattles":[{"gangType":"roguedrone_band", "rollChance":4000  }]
+
+ },
+
+ "roguedrone_squad":{
+  "mobs":[
+    {"mobtype":"roguedrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"scoutdrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"eliminatordrone" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+  ],
+
+     "deathrattles":[{"gangType":"roguedrone_band", "rollChance":4000  }]
+ },
+
+
+ "roguedrone_band":{
+  "mobs":[
+    {"mobtype":"aerialdrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"observerdrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"aerialdrone" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+  ],
+
+     "deathrattles":[{"gangType":"roguedrone_squad", "rollChance":4000  },
+     {"gangType":"minor_roguedrone_squad", "rollChance":4000  }]
+ },
+
+ "roguedrone_agents":{
+  "mobs":[
+      {"mobtype":"scoutdrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"scoutdrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"observerdrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"aerialdrone" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+  ],
+
+     "deathrattles":[{"gangType":"roguedrone_attackers", "rollChance":4000  },
+     {"gangType":"minor_roguedrone_squad", "rollChance":4000  }]
+ },
+
+ "roguedrone_attackers":{
+  "mobs":[
+      {"mobtype":"eliminatordrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"eliminatordrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} }
+  ],
+
+     "deathrattles":[{"gangType":"roguedrone_squad", "rollChance":4000  },
+     {"gangType":"roguedrone_agents", "rollChance":4000  }]
+ },
+
+
+ "roguedrone_horde":{
+  "mobs":[
+    {"mobtype":"roguedrone" , "locationOffset":{"x": -50, "y": 50, "z": -50} },
+    {"mobtype":"roguedrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"roguedrone" , "locationOffset":{"x": 50, "y": 50, "z": 50} },
+    {"mobtype":"roguedrone" , "locationOffset":{"x": 90, "y": 50, "z": 50} },
+    {"mobtype":"roguedrone" , "locationOffset":{"x": 50, "y": 90, "z": 50} },
+    {"mobtype":"roguedrone" , "locationOffset":{"x": 50, "y": 50, "z": 90} }
+  ]
+
+
+},
+"roguedrone_spies":{
+ "mobs":[
+   {"mobtype":"roguedrone" , "locationOffset":{"x": -50, "y": 50, "z": -50} },
+   {"mobtype":"roguedrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} }
+
+ ],
+   "deathrattles":[{"gangType":"roguedrone_horde", "rollChance":65535  }]
+},
+
+"roguedrone_wing":{
+ "mobs":[
+   {"mobtype":"roguedrone" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"scoutdrone" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+   {"mobtype":"scoutdrone" , "locationOffset":{"x": 100, "y": 0, "z": 100} },
+   {"mobtype":"eliminatordrone" , "locationOffset":{"x": 150, "y": 50, "z": 50} },
+   {"mobtype":"eliminatordrone" , "locationOffset":{"x": 250, "y": 50, "z": 50} }
+ ]
+
+
+},
+
+
+
+
+
+"darkchild_squad":{
+ "mobs":[
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+   {"mobtype":"darkchildhorror" , "locationOffset":{"x": 150, "y": 250, "z": 50} }
+ ],
+   "deathrattles":[{"gangType":"darkchild_squad", "rollChance":8000  },
+     {"gangType":"darkchild_wing", "rollChance":4000  }]
+},
+
+"darkchild_escort":{
+ "mobs":[
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": 150, "y": 50, "z": 150} },
+    {"mobtype":"darkchildtransport" , "locationOffset":{"x": 100, "y": 30, "z": 50} }
+ ],
+   "deathrattles":[{"gangType":"darkchild_squad", "rollChance":8000  },
+     {"gangType":"darkchild_wing", "rollChance":4000  }]
+},
+
+
+"darkchild_wing":{
+ "mobs":[
+     {"mobtype":"darkchildghost" , "locationOffset":{"x": -100, "y": 0, "z": -200} },
+    {"mobtype":"darkchildraider" , "locationOffset":{"x": 100, "y": 0, "z": 200} },
+   {"mobtype":"darkchildghost" , "locationOffset":{"x": 150, "y": 200, "z": 50} },
+   {"mobtype":"darkchildhorror" , "locationOffset":{"x": 150, "y": 200, "z": 150} }
+ ],
+ "deathrattles":[{"gangType":"darkchild_agents", "rollChance":8000  },
+   {"gangType":"darkchild_twins", "rollChance":4000  }]
+},
+
+
+
+"darkchild_wing2":{
+ "mobs":[
+    {"mobtype":"darkchildghost" , "locationOffset":{"x": -100, "y": 0, "z": -260} },
+   {"mobtype":"darkchildghost" , "locationOffset":{"x": -100, "y": 0, "z": -200} },
+    {"mobtype":"darkchildraider" , "locationOffset":{"x": 100, "y": 0, "z": 200} },
+   {"mobtype":"darkchildghost" , "locationOffset":{"x": 150, "y": 200, "z": 50} },
+   {"mobtype":"darkchildhorror" , "locationOffset":{"x": 150, "y": 200, "z": 150} }
+ ],
+ "deathrattles":[{"gangType":"darkchild_agents", "rollChance":8000  },
+   {"gangType":"darkchild_twins", "rollChance":4000  }]
+},
+
+
+"darkchild_agents":{
+ "mobs":[
+     {"mobtype":"darkchildghost" , "locationOffset":{"x": -100, "y": 0, "z": -200} },
+    {"mobtype":"darkchildsubjugator" , "locationOffset":{"x": 100, "y": 0, "z": 200} },
+   {"mobtype":"darkchildghost" , "locationOffset":{"x": 150, "y": 200, "z": 50} }
+ ]
+},
+
+"darkchild_twins":{
+ "mobs":[
+     {"mobtype":"darkchildsubjugator" , "locationOffset":{"x": -100, "y": 0, "z": -200} },
+    {"mobtype":"darkchildsubjugator" , "locationOffset":{"x": 100, "y": 0, "z": 200} }
+ ],
+ "deathrattles":[{"gangType":"darkchild_agents", "rollChance":8000  },
+   {"gangType":"darkchild_wing", "rollChance":4000  }]
+},
+
+
+
+
+
+
+"imperial_scouts":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialscout" , "locationOffset":{"x": 0, "y": 0, "z": 300} },
+    {"mobtype":"imperialscout" , "locationOffset":{"x": -100, "y": 300, "z": -200} }
+ ],
+
+     "deathrattles":[{"gangType":"imperial_scouts", "rollChance":4000  }]
+},
+
+
+"imperial_band":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialwarrior" , "locationOffset":{"x": 0, "y": 0, "z": 200} },
+    {"mobtype":"imperialwarrior" , "locationOffset":{"x": -100, "y": 200, "z": -100} }
+ ],
+
+     "deathrattles":[{"gangType":"imperial_scouts", "rollChance":4000  }]
+},
+
+
+"imperial_band2":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialwarrior" , "locationOffset":{"x": 0, "y": 0, "z": 200} },
+    {"mobtype":"imperialwarrior" , "locationOffset":{"x": -100, "y": 200, "z": -100} }
+ ],
+
+     "deathrattles":[{"gangType":"imperial_scouts", "rollChance":4000  },
+     {"gangType":"imperial_force", "rollChance":4000  },
+    {"gangType":"imperial_horde", "rollChance":4000  }]
+},
+
+"imperial_force":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+   {"mobtype":"imperialscout" , "locationOffset":{"x": 0, "y": 0, "z": 100} },
+    {"mobtype":"legionnaire" , "locationOffset":{"x": -10, "y": 30, "z": -20} }
+ ]
+
+
+},
+
+
+"imperial_horde":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+   {"mobtype":"imperialwarrior" , "locationOffset":{"x": 0, "y": 0, "z": 100} },
+    {"mobtype":"legionnaire" , "locationOffset":{"x": -10, "y": 30, "z": -20} },
+      {"mobtype":"legionnaire" , "locationOffset":{"x": -10, "y": 40, "z": -20} },
+        {"mobtype":"legionnaire" , "locationOffset":{"x": -10, "y": 50, "z": -20} }
+ ]
+
+
+},
+
+
+"imperial_twins":{
+ "mobs":[
+   {"mobtype":"legionnaire" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+   {"mobtype":"legionnaire" , "locationOffset":{"x": 0, "y": 0, "z": 100} }
+ ]
+
+
+},
+
+"imperial_escort":{
+ "mobs":[
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+   {"mobtype":"darkchildraider" , "locationOffset":{"x": 150, "y": 50, "z": 150} },
+    {"mobtype":"darkchildtransport" , "locationOffset":{"x": 100, "y": 30, "z": 50} }
+ ],
+   "deathrattles":[{"gangType":"imperial_scouts", "rollChance":8000  },
+     {"gangType":"darkchild_wing", "imperial_force":4000  }]
+},
+
+
+
+
+"renegade_scouts":{
+ "mobs":[
+   {"mobtype":"renegadelancer" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+   {"mobtype":"renegadelancer" , "locationOffset":{"x": 0, "y": 0, "z": 100} },
+    {"mobtype":"renegadeimposter" , "locationOffset":{"x": -10, "y": 30, "z": -20} }
+ ],
+   "deathrattles":[{"gangType":"renegade_scouts", "rollChance":4000  }]
+},
+
+"renegade_force":{
+ "mobs":[
+   {"mobtype":"renegadelancer" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+   {"mobtype":"renegadeimposter" , "locationOffset":{"x": 30, "y": 0, "z": 100} },
+    {"mobtype":"renegadebomber" , "locationOffset":{"x": -10, "y": 130, "z": -20} }
+ ]
+
+
+},
+
+"renegade_wing":{
+ "mobs":[
+   {"mobtype":"renegadeimposter" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+    {"mobtype":"renegadelancer" , "locationOffset":{"x": -150, "y": -30, "z": -110} },
+   {"mobtype":"renegadebomber" , "locationOffset":{"x": 30, "y": 0, "z": 100} },
+    {"mobtype":"renegadewingleader" , "locationOffset":{"x": -10, "y": 10, "z": -20} }
+ ],
+ "deathrattles":[{"gangType":"renegade_force", "rollChance":4000  }]
+
+},
+
+
+"sythetic_scouts":{
+ "mobs":[
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+    {"mobtype":"syntheticprobe" , "locationOffset":{"x": -10, "y": 130, "z": -20} }
+ ]
+
+},
+
+"sythetic_force":{
+ "mobs":[
+   {"mobtype":"syntheticprobe" , "locationOffset":{"x": -50, "y": -30, "z": -10} },
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": 30, "y": 0, "z": 100} },
+    {"mobtype":"syntheticassimilator" , "locationOffset":{"x": -10, "y": 130, "z": -20} }
+ ],
+  "deathrattles":[{"gangType":"sythetic_wing", "rollChance":4000  }]
+
+},
+"sythetic_wing":{
+ "mobs":[
+    {"mobtype":"syntheticprobe" , "locationOffset":{"x": -150, "y": -30, "z": -110} },
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": 30, "y": 0, "z": 100} },
+    {"mobtype":"syntheticassimilator" , "locationOffset":{"x": -10, "y": 10, "z": -20} },
+    {"mobtype":"syntheticterminator" , "locationOffset":{"x": -40, "y": 40, "z": -30} }
+ ],
+ "deathrattles":[{"gangType":"synthetic_soyran", "rollChance":4000  }]
+
+},
+
+
+
+
+   "synthetic_soyran":{
+    "mobs":[
+      {"mobtype":"synthetichunter" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+      {"mobtype":"syntheticsoyran" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+    ],
+
+       "deathrattles":[ ]
+   },
+
+
+
+
+
+
+ "hivemind_squad":{
+  "mobs":[
+    {"mobtype":"hivemindspawn" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"hivemindwarrior" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"hivemindwarrior" , "locationOffset":{"x": 150, "y": 50, "z": 50} },
+    {"mobtype":"hivemindcontroller" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+  ],
+
+     "deathrattles":[{"gangType":"hivemind_band", "rollChance":4000  }]
+ },
+
+
+
+
+ "hivemind_band":{
+  "mobs":[
+    {"mobtype":"hivemindspawn" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+
+    {"mobtype":"hivemindcontroller" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"hivemindcontroller" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"hivemindoverseer" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+  ],
+
+     "deathrattles":[{"gangType":"hivemind_agents", "rollChance":4000  },
+     {"gangType":"hivemind_band", "rollChance":4000  }]
+ },
+
+ "hivemind_agents":{
+  "mobs":[
+    {"mobtype":"hivemindspawn" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"hivemindspawn" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"hivemindcontroller" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"hiveminddisintegrator" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+    {"mobtype":"hiveminddisintegrator" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+  ],
+
+     "deathrattles":[{"gangType":"hivemind_band", "rollChance":4000  },
+     {"gangType":"hivemind_tyrannix", "rollChance":4000  }]
+ },
+
+
+
+   "hivemind_tyrannix":{
+    "mobs":[
+      {"mobtype":"hiveminddisintegrator" , "locationOffset":{"x": 0, "y": 0, "z": 0} },
+      {"mobtype":"hivemindtyrannix" , "locationOffset":{"x": 150, "y": 50, "z": 50} }
+    ],
+
+       "deathrattles":[ ]
+   },
+
+
+
+
+
+
+
+"deadspace_test_of_strength_A":{
+ "mobs":[
+    {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+    {"mobtype":"imperialscout" , "locationOffset":{"x": 0, "y": 0, "z": 300} },
+    {"mobtype":"imperialwarrior" , "locationOffset":{"x": -100, "y": 300, "z": -200} },
+
+    {"mobtype":"imperialscout" , "locationOffset":{"x": -950, "y": 50, "z": -140} },
+    {"mobtype":"imperialscout" , "locationOffset":{"x": -900, "y": 0, "z": 300} },
+    {"mobtype":"imperialwarrior" , "locationOffset":{"x": -900, "y": 300, "z": -200} }
+ ],
+
+     "deathrattles":[{"gangType":"deadspace_test_of_strength_B", "rollChance":65536  }]
+},
+"deadspace_test_of_strength_B":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialdestroyer" , "locationOffset":{"x": -500, "y": 0, "z": -200} },
+    {"mobtype":"imperialdroid" , "locationOffset":{"x": -100, "y": 300, "z": -200} },
+
+
+
+      {"mobtype":"imperialwarrior" , "locationOffset":{"x": -600, "y": 300, "z": -200} },
+
+    {"mobtype":"imperialdestroyer" , "locationOffset":{"x": 1170, "y": 0, "z": 300} },
+     {"mobtype":"imperialdestroyer" , "locationOffset":{"x": 1170, "y": 30, "z": 340} },
+     {"mobtype":"imperialdroid" , "locationOffset":{"x": 700, "y": 300, "z": -200} }
+ ],
+
+     "deathrattles":[{"gangType":"deadspace_test_of_strength_C", "rollChance":65536  }]
+},
+"deadspace_test_of_strength_C":{
+ "mobs":[
+     {"mobtype":"imperialdroid" , "locationOffset":{"x": -100, "y": 200, "z": -200} },
+   {"mobtype":"imperialwarrior" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialwarrior" , "locationOffset":{"x": 0, "y": 0, "z": 100} },
+    {"mobtype":"imperialsquadronleader" , "locationOffset":{"x": -100, "y": 300, "z": -200} }
+ ],
+
+     "deathrattles":[ ]
+},
+
+"deadspace_the_replicants_A":{
+ "mobs":[
+   {"mobtype":"syntheticprobe" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": 0, "y": 0, "z": 300} },
+    {"mobtype":"synthetichunter" , "locationOffset":{"x": -100, "y": 300, "z": -200} },
+      {"mobtype":"syntheticjailer" , "locationOffset":{"x":  0, "y": 100, "z": 100} }
+ ],
+
+     "deathrattles":[{"gangType":"deadspace_the_replicants_B", "rollChance":65536  }]
+},
+"deadspace_the_replicants_B":{
+ "mobs":[
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": 0, "y": 0, "z": 300} },
+    {"mobtype":"syntheticassimilator" , "locationOffset":{"x": -100, "y": 300, "z": -200} },
+      {"mobtype":"syntheticjailer" , "locationOffset":{"x":  0, "y": 300, "z": -200} }
+ ],
+
+    "deathrattles":[{"gangType":"deadspace_the_replicants_C", "rollChance":65536  }]
+},
+"deadspace_the_replicants_C":{
+ "mobs":[
+   {"mobtype":"syntheticassimilator" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"synthetichunter" , "locationOffset":{"x": 0, "y": 0, "z": 300} },
+    {"mobtype":"syntheticjailer" , "locationOffset":{"x": -100, "y": 300, "z": -200} }
+ ],
+
+     "deathrattles":[ ]
+},
+
+
+"deadspace_stopping_the_reinforcements_A":{
+ "mobs":[
+   {"mobtype":"imperialscout" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialscout" , "locationOffset":{"x": 0, "y": 0, "z": 300} },
+    {"mobtype":"imperialwarrior" , "locationOffset":{"x": -100, "y": 300, "z": -200} },
+      {"mobtype":"imperialdestroyer" , "locationOffset":{"x":  0, "y": 100, "z": 100} },
+         {"mobtype":"imperialdroid" , "locationOffset":{"x":  -200, "y": 300, "z": -200} },
+
+
+      {"mobtype":"imperialdestroyer" , "locationOffset":{"x": -1250, "y": 50, "z": -140} },
+      {"mobtype":"imperialdestroyer" , "locationOffset":{"x": -1540, "y": 0, "z": 300} },
+       {"mobtype":"imperialwarrior" , "locationOffset":{"x": -1100, "y": 300, "z": -200} },
+         {"mobtype":"imperialdroid" , "locationOffset":{"x":  -1400, "y": 300, "z": -200} }
+ ],
+
+     "deathrattles":[{"gangType":"deadspace_stopping_the_reinforcements_B", "rollChance":65536  }]
+},
+"deadspace_stopping_the_reinforcements_B":{
+ "mobs":[
+   {"mobtype":"imperialdestroyer" , "locationOffset":{"x": -50, "y": 50, "z": -140} },
+   {"mobtype":"imperialdroid" , "locationOffset":{"x": 0, "y": 0, "z": 100} },
+    {"mobtype":"imperialbattleguard" , "locationOffset":{"x": -300, "y": 300, "z": -200} }
+ ],
+
+    "deathrattles":[ ]
+}
+
+
+
+
+
+
+
+
+}

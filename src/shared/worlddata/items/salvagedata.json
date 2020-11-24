@@ -1,0 +1,18 @@
+{
+  "basicarmorplating": {
+    "output":[
+      {"internalName": "metalscrap", "quantity": 5}
+
+    ]
+  } ,
+  "heavyarmorplating": {
+    "output":[
+      {"internalName": "reinforcedarmorplate", "quantity": 2},
+      {"internalName": "vanadium", "quantity": 1}
+
+    ]
+  }
+
+
+
+}

@@ -1,0 +1,310 @@
+{
+  "status_warpdisrupted": {
+    "atlasname":"modules_sheet",
+    "slot": 14,
+    "tint": "#f56342"
+  },
+
+  "status_aggressiontimer": {
+    "atlasname":"materials_sheet",
+    "slot": 9,
+    "tint": "#e4f00e"
+  },
+
+
+  "metalscrap": {
+    "atlasname":"materials_sheet",
+    "slot": 15,
+    "tint": "#a19b8a"
+  },
+
+  "vanadium": {
+    "atlasname":"materials_sheet",
+    "slot": 2,
+    "tint": "#94804d"
+  },
+  "tritium": {
+    "atlasname":"materials_sheet",
+    "slot": 3,
+    "tint": "#68c4c3"
+  },
+
+  "hexinite": {
+    "atlasname":"materials_sheet",
+    "slot": 8,
+    "tint": "#a23bd9"
+  },
+
+  "antimatter": {
+    "atlasname":"materials_sheet",
+    "slot": 22,
+    "tint": "#fff"
+  },
+
+  "uranium": {
+    "atlasname":"materials_sheet",
+    "slot": 8,
+    "tint": "#a4d93b"
+  },
+  "nanocrystals": {
+    "atlasname":"materials_sheet",
+    "slot": 7,
+    "tint": "#554d94"
+  },
+  "ionizedfluid": {
+    "atlasname":"materials_sheet",
+    "slot": 1,
+    "tint": "#5366bd"
+  },
+
+
+
+
+  "plasmids": {
+    "atlasname":"materials_sheet",
+    "slot": 4,
+    "tint": "#9e4cd9"
+  },
+
+  "membranes": {
+    "atlasname":"materials_sheet",
+    "slot": 23,
+    "tint": "#eb4034"
+  },
+
+  "capacitor": {
+    "atlasname":"weapons_sheet",
+    "slot": 5,
+    "tint": "#ebe265"
+  },
+  "fuelcell": {
+    "atlasname":"weapons_sheet",
+    "slot": 0,
+    "tint": "#878672"
+  },
+
+  "fusionreactor": {
+    "atlasname":"modules_sheet",
+    "slot": 23,
+    "tint": "#878672"
+  },
+
+
+  "energycore": {
+    "atlasname":"modules_sheet",
+    "slot": 2,
+    "tint": "#5d418a"
+  },
+  "shieldbattery": {
+    "atlasname":"weapons_sheet",
+    "slot": 0,
+    "tint": "#4451b3"
+  },
+  "integratedcpu": {
+    "atlasname":"weapons_sheet",
+    "slot": 11,
+    "tint": "#f0ba3c"
+  },
+  "metalplate": {
+    "atlasname":"weapons_sheet",
+    "slot": 12,
+    "tint": "#787774"
+  },
+  "fluxreactor": {
+    "atlasname":"modules_sheet",
+    "slot": 5,
+    "tint": "#6dc7b6"
+  },
+  "teslacoil": {
+    "atlasname":"weapons_sheet",
+    "slot": 17,
+    "tint": "#3a35b8"
+  },
+  "warpcore": {
+    "atlasname":"materials_sheet",
+    "slot": 22,
+    "tint": "#c627cf"
+  },
+
+
+  "datachip": {
+    "atlasname":"weapons_sheet",
+    "slot": 19,
+    "tint": "#eee"
+  },
+
+
+    "ship_imperial": {
+      "atlasname":"weapons_sheet",
+      "slot": 19,
+      "tint": "#eee"
+    },
+
+    "ship_ethereum": {
+      "atlasname":"weapons_sheet",
+      "slot": 9,
+      "tint": "#eee"
+    },
+
+    "ship_synthetic": {
+      "atlasname":"weapons_sheet",
+      "slot": 14,
+      "tint": "#eee"
+    },
+
+    "ship_renegade": {
+      "atlasname":"weapons_sheet",
+      "slot": 4,
+      "tint": "#eee"
+    },
+
+
+    "weapon_missiles": {
+      "atlasname":"weapons_sheet",
+      "slot": 13,
+      "tint": "#eee"
+    },
+    "weapon_rockets": {
+      "atlasname":"weapons_sheet",
+      "slot": 18,
+      "tint": "#eee"
+    },
+
+    "weapon_smallturret": {
+      "atlasname":"weapons_sheet",
+      "slot": 3,
+      "tint": "#eee"
+    },
+
+    "weapon_smallcannon": {
+      "atlasname":"weapons_sheet",
+      "slot": 21,
+      "tint": "#eee"
+    },
+
+    "weapon_largecannon": {
+      "atlasname":"weapons_sheet",
+      "slot": 20,
+      "tint": "#eee"
+    },
+
+    "weapon_laser1": {
+      "atlasname":"weapons_sheet",
+      "slot": 8,
+      "tint": "#eee"
+    },
+    "weapon_laser2": {
+      "atlasname":"weapons_sheet",
+      "slot": 22,
+      "tint": "#eee"
+    },
+
+    "neutralizer": {
+      "atlasname":"modules_sheet",
+      "slot": 12,
+      "tint": "#c1c920"
+    },
+    "energyvampire": {
+      "atlasname":"modules_sheet",
+      "slot": 12,
+      "tint": "#c92e20"
+    },
+
+    "shieldregenerator": {
+      "atlasname":"modules_sheet",
+      "slot": 6,
+      "tint": "#5551b5"
+    },
+
+    "shieldrecharger": {
+      "atlasname":"modules_sheet",
+      "slot": 13,
+      "tint": "#5551b5"
+    },
+
+    "shieldextender": {
+      "atlasname":"modules_sheet",
+      "slot": 9,
+      "tint": "#5551b5"
+    },
+
+    "batteryrecharger": {
+      "atlasname":"modules_sheet",
+      "slot": 13,
+      "tint": "#bacc33"
+    },
+
+    "capacitorbank": {
+      "atlasname":"weapons_sheet",
+      "slot": 0,
+      "tint": "#fff"
+    },
+
+    "coprocessor": {
+      "atlasname":"weapons_sheet",
+      "slot": 15,
+      "tint": "#42993d"
+    },
+
+    "cargoexpansion": {
+      "atlasname":"weapons_sheet",
+      "slot": 10,
+      "tint": "#eee"
+    },
+
+    "thruster1": {
+      "atlasname":"modules_sheet",
+      "slot": 22,
+      "tint": "#eee"
+    },
+
+    "webifier": {
+      "atlasname":"modules_sheet",
+      "slot": 17,
+      "tint": "#3d6299"
+    },
+
+    "disruptor": {
+      "atlasname":"modules_sheet",
+      "slot": 14,
+      "tint": "#3d6299"
+    },
+
+
+
+  "metal1": {
+    "atlasname":"modules_sheet",
+    "slot": 8,
+    "tint": "#eaacaf"
+  },
+
+  "laser1": {
+    "atlasname":"weapons_sheet",
+    "slot": 8,
+    "tint": "#eaac4f"
+  } ,
+  "armor1": {
+    "atlasname":"modules_sheet",
+    "slot": 8,
+    "tint": "#eee"
+  },
+  "armor2": {
+    "atlasname":"modules_sheet",
+    "slot": 8,
+    "tint": "#bbb"
+  },
+
+  "frozen_corpse":{
+    "atlasname":"materials_sheet",
+    "slot": 9,
+    "tint": "#9ea9d9"
+  },
+  "supplies": {
+    "atlasname":"materials_sheet",
+    "slot": 15,
+    "tint": "#eee"
+  }
+
+
+
+}

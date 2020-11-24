@@ -1,0 +1,330 @@
+{
+  "capsule": {
+    "modelpath":"ships/capsule.gltf"
+    },
+
+  "LPSP_Frigate1": {
+    "modelpath":"ships/LPSP/LPSP_Frigate_fixed.gltf"
+    },
+
+  "LPSP_Frigate2": {
+    "modelpath":"ships/LPSP/LPSP_Frigate2_fixed.gltf"
+    },
+
+    "LPSP_Frigate3": {
+      "modelpath":"ships/LPSP/LPSP_Frigate2_fixed.gltf"
+      },
+
+
+  "interceptorA": {
+    "modelpath":"ships/LPSP/LPSP_Frigate3_fixed.gltf"
+    },
+
+  "LPSP_CargoFreighter": {
+    "modelpath":"ships/LPSP/LPSP_CargoFreighter_fixed.gltf"
+    },
+
+  "LPSP_DestroyerA": {
+    "modelpath":"ships/LPSP/LPSP_DestroyerA_fixed.gltf"
+    },
+
+  "LPSP_DestroyerB": {
+    "modelpath":"ships/LPSP/LPSP_DestroyerB_fixed.gltf"
+    },
+
+  "cruiserA": {
+    "modelpath":"ships/LPSP/LPSP_CruiserA_fixed.gltf"
+  },
+
+
+    "cubeship01B": {
+      "modelpath":"ships/CUBE/CubeShip01_B.gltf"
+    },
+
+  "cubeship01D": {
+    "modelpath":"ships/CUBE/CubeShip01_D.gltf"
+  },
+  "cubeship02C": {
+    "modelpath":"ships/CUBE/CubeShip02_C.gltf"
+  },
+  "cubeship02F": {
+    "modelpath":"ships/CUBE/CubeShip02_F.gltf"
+  },
+
+  "cubeship03C": {
+    "modelpath":"ships/CUBE/CubeShip03_C.gltf"
+  },
+
+  "cubeship03D": {
+    "modelpath":"ships/CUBE/CubeShip03_D.gltf"
+  },
+
+  "cubeship03E": {
+    "modelpath":"ships/CUBE/CubeShip03_E.gltf"
+  },
+
+  "cubeship04B": {
+    "modelpath":"ships/CUBE/CubeShip04_B.gltf"
+  },
+
+  "cubeship05A": {
+    "modelpath":"ships/CUBE/CubeShip05_A.gltf"
+  },
+  "cubeship05B": {
+    "modelpath":"ships/CUBE/CubeShip05_B.gltf"
+  },
+  "cubeship05C": {
+    "modelpath":"ships/CUBE/CubeShip05_C.gltf"
+  },
+  "cubeship05E": {
+    "modelpath":"ships/CUBE/CubeShip05_E.gltf"
+  },
+  "cubeship05F": {
+    "modelpath":"ships/CUBE/CubeShip05_F.gltf"
+  },
+
+
+  "reddington1A": {
+    "modelpath":"ships/reddington/reddington_1A.gltf"
+  },
+  "reddington1B": {
+    "modelpath":"ships/reddington/reddington_1B.gltf"
+  },
+  "reddington1C": {
+    "modelpath":"ships/reddington/reddington_1C.gltf"
+  },
+
+
+    "reddington2A": {
+      "modelpath":"ships/reddington/reddington_2A.gltf"
+    },
+    "reddington2B": {
+      "modelpath":"ships/reddington/reddington_2B.gltf"
+    },
+    "reddington2C": {
+      "modelpath":"ships/reddington/reddington_2C.gltf"
+    },
+    "reddington2D": {
+      "modelpath":"ships/reddington/reddington_2D.gltf"
+    },
+
+    "reddington3A": {
+      "modelpath":"ships/reddington/reddington_3A.gltf"
+    },
+    "reddington4A": {
+      "modelpath":"ships/reddington/reddington_4A.gltf"
+    },
+    "reddington4B": {
+      "modelpath":"ships/reddington/reddington_4B.gltf"
+    },
+
+  "reddington5A": {
+    "modelpath":"ships/reddington/reddington_5A.gltf"
+  },
+  "reddington5B": {
+    "modelpath":"ships/reddington/reddington_5B.gltf"
+  },
+
+  "reddington5C": {
+    "modelpath":"ships/reddington/reddington_5C.gltf"
+  },
+
+  "fappabloCruiser": {
+    "modelpath":"ships/fappablo/cruiser.gltf"
+  },
+
+  "fappabloExplorer": {
+    "modelpath":"ships/fappablo/explorer.gltf"
+  },
+
+  "fappabloFighter": {
+    "modelpath":"ships/fappablo/fighter.gltf"
+  },
+  "fappabloTrader": {
+    "modelpath":"ships/fappablo/newgen_trader.gltf"
+  },
+  "fappabloWarship": {
+    "modelpath":"ships/fappablo/warship.gltf"
+  },
+
+  "marsFighter": {
+    "modelpath":"ships/mars/MarsFighter.gltf"
+  },
+
+  "marsCruiser": {
+    "modelpath":"ships/mars/MarsCruiser.gltf"
+  },
+
+  "marsInvader": {
+    "modelpath":"ships/mars/MarsInvader.gltf"
+  },
+
+
+
+
+
+
+
+  "gunship": {
+    "modelpath":"ships/other/battleship1.gltf"
+  },
+
+
+  "probe": {
+    "modelpath":"ships/other/probeship.gltf"
+  },
+
+  "lightDroneOrange": {
+    "modelpath":"ships/drones/drone_10_0.gltf"
+  },
+  "attackDroneRed": {
+    "modelpath":"ships/drones/drone_9_1.gltf"
+  },
+  "scoutDroneRed": {
+    "modelpath":"ships/drones/drone_7_1.gltf"
+  },
+
+  "aerialDroneRed": {
+    "modelpath":"ships/drones/drone_8_1.gltf"
+  },
+
+  "shipDebrisA": {
+    "modelpath":"debris/DebrisShipA_sm.gltf"
+  },
+
+  "structureDebrisA": {
+    "modelpath":"debris/DebrisStructureA_sm.gltf"
+  },
+
+  "asteroidsA": {
+    "modelpath":"planets/RingAsteroid.gltf"
+  },
+
+  "rocksA": {
+    "modelpath":"planets/RingAsteroid.gltf"
+  },
+
+  "planetA": {
+    "modelpath":"planets/PlanetA.gltf"
+  },
+  "planetB": {
+    "modelpath":"planets/PlanetB.gltf"
+  },
+  "planetC": {
+    "modelpath":"planets/PlanetC.gltf"
+  },
+  "planetD": {
+    "modelpath":"planets/PlanetD.gltf"
+  },
+  "planetE": {
+    "modelpath":"planets/PlanetE.gltf"
+  },
+  "planetF": {
+    "modelpath":"planets/PlanetF.gltf"
+  },
+  "planetH": {
+    "modelpath":"planets/PlanetH.gltf"
+  },
+  "planetI": {
+    "modelpath":"planets/PlanetI.gltf"
+  },
+
+  "planetL": {
+    "modelpath":"planets/PlanetL.gltf"
+  },
+
+  "warpgateA": {
+    "modelpath":"structures/WarpGate3_sm.gltf"
+  },
+  "warpgateB": {
+    "modelpath":"structures/WarpGate5_sm.gltf"
+  },
+  "warpgateC": {
+    "modelpath":"structures/WarpGate11_sm.gltf"
+  },
+  "warpgateD": {
+    "modelpath":"structures/WarpGate21_sm.gltf"
+  },
+  "warpgateE": {
+    "modelpath":"structures/WarpGate25_sm.gltf"
+  },
+  "warpgateF": {
+    "modelpath":"structures/WarpGate29_sm.gltf"
+  },
+  "warpgateG": {
+    "modelpath":"structures/WarpGate29b_sm.gltf"
+  },
+  "warpgateH": {
+    "modelpath":"structures/WarpGate31_sm.gltf"
+  },
+
+  "stationA": {
+    "modelpath":"structures/StationC2_sm.gltf"
+  },
+
+  "stationB": {
+    "modelpath":"structures/StationB_sm.gltf"
+  },
+  "stationC": {
+    "modelpath":"structures/StationC_sm.gltf"
+  },
+  "stationD": {
+    "modelpath":"structures/StationD_sm.gltf"
+  },
+
+
+  "artifact1": {
+    "modelpath":"structures/artifact1.gltf"
+  },
+  "artifact2": {
+    "modelpath":"structures/artifact2.gltf"
+  },
+  "artifact3": {
+    "modelpath":"structures/artifact3.gltf"
+  },
+  "artifact4": {
+    "modelpath":"structures/artifact4.gltf"
+  },
+  "artifact5": {
+    "modelpath":"structures/artifact5.gltf"
+  },
+  "artifact6": {
+    "modelpath":"structures/artifact6.gltf"
+  },
+  "artifact7": {
+    "modelpath":"structures/artifact7.gltf"
+  },
+  "shipyard1": {
+    "modelpath":"structures/ShipyardA.gltf"
+  },
+
+
+  "ruinedshipyard1": {
+    "modelpath":"structures/ruinedshipyard1.gltf"
+  },
+
+  "ruinedshipyard2": {
+    "modelpath":"structures/ruinedshipyard2.gltf"
+  },
+
+  "chunkyblock": {
+    "modelpath":"structures/chunkyblock.gltf"
+  },
+
+  "spine": {
+    "modelpath":"structures/spine.gltf"
+  },
+  "ancientgate": {
+    "modelpath":"structures/ancientgate.gltf"
+  },
+  "ancientgate2": {
+    "modelpath":"structures/ancientgate2.gltf"
+  },
+  "trianglething": {
+    "modelpath":"structures/trianglething.gltf"
+  },
+  "solararray": {
+    "modelpath":"structures/solararray1.gltf"
+  }
+
+}

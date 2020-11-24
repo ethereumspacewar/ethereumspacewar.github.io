@@ -1,0 +1,2324 @@
+{
+  "corvette": {
+    "modelname":"LPSP_Frigate1",
+    "name":"corvette",
+    "internalName":"corvette",
+    "unittype": "ship",
+    "shipclass":"frigate",
+    "scaleFactor": 1.0,
+    "collisionRadius": 1,
+    "vitals":{
+            "energy": 600,
+            "armor": 850,
+            "shields": 750
+    },
+    "stats": {
+                "max_energy":600,
+                "max_armor":850,
+                "max_shields":750,
+                "mass": 40,
+                "speed": 15,
+                "warp_strength": 0,
+                "sensor_frequency":100,
+                "sensor_range":500,
+                "signature_radius":50,
+                "cpu_size":15,
+                "shield_regen":1,
+                "energy_regen":1,
+                "cargo_size":100
+
+            },
+    "slots":{
+                "high":1,
+                "mid":1,
+                "low":1
+
+    }
+    },
+
+
+
+      "nymph": {
+        "modelname":"LPSP_DestroyerA",
+        "name":"nymph",
+        "internalName":"nymph",
+        "unittype": "ship",
+        "shipclass":"frigate",
+        "scaleFactor": 1.0,
+        "collisionRadius": 1,
+        "vitals":{
+                "energy": 750,
+                "armor": 870,
+                "shields": 950
+        },
+        "stats": {
+                    "max_energy":750,
+                    "max_armor":870,
+                    "max_shields":950,
+                    "mass": 40,
+                    "speed": 27.0,
+                    "warp_strength": 0,
+                    "sensor_frequency":100,
+                    "sensor_range":900,
+                    "signature_radius":50,
+                    "cpu_size":45,
+                    "shield_regen":1,
+                    "energy_regen":1,
+                    "cargo_size":125
+
+                },
+        "slots":{
+                    "high":2,
+                    "mid":2,
+                    "low":2
+
+        }
+        },
+
+
+
+      "sprite": {
+        "modelname":"LPSP_DestroyerB",
+        "name":"sprite",
+        "internalName":"sprite",
+        "unittype": "ship",
+        "shipclass":"frigate",
+        "scaleFactor": 1.0,
+        "collisionRadius": 1,
+        "vitals":{
+                "energy": 750,
+                "armor": 870,
+                "shields": 1150
+        },
+        "stats": {
+                    "max_energy":750,
+                    "max_armor":870,
+                    "max_shields":950,
+                    "mass": 40,
+                    "speed": 26.0,
+                    "warp_strength": 0,
+                    "sensor_frequency":100,
+                    "sensor_range":500,
+                    "signature_radius":50,
+                    "cpu_size":35,
+                    "shield_regen":2,
+                    "energy_regen":1,
+                    "cargo_size":150
+
+                },
+        "slots":{
+                    "high":2,
+                    "mid":2,
+                    "low":1
+
+        }
+        },
+
+        "katana": {
+          "modelname":"reddington1A",
+          "name":"katana",
+          "internalName":"katana",
+          "shipclass":"destroyer",
+          "unittype": "ship",
+          "scaleFactor": 1.0,
+          "collisionRadius": 1,
+          "vitals":{
+                  "energy": 700,
+                  "armor": 1270,
+                  "shields": 1460
+          },
+          "stats": {
+                      "max_energy":700,
+                      "max_armor":1270,
+                      "max_shields":1460,
+                      "mass": 70,
+                      "speed": 17.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":120,
+                      "sensor_range":750,
+                      "signature_radius":200,
+                      "cpu_size":50,
+                      "shield_regen":1,
+                      "energy_regen":2,
+                      "cargo_size":200
+
+                  },
+          "slots":{
+                      "high":2,
+                      "mid":2,
+                      "low":2
+
+          }
+          },
+
+
+          "virus": {
+            "modelname":"reddington5C",
+            "name":"virus",
+            "internalName":"virus",
+            "unittype": "ship",
+            "shipclass":"destroyer",
+            "scaleFactor": 1.0,
+            "collisionRadius": 1,
+            "vitals":{
+                    "energy": 600,
+                    "armor": 770,
+                    "shields": 1220
+            },
+            "stats": {
+                        "max_energy":600,
+                        "max_armor":970,
+                        "max_shields":1220,
+                        "mass": 50,
+                        "speed": 22.0,
+                        "warp_strength": 0,
+                        "sensor_frequency":200,
+                        "sensor_range":600,
+                        "signature_radius":100,
+                        "cpu_size":55,
+                        "shield_regen":2,
+                        "energy_regen":2,
+                        "cargo_size":150
+
+                    },
+            "slots":{
+                        "high":2,
+                        "mid":2,
+                        "low":1
+
+            },
+            "custom_bonuses":{
+              "equipment_class_bonuses":{
+                "disruptor":{"effect_range":100},
+                "webifier":{"effect_range":100}
+              }
+            }
+            },
+
+
+            "satyr": {
+              "modelname":"fappabloFighter",
+              "name":"satyr",
+              "internalName":"satyr",
+              "unittype": "ship",
+              "shipclass":"destroyer",
+              "scaleFactor": 1.0,
+              "collisionRadius": 1,
+              "vitals":{
+                      "energy": 700,
+                      "armor": 970,
+                      "shields": 1200
+              },
+              "stats": {
+                          "max_energy":700,
+                          "max_armor":970,
+                          "max_shields":1200,
+                          "mass": 70,
+                          "speed": 18.0,
+                          "warp_strength": 0,
+                          "sensor_frequency":200,
+                          "sensor_range":600,
+                          "signature_radius":200,
+                          "cpu_size":65,
+                          "shield_regen":2,
+                          "energy_regen":2,
+                          "cargo_size":200
+
+                      },
+              "slots":{
+                          "high":2,
+                          "mid":3,
+                          "low":1
+
+              },
+              "custom_bonuses":{
+                "equipment_class_bonuses":{
+                  "missilebay":{"missile_speed":100, "effect_range":100}
+                }
+
+              }
+              },
+
+
+
+              "minotaur": {
+                "modelname":"cubeship03E",
+                "name":"minotaur",
+                "internalName":"minotaur",
+                "unittype": "ship",
+                "shipclass":"cruiser",
+                "scaleFactor": 1.0,
+                "collisionRadius": 1,
+                "vitals":{
+                        "energy": 700,
+                        "armor": 770,
+                        "shields": 900
+                },
+                "stats": {
+                            "max_energy":700,
+                            "max_armor":970,
+                            "max_shields":800,
+                            "mass": 50,
+                            "speed": 19.0,
+                            "warp_strength": 0,
+                            "sensor_frequency":200,
+                            "sensor_range":600,
+                            "signature_radius":100,
+                            "cpu_size":50,
+                            "shield_regen":1,
+                            "energy_regen":4,
+                            "cargo_size":150
+
+                        },
+                "slots":{
+                            "high":1,
+                            "mid":2,
+                            "low":2
+
+                }
+                },
+
+
+              "kraken": {
+                "modelname":"fappabloWarship",
+                "name":"kraken",
+                "internalName":"kraken",
+                "unittype": "ship",
+                "shipclass":"battlecruiser",
+                "scaleFactor": 1.0,
+                "collisionRadius": 1,
+                "vitals":{
+                        "energy": 600,
+                        "armor": 2170,
+                        "shields": 1220
+                },
+                "stats": {
+                            "max_energy":600,
+                            "max_armor":2170,
+                            "max_shields":1220,
+                            "mass": 90,
+                            "speed": 11.0,
+                            "warp_strength": 0,
+                            "sensor_frequency":800,
+                            "sensor_range":700,
+                            "signature_radius":300,
+                            "cpu_size":315,
+                            "shield_regen":2,
+                            "energy_regen":2,
+                            "cargo_size":350
+
+                        },
+                "slots":{
+                            "high":4,
+                            "mid":3,
+                            "low":4
+
+                },
+                "custom_bonuses":{
+                  "equipment_class_bonuses":{
+                    "hybridweapon":{"weapon_optimal":200, "activation_energy":-5},
+                    "armormod":{"mass":-25,"cpu":-10}
+                  }
+                }
+                },
+
+
+
+        "hedron": {
+          "modelname":"LPSP_CargoFreighter",
+          "name":"hedron",
+          "internalName":"hedron",
+          "unittype": "ship",
+          "shipclass":"industrial",
+          "scaleFactor": 1.0,
+          "collisionRadius": 1,
+          "vitals":{
+                  "energy": 400,
+                  "armor": 1400,
+                  "shields": 1100
+          },
+          "stats": {
+                      "max_energy":400,
+                      "max_armor":1400,
+                      "max_shields":1100,
+                      "mass": 160,
+                      "speed": 10.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":400,
+                      "sensor_range":500,
+                      "signature_radius":150,
+                      "cpu_size":90,
+                      "shield_regen":2,
+                      "energy_regen":1,
+                      "cargo_size":1100
+
+                  },
+          "slots":{
+                      "high":0,
+                      "mid":2,
+                      "low":3
+
+          }
+          },
+
+    "capsule": {
+      "modelname":"capsule",
+      "name":"capsule",
+      "internalName":"capsule",
+      "unittype": "capsule",
+      "scaleFactor": 1.0,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 0,
+              "armor": 100,
+              "shields": 100
+      },
+      "stats": {
+                  "max_energy":0,
+                  "max_armor":100,
+                  "max_shields":100,
+                  "mass": 20,
+                  "speed": 15.0,
+                  "warp_strength": 0,
+                  "sensor_frequency":100,
+                  "sensor_range":200,
+                  "signature_radius":10,
+                  "cpu_size":0,
+                  "shield_regen":0
+
+              },
+      "slots":{
+                  "high":0,
+                  "mid":0,
+                  "low":0
+
+      }
+      },
+
+  "minordrone": {
+    "modelname":"lightDroneOrange",
+    "name":"minor drone",
+    "internalName":"minordrone",
+    "unittype": "ship",
+    "scaleFactor": 1.0,
+    "collisionRadius": 1,
+    "vitals":{
+            "energy": 250,
+            "armor": 225,
+            "shields": 325
+    },
+    "stats": {
+                "max_energy": 250,
+                "max_armor": 125,
+                "max_shields": 145,
+                "mass": 40,
+                "speed": 12.0,
+                "warp_strength": 0,
+                "sensor_frequency":200,
+                "sensor_range":500,
+                "signature_radius":50,
+                "cpu_size":50,
+                "shield_regen":1
+
+            },
+    "slots":{
+                "high":2,
+                "mid":2,
+                "low":1
+
+    }
+    },
+
+    "observerdrone": {
+      "modelname":"reddington2B",
+      "name":"observer drone",
+      "internalName":"observerdrone",
+      "unittype": "ship",
+      "scaleFactor": 1.0,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 150,
+              "armor": 125,
+              "shields": 95
+      },
+      "stats": {
+                  "max_energy": 250,
+                  "max_armor": 125,
+                  "max_shields": 145,
+                  "mass": 40,
+                  "speed": 22.0,
+                  "warp_strength": 0,
+                  "sensor_frequency":200,
+                  "sensor_range":500,
+                  "signature_radius":50,
+                  "cpu_size":50,
+                  "shield_regen":1
+
+              },
+      "slots":{
+                  "high":2,
+                  "mid":2,
+                  "low":1
+
+      }
+      },
+
+    "scoutdrone": {
+      "modelname":"scoutDroneRed",
+      "name":"scout drone",
+      "internalName":"scoutdrone",
+      "unittype": "ship",
+      "scaleFactor": 1.0,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 150,
+              "armor": 125,
+              "shields": 245
+      },
+      "stats": {
+                  "max_energy": 150,
+                  "max_armor": 125,
+                  "max_shields": 245,
+                  "mass": 40,
+                  "speed": 15.0,
+                  "warp_strength": 0,
+                  "sensor_frequency":200,
+                  "sensor_range":500,
+                  "signature_radius":50,
+                  "cpu_size":50,
+                  "shield_regen":1
+
+              },
+      "slots":{
+                  "high":2,
+                  "mid":2,
+                  "low":1
+
+      }
+      },
+
+      "aerialdrone": {
+        "modelname":"aerialDroneRed",
+        "name":"aerial drone",
+        "internalName":"aerialdrone",
+        "unittype": "ship",
+        "scaleFactor": 1.0,
+        "collisionRadius": 1,
+        "vitals":{
+                "energy": 250,
+                "armor": 225,
+                "shields": 325
+        },
+        "stats": {
+                    "max_energy": 250,
+                    "max_armor": 225,
+                    "max_shields": 325,
+                    "mass": 40,
+                    "speed": 12.0,
+                    "warp_strength": 0,
+                    "sensor_frequency":300,
+                    "sensor_range":500,
+                    "signature_radius":100,
+                    "cpu_size":50,
+                    "shield_regen":1
+
+                },
+        "slots":{
+                    "high":2,
+                    "mid":2,
+                    "low":1
+
+        }
+        },
+
+      "attackdrone": {
+        "modelname":"attackDroneRed",
+        "name":"attack drone",
+        "internalName":"attackdrone",
+        "unittype": "ship",
+        "scaleFactor": 1.0,
+        "collisionRadius": 1,
+        "vitals":{
+                "energy": 350,
+                "armor": 335,
+                "shields": 455
+        },
+        "stats": {
+                    "max_energy": 350,
+                    "max_armor": 335,
+                    "max_shields": 455,
+                    "mass": 60,
+                    "speed": 11.0,
+                    "warp_strength": 0,
+                    "sensor_frequency":400,
+                    "sensor_range":500,
+                    "signature_radius":150,
+                    "cpu_size":50,
+                    "shield_regen":1
+
+                },
+        "slots":{
+                    "high":2,
+                    "mid":2,
+                    "low":1
+
+        }
+        },
+
+        "renegadelancer": {
+          "modelname":"reddington5A",
+          "name":"renegade lancer",
+          "internalName":"renegadelancer",
+          "unittype": "ship",
+          "scaleFactor": 1.0,
+          "collisionRadius": 1,
+          "vitals":{
+                  "energy": 100,
+                  "armor": 150,
+                  "shields": 145
+          },
+          "stats": {
+                      "max_energy": 100,
+                      "max_armor": 150,
+                      "max_shields": 145,
+                      "mass": 40,
+                      "speed": 11.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":200,
+                      "sensor_range":500,
+                      "signature_radius":50,
+                      "cpu_size":50,
+                      "shield_regen":1
+
+                  },
+          "slots":{
+                      "high":2,
+                      "mid":2,
+                      "low":1
+
+          }
+          },
+
+          "renegadeimposter": {
+            "modelname":"cubeship02F",
+            "name":"renegade imposter",
+            "internalName":"renegadeimposter",
+            "unittype": "ship",
+            "scaleFactor": 1.0,
+            "collisionRadius": 1,
+            "vitals":{
+                    "energy": 100,
+                    "armor": 150,
+                    "shields": 145
+            },
+            "stats": {
+                        "max_energy": 100,
+                        "max_armor": 150,
+                        "max_shields": 145,
+                        "mass": 40,
+                        "speed": 13.0,
+                        "warp_strength": 0,
+                        "sensor_frequency":200,
+                        "sensor_range":500,
+                        "signature_radius":50,
+                        "cpu_size":50,
+                        "shield_regen":1
+
+                    },
+            "slots":{
+                        "high":2,
+                        "mid":2,
+                        "low":1
+
+            }
+            },
+
+
+
+          "renegadebomber": {
+            "modelname":"LPSP_DestroyerA",
+            "name":"renegade bomber",
+            "internalName":"renegadebomber",
+            "unittype": "ship",
+            "scaleFactor": 1.0,
+            "collisionRadius": 1,
+            "vitals":{
+                    "energy": 400,
+                    "armor": 190,
+                    "shields": 145
+            },
+            "stats": {
+                        "max_energy": 400,
+                        "max_armor": 190,
+                        "max_shields": 145,
+                        "mass": 40,
+                        "speed": 12.0,
+                        "warp_strength": 0,
+                        "sensor_frequency":200,
+                        "sensor_range":500,
+                        "signature_radius":50,
+                        "cpu_size":50,
+                        "shield_regen":1
+
+                    },
+            "slots":{
+                        "high":2,
+                        "mid":2,
+                        "low":1
+
+            }
+            },
+
+          "renegadewingleader": {
+            "modelname":"reddington1B",
+            "name":"renegade wingleader",
+            "internalName":"renegadewingleader",
+            "unittype": "ship",
+            "scaleFactor": 1.0,
+            "collisionRadius": 1,
+            "vitals":{
+                    "energy": 400,
+                    "armor": 350,
+                    "shields": 145
+            },
+            "stats": {
+                        "max_energy": 400,
+                        "max_armor": 350,
+                        "max_shields": 145,
+                        "mass": 40,
+                        "speed": 17.0,
+                        "warp_strength": 0,
+                        "sensor_frequency":200,
+                        "sensor_range":500,
+                        "signature_radius":50,
+                        "cpu_size":50,
+                        "shield_regen":2
+
+                    },
+            "slots":{
+                        "high":2,
+                        "mid":2,
+                        "low":1
+
+            }
+            },
+
+            "syntheticprobe": {
+              "modelname":"probe",
+              "name":"synthetic probe",
+              "internalName":"syntheticprobe",
+              "unittype": "ship",
+              "scaleFactor": 1.0,
+              "collisionRadius": 1,
+              "vitals":{
+                      "energy": 200,
+                      "armor": 180,
+                      "shields": 225
+              },
+              "stats": {
+                          "max_energy": 200,
+                          "max_armor": 180,
+                          "max_shields": 225,
+                          "mass": 40,
+                          "speed": 22.0,
+                          "warp_strength": 0,
+                          "sensor_frequency":200,
+                          "sensor_range":500,
+                          "signature_radius":50,
+                          "cpu_size":50,
+                          "shield_regen":2
+
+                      },
+              "slots":{
+                          "high":2,
+                          "mid":2,
+                          "low":1
+
+              }
+              },
+
+        "synthetichunter": {
+          "modelname":"reddington3A",
+          "name":"synthetic hunter",
+          "internalName":"synthetichunter",
+          "unittype": "ship",
+          "scaleFactor": 1.0,
+          "collisionRadius": 1,
+          "vitals":{
+                  "energy": 200,
+                  "armor": 180,
+                  "shields": 225
+          },
+          "stats": {
+                      "max_energy": 200,
+                      "max_armor": 180,
+                      "max_shields": 225,
+                      "mass": 40,
+                      "speed": 22.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":200,
+                      "sensor_range":500,
+                      "signature_radius":50,
+                      "cpu_size":50,
+                      "shield_regen":2
+
+                  },
+          "slots":{
+                      "high":2,
+                      "mid":2,
+                      "low":1
+
+          }
+          },
+
+
+            "syntheticterminator": {
+              "modelname":"cubeship03E",
+              "name":"synthetic terminator",
+              "internalName":"syntheticterminator",
+              "unittype": "ship",
+              "scaleFactor": 1.0,
+              "collisionRadius": 1,
+              "vitals":{
+                      "energy": 150,
+                      "armor": 280,
+                      "shields": 55
+              },
+              "stats": {
+                          "max_energy": 150,
+                          "max_armor": 180,
+                          "max_shields": 225,
+                          "mass": 100,
+                          "speed": 14.0,
+                          "warp_strength": 0,
+                          "sensor_frequency":400,
+                          "sensor_range":500,
+                          "signature_radius":150,
+                          "cpu_size":50,
+                          "shield_regen":4
+
+                      },
+              "slots":{
+                          "high":2,
+                          "mid":2,
+                          "low":1
+
+              }
+              },
+
+
+        "syntheticassimilator": {
+          "modelname":"reddington2D",
+          "name":"synthetic assimilator",
+          "internalName":"syntheticassimilator",
+          "unittype": "ship",
+          "scaleFactor": 1.0,
+          "collisionRadius": 1,
+          "vitals":{
+                  "energy": 150,
+                  "armor": 280,
+                  "shields": 75
+          },
+          "stats": {
+                      "max_energy": 150,
+                      "max_armor": 180,
+                      "max_shields": 225,
+                      "mass": 100,
+                      "speed": 14.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":400,
+                      "sensor_range":500,
+                      "signature_radius":150,
+                      "cpu_size":50,
+                      "shield_regen":4
+
+                  },
+          "slots":{
+                      "high":2,
+                      "mid":2,
+                      "low":1
+
+          }
+          },
+
+
+
+        "darkchildghost": {
+          "modelname":"reddington5C",
+          "name":"darkchild ghost",
+          "internalName":"darkchildghost",
+          "unittype": "ship",
+          "scaleFactor": 1.0,
+          "collisionRadius": 1,
+          "vitals":{
+                  "energy": 150,
+                  "armor": 180,
+                  "shields": 225
+          },
+          "stats": {
+                      "max_energy": 150,
+                      "max_armor": 180,
+                      "max_shields": 225,
+                      "mass": 100,
+                      "speed": 19.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":400,
+                      "sensor_range":500,
+                      "signature_radius":150,
+                      "cpu_size":50,
+                      "shield_regen":2
+
+                  },
+          "slots":{
+                      "high":2,
+                      "mid":2,
+                      "low":1
+
+          }
+          },
+
+
+          "darkchildhorror": {
+            "modelname":"cruiserA",
+            "name":"darkchild horror",
+            "internalName":"darkchildhorror",
+            "unittype": "ship",
+            "scaleFactor": 1.0,
+            "collisionRadius": 1,
+            "vitals":{
+                    "energy": 150,
+                    "armor": 180,
+                    "shields": 225
+            },
+            "stats": {
+                        "max_energy": 150,
+                        "max_armor": 180,
+                        "max_shields": 225,
+                        "mass": 100,
+                        "speed": 14.0,
+                        "warp_strength": 0,
+                        "sensor_frequency":400,
+                        "sensor_range":500,
+                        "signature_radius":150,
+                        "cpu_size":50,
+                        "shield_regen":2
+
+                    },
+            "slots":{
+                        "high":2,
+                        "mid":2,
+                        "low":1
+
+            }
+            },
+
+
+
+            "darkchildsubjugator": {
+              "modelname":"reddington1C",
+              "name":"darkchild subjugator",
+              "internalName":"darkchildsubjugator",
+              "unittype": "ship",
+              "scaleFactor": 1.0,
+              "collisionRadius": 1,
+              "vitals":{
+                      "energy": 150,
+                      "armor": 180,
+                      "shields": 225
+              },
+              "stats": {
+                          "max_energy": 150,
+                          "max_armor": 180,
+                          "max_shields": 225,
+                          "mass": 100,
+                          "speed": 14.0,
+                          "warp_strength": 0,
+                          "sensor_frequency":400,
+                          "sensor_range":500,
+                          "signature_radius":150,
+                          "cpu_size":50,
+                          "shield_regen":2
+
+                      },
+              "slots":{
+                          "high":2,
+                          "mid":2,
+                          "low":1
+
+              }
+              },
+
+
+              "hivemindspawn": {
+                "modelname":"reddington2D",
+                "name":"hivemind spawn",
+                "internalName":"hivemindspawn",
+                "unittype": "ship",
+                "shipclass":"frigate",
+                "scaleFactor": 1.0,
+                "collisionRadius": 1,
+                "vitals":{
+                        "energy": 150,
+                        "armor": 180,
+                        "shields": 175
+                },
+                "stats": {
+                            "max_energy": 150,
+                            "max_armor": 180,
+                            "max_shields": 175,
+                            "mass": 100,
+                            "speed": 18.0,
+                            "warp_strength": 0,
+                            "sensor_frequency":400,
+                            "sensor_range":500,
+                            "signature_radius":150,
+                            "cpu_size":30,
+                            "shield_regen":2
+
+                        },
+                "slots":{
+                            "high":1,
+                            "mid":1,
+                            "low":1
+
+                }
+                },
+
+
+                "hivemindcontroller": {
+                  "modelname":"reddington2D",
+                  "name":"hivemind controller",
+                  "internalName":"hivemindcontroller",
+                  "unittype": "ship",
+                  "shipclass":"frigate",
+                  "scaleFactor": 1.0,
+                  "collisionRadius": 1,
+                  "vitals":{
+                          "energy": 150,
+                          "armor": 280,
+                          "shields": 175
+                  },
+                  "stats": {
+                              "max_energy": 150,
+                              "max_armor": 280,
+                              "max_shields": 175,
+                              "mass": 100,
+                              "speed": 18.0,
+                              "warp_strength": 0,
+                              "sensor_frequency":400,
+                              "sensor_range":500,
+                              "signature_radius":150,
+                              "cpu_size":30,
+                              "shield_regen":2
+
+                          },
+                  "slots":{
+                              "high":1,
+                              "mid":1,
+                              "low":1
+
+                  }
+                  },
+
+
+                  "hivemindwarrior": {
+                    "modelname":"reddington2D",
+                    "name":"hivemind warrior",
+                    "internalName":"hivemindwarrior",
+                    "unittype": "ship",
+                    "shipclass":"frigate",
+                    "scaleFactor": 1.0,
+                    "collisionRadius": 1,
+                    "vitals":{
+                            "energy": 150,
+                            "armor": 240,
+                            "shields": 245
+                    },
+                    "stats": {
+                                "max_energy": 150,
+                                "max_armor": 240,
+                                "max_shields": 245,
+                                "mass": 100,
+                                "speed": 21.0,
+                                "warp_strength": 0,
+                                "sensor_frequency":400,
+                                "sensor_range":500,
+                                "signature_radius":150,
+                                "cpu_size":30,
+                                "shield_regen":2
+
+                            },
+                    "slots":{
+                                "high":1,
+                                "mid":1,
+                                "low":1
+
+                    }
+                    },
+
+
+                "hiveminddisintegrator": {
+                  "modelname":"cubeship02C",
+                  "name":"hivemind disintegrator",
+                  "internalName":"hiveminddisintegrator",
+                  "unittype": "ship",
+                  "shipclass":"destroyer",
+                  "scaleFactor": 1.0,
+                  "collisionRadius": 1,
+                  "vitals":{
+                          "energy": 250,
+                          "armor": 380,
+                          "shields": 275
+                  },
+                  "stats": {
+                              "max_energy": 250,
+                              "max_armor": 180,
+                              "max_shields": 275,
+                              "mass": 100,
+                              "speed": 14.0,
+                              "warp_strength": 0,
+                              "sensor_frequency":400,
+                              "sensor_range":500,
+                              "signature_radius":150,
+                              "cpu_size":70,
+                              "shield_regen":2
+
+                          },
+                  "slots":{
+                              "high":2,
+                              "mid":2,
+                              "low":1
+
+                  }
+                  },
+
+                  "hivemindoverseer": {
+                    "modelname":"cubeship02C",
+                    "name":"hivemind overseer",
+                    "internalName":"hivemindoverseer",
+                    "unittype": "ship",
+                    "shipclass":"destroyer",
+                    "scaleFactor": 1.0,
+                    "collisionRadius": 1,
+                    "vitals":{
+                            "energy": 250,
+                            "armor": 380,
+                            "shields": 275
+                    },
+                    "stats": {
+                                "max_energy": 250,
+                                "max_armor": 180,
+                                "max_shields": 275,
+                                "mass": 100,
+                                "speed": 12.0,
+                                "warp_strength": 0,
+                                "sensor_frequency":400,
+                                "sensor_range":500,
+                                "signature_radius":150,
+                                "cpu_size":70,
+                                "shield_regen":2
+
+                            },
+                    "slots":{
+                                "high":2,
+                                "mid":2,
+                                "low":1
+
+                    }
+                    },
+
+
+                  "hivemindobliterator": {
+                    "modelname":"cubeship05B",
+                    "name":"hivemind obliterator",
+                    "internalName":"hivemindobliterator",
+                    "unittype": "ship",
+                    "shipclass":"battleship",
+                    "scaleFactor": 1.0,
+                    "collisionRadius": 1,
+                    "vitals":{
+                            "energy": 2150,
+                            "armor": 3180,
+                            "shields": 2225
+                    },
+                    "stats": {
+                                "max_energy": 2150,
+                                "max_armor": 3180,
+                                "max_shields": 2225,
+                                "mass": 200,
+                                "speed": 8.0,
+                                "warp_strength": 0,
+                                "sensor_frequency":1100,
+                                "sensor_range":800,
+                                "signature_radius":350,
+                                "cpu_size":250,
+                                "shield_regen":4
+
+                            },
+                    "slots":{
+                                "high":4,
+                                "mid":4,
+                                "low":3
+
+                    }
+                    },
+
+
+
+
+              "imperialwarrior": {
+                "modelname":"reddington3A",
+                "name":"imperial warrior",
+                "internalName":"imperialwarrior",
+                "unittype": "ship",
+                "scaleFactor": 1.0,
+                "collisionRadius": 1,
+                "vitals":{
+                        "energy": 150,
+                        "armor": 180,
+                        "shields": 145
+                },
+                "stats": {
+                            "max_energy": 150,
+                            "max_armor": 180,
+                            "max_shields": 145,
+                            "mass": 100,
+                            "speed": 21.0,
+                            "warp_strength": 0,
+                            "sensor_frequency":200,
+                            "sensor_range":500,
+                            "signature_radius":100,
+                            "cpu_size":50,
+                            "shield_regen":2
+
+                        },
+                "slots":{
+                            "high":2,
+                            "mid":2,
+                            "low":1
+
+                }
+                },
+
+                "imperialscout": {
+                  "modelname":"LPSP_Frigate3",
+                  "name":"imperial scout",
+                  "internalName":"imperialscout",
+                  "unittype": "ship",
+                  "scaleFactor": 1.0,
+                  "collisionRadius": 1,
+                  "vitals":{
+                          "energy": 150,
+                          "armor": 180,
+                          "shields": 145
+                  },
+                  "stats": {
+                              "max_energy": 150,
+                              "max_armor": 180,
+                              "max_shields": 145,
+                              "mass": 100,
+                              "speed": 21.0,
+                              "warp_strength": 0,
+                              "sensor_frequency":200,
+                              "sensor_range":500,
+                              "signature_radius":100,
+                              "cpu_size":50,
+                              "shield_regen":2
+
+                          },
+                  "slots":{
+                              "high":2,
+                              "mid":2,
+                              "low":1
+
+                  }
+                  },
+
+
+                  "imperialdestroyer": {
+                    "modelname":"reddington1C",
+                    "name":"imperial destroyer",
+                    "internalName":"imperialdestroyer",
+                    "unittype": "ship",
+                    "scaleFactor": 1.0,
+                    "collisionRadius": 1,
+                    "vitals":{
+                            "energy": 150,
+                            "armor": 280,
+                            "shields": 345
+                    },
+                    "stats": {
+                                "max_energy": 150,
+                                "max_armor": 280,
+                                "max_shields": 345,
+                                "mass": 100,
+                                "speed": 16.0,
+                                "warp_strength": 0,
+                                "sensor_frequency":400,
+                                "sensor_range":700,
+                                "signature_radius":150,
+                                "cpu_size":50,
+                                "shield_regen":1
+
+                            },
+                    "slots":{
+                                "high":2,
+                                "mid":2,
+                                "low":1
+
+                    }
+                    },
+
+                "imperialbattleguard": {
+                  "modelname":"cubeship03C",
+                  "name":"imperial battleguard",
+                  "internalName":"imperialbattleguard",
+                  "unittype": "ship",
+                  "scaleFactor": 1.0,
+                  "collisionRadius": 1,
+                  "vitals":{
+                          "energy": 550,
+                          "armor": 780,
+                          "shields": 695
+                  },
+                  "stats": {
+                              "max_energy": 550,
+                              "max_armor": 780,
+                              "max_shields": 1695,
+                              "mass": 100,
+                              "speed": 13.0,
+                              "warp_strength": 0,
+                              "sensor_frequency":400,
+                              "sensor_range":500,
+                              "signature_radius":150,
+                              "cpu_size":50,
+                              "shield_regen":2
+
+                          },
+                  "slots":{
+                              "high":2,
+                              "mid":2,
+                              "low":1
+
+                  }
+                  },
+
+
+                  "imperiallegionnaire": {
+                    "modelname":"reddington1B",
+                    "name":"imperial legionnaire",
+                    "internalName":"imperiallegionnaire",
+                    "unittype": "ship",
+                    "scaleFactor": 1.0,
+                    "collisionRadius": 1,
+                    "vitals":{
+                            "energy": 400,
+                            "armor": 350,
+                            "shields": 145
+                    },
+                    "stats": {
+                                "max_energy": 400,
+                                "max_armor": 350,
+                                "max_shields": 145,
+                                "mass": 40,
+                                "speed": 17.0,
+                                "warp_strength": 0,
+                                "sensor_frequency":200,
+                                "sensor_range":500,
+                                "signature_radius":50,
+                                "cpu_size":50,
+                                "shield_regen":2
+
+                            },
+                    "slots":{
+                                "high":2,
+                                "mid":2,
+                                "low":1
+
+                    }
+                    },
+
+
+                  "imperialwarlord": {
+                    "modelname":"cubeship05E",
+                    "name":"imperial warlord",
+                    "internalName":"imperialwarlord",
+                    "unittype": "ship",
+                    "scaleFactor": 1.0,
+                    "collisionRadius": 1,
+                    "vitals":{
+                            "energy": 1500,
+                            "armor": 1280,
+                            "shields": 2295
+                    },
+                    "stats": {
+                                "max_energy": 1500,
+                                "max_armor": 1280,
+                                "max_shields": 2295,
+                                "mass": 100,
+                                "speed": 9.0,
+                                "warp_strength": 0,
+                                "sensor_frequency":3400,
+                                "sensor_range":800,
+                                "signature_radius":750,
+                                "cpu_size":50,
+                                "shield_regen":8
+
+                            },
+                    "slots":{
+                                "high":2,
+                                "mid":2,
+                                "low":1
+
+                    }
+                    },
+
+
+
+      "shipwreck": {
+        "modelname":"shipDebrisA",
+        "name":"shipwreck",
+        "internalName":"shipwreck",
+        "unittype": "wreck",
+        "scaleFactor": 1.0,
+        "collisionRadius": 5,
+        "interactRadius": 100,
+        "services": ["looting"],
+        "vitals":{
+                "energy": 0,
+                "armor": 200,
+                "shields": 0
+        },
+        "stats": {
+                    "max_energy": 0,
+                    "max_armor": 200,
+                    "max_shields": 0,
+                    "mass": 40,
+                    "speed": 0.0,
+                    "warp_strength": 0,
+                    "sensor_frequency":0,
+                    "sensor_range":0,
+                    "signature_radius":50,
+                    "cpu_size":0,
+                    "shield_regen":0
+
+                },
+        "slots":{
+                    "high":0,
+                    "mid":0,
+                    "low":0
+
+        }
+        },
+
+        "doodadwreck": {
+          "modelname":"structureDebrisA",
+          "name":"wreck",
+          "internalName":"doodadwreck",
+          "unittype": "wreck",
+          "scaleFactor": 1.0,
+          "collisionRadius": 10,
+          "interactRadius": 100,
+          "services": ["looting"],
+          "vitals":{
+                  "energy": 0,
+                  "armor": 800,
+                  "shields": 0
+          },
+          "stats": {
+                      "max_energy": 0,
+                      "max_armor": 800,
+                      "max_shields": 0,
+                      "mass": 40,
+                      "speed": 0.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":0,
+                      "sensor_range":0,
+                      "signature_radius":50,
+                      "cpu_size":0,
+                      "shield_regen":0
+
+                  },
+          "slots":{
+                      "high":0,
+                      "mid":0,
+                      "low":0
+
+          }
+          },
+
+        "structurewreck": {
+          "modelname":"structureDebrisA",
+          "name":"wreck",
+          "internalName":"structurewreck",
+          "unittype": "wreck",
+          "scaleFactor": 5.0,
+          "collisionRadius": 50,
+          "interactRadius": 100,
+          "services": ["looting"],
+          "vitals":{
+                  "energy": 0,
+                  "armor": 800,
+                  "shields": 0
+          },
+          "stats": {
+                      "max_energy": 0,
+                      "max_armor": 800,
+                      "max_shields": 0,
+                      "mass": 40,
+                      "speed": 0.0,
+                      "warp_strength": 0,
+                      "sensor_frequency":0,
+                      "sensor_range":0,
+                      "signature_radius":50,
+                      "cpu_size":0,
+                      "shield_regen":0
+
+                  },
+          "slots":{
+                      "high":0,
+                      "mid":0,
+                      "low":0
+
+          }
+          },
+
+
+    "planetA": {
+      "modelname":"planetA",
+      "internalName":"planetA",
+      "name": "Large Water Planet",
+      "unittype": "doodad",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetB": {
+      "modelname":"planetB",
+      "internalName":"planetB",
+      "name": "Ice Planet",
+      "unittype": "doodad",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetC": {
+      "modelname":"planetC",
+      "name": "Water Planet",
+      "internalName": "planetC",
+      "unittype": "doodad",
+      "scaleFactor": 150.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetD": {
+      "modelname":"planetD",
+      "name": "Barren Planet",
+      "unittype": "doodad",
+      "internalName": "planetD",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+    "planetE": {
+      "modelname":"planetE",
+      "name": "Broken Planet",
+        "internalName": "planetE",
+      "unittype": "doodad",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetF": {
+      "modelname":"planetF",
+      "name": "Small Moon",
+        "internalName": "planetF",
+      "unittype": "doodad",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetH": {
+      "modelname":"planetH",
+      "name": "Large Moon",
+        "internalName": "planetH",
+      "unittype": "doodad",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetI": {
+      "modelname":"planetI",
+      "name": "Island Planet",
+        "internalName": "planetI",
+      "unittype": "doodad",
+      "scaleFactor": 200.0,
+      "collisionRadius": 600,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "planetL": {
+      "modelname":"planetL",
+      "name": "Ice Comet",
+        "internalName": "planetL",
+      "unittype": "doodad",
+      "scaleFactor": 100.0,
+      "collisionRadius": 300,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+    },
+
+    "warpgateA": {
+      "modelname":"warpgateA",
+      "name": "Ancient Warp Gate",
+      "internalName": "warpgateA",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+
+    "warpgateB": {
+      "modelname":"warpgateB",
+      "name": "Warp Gate",
+      "internalName": "warpgateB",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+
+    "warpgateC": {
+      "modelname":"warpgateC",
+      "name": "Warp Gate",
+      "internalName": "warpgateC",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+    "warpgateD": {
+      "modelname":"warpgateD",
+      "name": "Warp Gate",
+      "internalName": "warpgateD",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+    "warpgateE": {
+      "modelname":"warpgateE",
+      "name": "Warp Gate",
+      "internalName": "warpgateE",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+    "warpgateF": {
+      "modelname":"warpgateF",
+      "name": "Warp Gate",
+      "internalName": "warpgateF",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+    "warpgateG": {
+      "modelname":"warpgateG",
+      "name": "Warp Gate",
+      "internalName": "warpgateG",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+    "warpgateH": {
+      "modelname":"warpgateH",
+      "name": "Warp Gate",
+      "internalName": "warpgateH",
+      "unittype": "warpgate",
+      "scaleFactor": 1,
+      "collisionRadius": 25,
+      "interactRadius": 50,
+      "services": ["jumping"],
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+    },
+
+    "stationA": {
+      "modelname":"stationA",
+      "name": "Station",
+      "internalName": "stationA",
+      "unittype": "station",
+      "scaleFactor": 6,
+      "collisionRadius": 300,
+      "interactRadius": 450,
+      "services": ["docking", "market","production"],
+      "vitals":{
+              "energy": 10000,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 10000,
+        "max_armor": 10000,
+        "max_shields": 10000,
+        "shield_regen":10
+       }
+    },
+
+
+    "stationB": {
+      "modelname":"stationB",
+      "name": "Station",
+      "internalName": "stationB",
+      "unittype": "station",
+      "scaleFactor": 6,
+      "collisionRadius": 300,
+      "interactRadius": 450,
+      "services": ["docking", "market","production"],
+      "vitals":{
+              "energy": 10000,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 10000,
+        "max_armor": 10000,
+        "max_shields": 10000,
+        "shield_regen":10
+       }
+    },
+
+    "stationC": {
+      "modelname":"stationC",
+      "name": "Station",
+      "internalName": "stationC",
+      "unittype": "station",
+      "scaleFactor": 6,
+      "collisionRadius": 300,
+      "interactRadius": 450,
+      "services": ["docking", "market","production"],
+      "vitals":{
+              "energy": 10000,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 10000,
+        "max_armor": 10000,
+        "max_shields": 10000,
+        "shield_regen":10
+       }
+    },
+
+
+    "stationD": {
+      "modelname":"stationD",
+      "name": "Station",
+      "internalName": "stationD",
+      "unittype": "station",
+      "scaleFactor": 6,
+      "collisionRadius": 300,
+      "interactRadius": 450,
+      "services": ["docking", "market","production"],
+      "vitals":{
+              "energy": 10000,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 10000,
+        "max_armor": 10000,
+        "max_shields": 10000,
+        "shield_regen":10
+       }
+    },
+
+
+    "strongholdA": {
+      "modelname":"stationA",
+      "name": "Stronghold",
+      "unittype": "station",
+      "scaleFactor": 6,
+      "collisionRadius": 300,
+      "interactRadius": 450,
+      "services": ["docking", "missions"],
+      "vitals":{
+              "energy": 10000,
+              "armor": 10000,
+              "shields": 10000
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 10000,
+        "max_armor": 10000,
+        "max_shields": 10000
+       }
+    },
+
+
+    "rocksA": {
+      "modelname":"rocksA",
+      "name": "Large Rocks",
+      "unittype": "doodad",
+      "scaleFactor": 50,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "artifactA": {
+      "modelname":"artifact1",
+      "name": "Curious Artifact",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 10000
+      }
+
+    },
+    "artifactB": {
+      "modelname":"artifact2",
+      "name": "Hostile Artifact",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "artifactC": {
+      "modelname":"artifact3",
+      "name": "Mysterious Artifact",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 1,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "artifactD": {
+      "modelname":"artifact4",
+      "name": "Strange Artifact",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 5,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "artifactE": {
+      "modelname":"artifact5",
+      "name": "Dangerous Artifact",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 5,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+
+
+
+
+    "ruinedStructure": {
+      "modelname":"structureDebrisA",
+      "name": "Ruined Structure",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 5,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "ruinedShip": {
+      "modelname":"shipDebrisA",
+      "name": "Ruined Ship",
+      "unittype": "doodad",
+      "scaleFactor": 5,
+      "collisionRadius": 5,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+
+    "shipyardA": {
+      "modelname":"shipyard1",
+      "name": "Shipyard",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+
+    "ruinedShipyardA": {
+      "modelname":"ruinedshipyard1",
+      "name": "Ruined Shipyard",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "ruinedShipyardB": {
+      "modelname":"ruinedshipyard2",
+      "name": "Ruined Shipyard",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "chunkyblock": {
+      "modelname":"chunkyblock",
+      "name": "Artifact",
+      "unittype": "doodad",
+      "scaleFactor": 15,
+      "collisionRadius": 15,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "ancientGateA": {
+      "modelname":"ancientgate",
+      "name": "Ancient Gate",
+      "unittype": "doodad",
+      "scaleFactor": 35,
+      "collisionRadius": 55,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "ancientGateB": {
+      "modelname":"ancientgate2",
+      "name": "Ancient Gate",
+      "unittype": "doodad",
+      "scaleFactor": 35,
+      "collisionRadius": 55,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+    "solarArray": {
+      "modelname":"solararray",
+      "name": "Solar Array",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 0,
+              "armor": 10000,
+              "shields": 0
+      },
+      "invulnerable":true,
+      "stats": {
+        "max_energy": 0,
+        "max_armor": 10000,
+        "max_shields": 0
+      }
+
+    },
+
+    "stable_warpgate": {
+      "modelname":"artifact7",
+      "name": "Stable Warpgate",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "invulnerable":true,
+      "vitals":{
+              "energy": 1950,
+              "armor": 3000,
+              "shields": 1950
+      },
+      "stats": {
+        "max_energy":1950,
+        "max_armor": 3000,
+        "max_shields": 1950
+      }
+
+    },
+
+    "destructible_imperialsignaltower": {
+      "modelname":"solararray",
+      "name": "Imperial Signal Tower",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 150,
+              "armor": 300,
+              "shields": 450
+      },
+      "stats": {
+        "max_energy": 150,
+        "max_armor": 300,
+        "max_shields": 450
+      }
+
+    },
+
+    "destructible_replication_subfactory": {
+      "modelname":"shipyard1",
+      "name": "Replication Subfactory",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 2450,
+              "armor": 3800,
+              "shields": 2450
+      },
+      "stats": {
+        "max_energy": 2450,
+        "max_armor": 3800,
+        "max_shields": 2450
+      }
+
+    },
+
+    "destructible_unpowered_warpgate": {
+      "modelname":"artifact7",
+      "name": "Unpowered Warpgate",
+      "unittype": "doodad",
+      "scaleFactor": 25,
+      "collisionRadius": 25,
+      "vitals":{
+              "energy": 1950,
+              "armor": 3000,
+              "shields": 1950
+      },
+      "stats": {
+        "max_energy":1950,
+        "max_armor": 3000,
+        "max_shields": 1950
+      }
+
+    }
+
+
+}
