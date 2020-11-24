@@ -1,8 +1,17 @@
 <template>
   <div class="wiki-content" >
 
-    <h3 class="text-lg"> {{loadedContent.title}}   </h3>
+    <h3 class="text-lg capitalize"> {{loadedContent.title}}   </h3>
+
+    <h3 class="text-sm capitalize text-gray-400"> {{loadedContent.subtitle}}   </h3>
     <br>
+
+
+    <div v-if="loadedContent.description"   >
+     <p>  {{loadedContent.description}}  </p>
+
+    </div>
+
 
     <div v-if="loadedContent.paragraphs" v-for="paragraph in loadedContent.paragraphs" >
      <p>  {{paragraph}}  </p>

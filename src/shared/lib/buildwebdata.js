@@ -39,6 +39,8 @@ mongodump --db outerspace_development
 
         webFileOutputData['solarsystems'][key] = { webDataType: 'solarsystem', internalName: key , fullName: solarsystem.name, constellation: solarsystem.constellation, security: solarsystem.security  }
 
+        webFileOutputData['pages'][key] = { webDataType: 'solarsystem', internalName: key , fullName: solarsystem.name }
+
 
     }
 

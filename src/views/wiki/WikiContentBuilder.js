@@ -7,6 +7,26 @@ export default class WikiContentBuilder {
 
   static getContentByName(contentName){
 
+    for(let [key,page] of Object.entries(exportedwebdata.pages)){
+
+      //console.log('check ', key, contentName)
+
+      if(key && key.toString().toLowerCase() == ( contentName.toLowerCase() )){
+
+        return {
+          title: page.fullName ,
+          subtitle: page.webDataType,
+          description: page.description
+
+        }
+      }
+
+    }
+
+
+
+
+
     if(contentName == 'wikihome'){
       return {
         title:'Ethereum Space War Wiki',
