@@ -25,21 +25,31 @@ mongodump --db outerspace_development
     let itemData = JSON.parse(itemDataRaw)
 
 
-    let equipmentDataRaw = fs.readFileSync(__dirname  + '/../worlddata/items/equipmenttypes.json');
-    let equipmentData= JSON.parse(equipmentDataRaw)
+
+        let equipmentDataRaw = fs.readFileSync(__dirname  + '/../worlddata/items/equipmenttypes.json');
+        let equipmentData= JSON.parse(equipmentDataRaw)
+
+    let solarsystemDataRaw = fs.readFileSync(__dirname  + '/../worlddata/solarsystemsrevised.json');
+    let solarsystemData= JSON.parse(solarsystemDataRaw)
 
 
-    let webFileOutputData = {}
+    let webFileOutputData = {pages:{}, solarsystems:{}}
 
+    for(let [key,solarsystem] of Object.entries( solarsystemData.solarsystems )){
+
+        webFileOutputData['solarsystems'][key] = { webDataType: 'solarsystem', internalName: key , fullName: solarsystem.name, constellation: solarsystem.constellation, security: solarsystem.security  }
+
+
+    }
 
     for(let [key,item] of Object.entries( itemData )){
       if(item.itemClass=='equipment'){
-        webFileOutputData[key] = { webDataType: 'equipment', internalName: key , fullName: item.name, description: item.description }
+        webFileOutputData['pages'][key] = { webDataType: 'equipment', internalName: key , fullName: item.name, description: item.description }
 
       }
 
       if(item.itemClass=='commodity'){
-        webFileOutputData[key] = { webDataType: 'commodity', internalName: key , fullName: item.name, description: item.description }
+        webFileOutputData['pages'][key] = { webDataType: 'commodity', internalName: key , fullName: item.name, description: item.description }
 
       }
 

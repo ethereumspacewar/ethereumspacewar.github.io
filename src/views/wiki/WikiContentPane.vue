@@ -4,8 +4,15 @@
     <h3 class="text-lg"> {{loadedContent.title}}   </h3>
     <br>
 
-    <div v-for="paragraph in loadedContent.paragraphs" >
+    <div v-if="loadedContent.paragraphs" v-for="paragraph in loadedContent.paragraphs" >
      <p>  {{paragraph}}  </p>
+
+    </div>
+
+
+    <div  v-if="loadedContent.linkarray" v-for="linkitem in loadedContent.linkarray" >
+
+        <span class="cursor-pointer font-semibold text-yellow-400 hover:underline" @click="navigateToContent(linkitem.query)">  {{linkitem.name}} </span>
 
     </div>
 
@@ -43,7 +50,14 @@ export default {
       this.activeContent = contentName
 
       this.loadedContent = WikiContentBuilder.getContentByName( contentName )
+    },
+
+    navigateToContent(query){
+
+        this.$router.push ( '/wiki/'.concat(query))
+
     }
+
   }
 }
 </script>

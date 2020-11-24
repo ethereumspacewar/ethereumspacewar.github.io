@@ -1,189 +1,505 @@
 {
-  "metalscrap": {
-    "webDataType": "commodity",
-    "internalName": "metalscrap",
-    "fullName": "Metal Scrap",
-    "description": "One cubic meter of salvaged metal from outer space."
+  "pages": {
+    "metalscrap": {
+      "webDataType": "commodity",
+      "internalName": "metalscrap",
+      "fullName": "Metal Scrap",
+      "description": "One cubic meter of salvaged metal from outer space."
+    },
+    "vanadium": {
+      "webDataType": "commodity",
+      "internalName": "vanadium",
+      "fullName": "Vanadium",
+      "description": "An uncommon silvery-grey transition metal. Useful for producing space-grade weapons and armor."
+    },
+    "tritium": {
+      "webDataType": "commodity",
+      "internalName": "tritium",
+      "fullName": "Tritium",
+      "description": "A rare radioactive isotope of hydrogen. A Powerful source of energy for fusion reactions."
+    },
+    "uranium": {
+      "webDataType": "commodity",
+      "internalName": "uranium",
+      "fullName": "Uranium",
+      "description": "A rare unstable metal, offering superb power density in high powered applications."
+    },
+    "nanocrystals": {
+      "webDataType": "commodity",
+      "internalName": "nanocrystals",
+      "fullName": "Nano Crystals",
+      "description": "Microscopic crystalline microstructures ideal for producing nanobots and wetware."
+    },
+    "ionizedfluid": {
+      "webDataType": "commodity",
+      "internalName": "ionizedfluid",
+      "fullName": "Ionized Fluid",
+      "description": "A blend of synthetic fluid with properties ideal for electromechanical engineering."
+    },
+    "plasmids": {
+      "webDataType": "commodity",
+      "internalName": "plasmids",
+      "fullName": "Plasmids",
+      "description": "Soluble mutagenic fluids ideal for bio-engineering."
+    },
+    "hexinite": {
+      "webDataType": "commodity",
+      "internalName": "hexinite",
+      "fullName": "Hexinite",
+      "description": "A rare metal that can only be mined from deep within the cores of barren planets."
+    },
+    "antimatter": {
+      "webDataType": "commodity",
+      "internalName": "antimatter",
+      "fullName": "Antimatter",
+      "description": "Highly dangerous antimatter, capable of producing unfathomable amounts of energy if combined with matter."
+    },
+    "carbonizedmembranes": {
+      "webDataType": "commodity",
+      "internalName": "carbonizedmembranes",
+      "fullName": "Carbonized Membranes",
+      "description": "Hardened and woven nano-membrane material, able to protect against radiation and extreme temperature."
+    },
+    "devcannon": { "webDataType": "equipment", "internalName": "devcannon", "fullName": "Dev Cannon" },
+    "roguephotoncannon": {
+      "webDataType": "equipment",
+      "internalName": "roguephotoncannon",
+      "fullName": "Rogue Photon Cannon"
+    },
+    "roguebarragecannon": {
+      "webDataType": "equipment",
+      "internalName": "roguebarragecannon",
+      "fullName": "Rogue Barrage Cannon"
+    },
+    "roguerailgun": { "webDataType": "equipment", "internalName": "roguerailgun", "fullName": "Rogue Railgun" },
+    "rogueminigun": { "webDataType": "equipment", "internalName": "rogueminigun", "fullName": "Rogue Minigun" },
+    "roguebomblauncher": {
+      "webDataType": "equipment",
+      "internalName": "roguebomblauncher",
+      "fullName": "Rogue Bomb Launcher"
+    },
+    "civiliancannon": {
+      "webDataType": "equipment",
+      "internalName": "civiliancannon",
+      "fullName": "Civilian Cannon"
+    },
+    "lightrailgun": { "webDataType": "equipment", "internalName": "lightrailgun", "fullName": "Light Railgun" },
+    "antimatterrailcannon": {
+      "webDataType": "equipment",
+      "internalName": "antimatterrailcannon",
+      "fullName": "Antimatter Railcannon"
+    },
+    "hypercannon": { "webDataType": "equipment", "internalName": "hypercannon", "fullName": "Hypercannon" },
+    "lightmissilebay": {
+      "webDataType": "equipment",
+      "internalName": "lightmissilebay",
+      "fullName": "Light Missile Bay"
+    },
+    "vectormissilebay": {
+      "webDataType": "equipment",
+      "internalName": "vectormissilebay",
+      "fullName": "Vector Missile Bay"
+    },
+    "rapidrocketlauncher": {
+      "webDataType": "equipment",
+      "internalName": "rapidrocketlauncher",
+      "fullName": "Rapid Rocket Launcher"
+    },
+    "gatlingcannon": { "webDataType": "equipment", "internalName": "gatlingcannon", "fullName": "Gatling Cannon" },
+    "smallpulselaser": {
+      "webDataType": "equipment",
+      "internalName": "smallpulselaser",
+      "fullName": "Small Pulse Laser"
+    },
+    "smallenergyneutralizer": {
+      "webDataType": "equipment",
+      "internalName": "smallenergyneutralizer",
+      "fullName": "Small Energy Neutralizer"
+    },
+    "smallenergyvampire": {
+      "webDataType": "equipment",
+      "internalName": "smallenergyvampire",
+      "fullName": "Small Energy Vampire"
+    },
+    "mediumenergyneutralizer": {
+      "webDataType": "equipment",
+      "internalName": "mediumenergyneutralizer",
+      "fullName": "Medium Energy Neutralizer"
+    },
+    "smallshieldregenerator": {
+      "webDataType": "equipment",
+      "internalName": "smallshieldregenerator",
+      "fullName": "Small Shield Regenerator"
+    },
+    "smallshieldrecharger": {
+      "webDataType": "equipment",
+      "internalName": "smallshieldrecharger",
+      "fullName": "Small Shield Recharger"
+    },
+    "smallbatteryrecharger": {
+      "webDataType": "equipment",
+      "internalName": "smallbatteryrecharger",
+      "fullName": "Small Battery Recharger"
+    },
+    "smallcapacitorbank": {
+      "webDataType": "equipment",
+      "internalName": "smallcapacitorbank",
+      "fullName": "Small Capacitor Bank"
+    },
+    "smallcoprocessor": {
+      "webDataType": "equipment",
+      "internalName": "smallcoprocessor",
+      "fullName": "Small Co-Processor"
+    },
+    "smallcargoexpansion": {
+      "webDataType": "equipment",
+      "internalName": "smallcargoexpansion",
+      "fullName": "Small Cargo Expansion"
+    },
+    "atomicpropulsor": {
+      "webDataType": "equipment",
+      "internalName": "atomicpropulsor",
+      "fullName": "Atomic Propulsor"
+    },
+    "atomicoverdrive": {
+      "webDataType": "equipment",
+      "internalName": "atomicoverdrive",
+      "fullName": "Atomic Overdrive"
+    },
+    "smallstasiswebifier": {
+      "webDataType": "equipment",
+      "internalName": "smallstasiswebifier",
+      "fullName": "Small Statis Webifier"
+    },
+    "warpcoredisruptor": {
+      "webDataType": "equipment",
+      "internalName": "warpcoredisruptor",
+      "fullName": "Warpcore Disruptor"
+    },
+    "basicarmorplating": {
+      "webDataType": "equipment",
+      "internalName": "basicarmorplating",
+      "fullName": "Basic Armor Plating"
+    },
+    "heavyarmorplating": {
+      "webDataType": "equipment",
+      "internalName": "heavyarmorplating",
+      "fullName": "Heavy Armor Plating"
+    },
+    "smallshieldextender": {
+      "webDataType": "equipment",
+      "internalName": "smallshieldextender",
+      "fullName": "Small Shield Extender"
+    }
   },
-  "vanadium": {
-    "webDataType": "commodity",
-    "internalName": "vanadium",
-    "fullName": "Vanadium",
-    "description": "An uncommon silvery-grey transition metal. Useful for producing space-grade weapons and armor."
-  },
-  "tritium": {
-    "webDataType": "commodity",
-    "internalName": "tritium",
-    "fullName": "Tritium",
-    "description": "A rare radioactive isotope of hydrogen. A Powerful source of energy for fusion reactions."
-  },
-  "uranium": {
-    "webDataType": "commodity",
-    "internalName": "uranium",
-    "fullName": "Uranium",
-    "description": "A rare unstable metal, offering superb power density in high powered applications."
-  },
-  "nanocrystals": {
-    "webDataType": "commodity",
-    "internalName": "nanocrystals",
-    "fullName": "Nano Crystals",
-    "description": "Microscopic crystalline microstructures ideal for producing nanobots and wetware."
-  },
-  "ionizedfluid": {
-    "webDataType": "commodity",
-    "internalName": "ionizedfluid",
-    "fullName": "Ionized Fluid",
-    "description": "A blend of synthetic fluid with properties ideal for electromechanical engineering."
-  },
-  "plasmids": {
-    "webDataType": "commodity",
-    "internalName": "plasmids",
-    "fullName": "Plasmids",
-    "description": "Soluble mutagenic fluids ideal for bio-engineering."
-  },
-  "hexinite": {
-    "webDataType": "commodity",
-    "internalName": "hexinite",
-    "fullName": "Hexinite",
-    "description": "A rare metal that can only be mined from deep within the cores of barren planets."
-  },
-  "antimatter": {
-    "webDataType": "commodity",
-    "internalName": "antimatter",
-    "fullName": "Antimatter",
-    "description": "Highly dangerous antimatter, capable of producing unfathomable amounts of energy if combined with matter."
-  },
-  "carbonizedmembranes": {
-    "webDataType": "commodity",
-    "internalName": "carbonizedmembranes",
-    "fullName": "Carbonized Membranes",
-    "description": "Hardened and woven nano-membrane material, able to protect against radiation and extreme temperature."
-  },
-  "devcannon": { "webDataType": "equipment", "internalName": "devcannon", "fullName": "Dev Cannon" },
-  "roguephotoncannon": {
-    "webDataType": "equipment",
-    "internalName": "roguephotoncannon",
-    "fullName": "Rogue Photon Cannon"
-  },
-  "roguebarragecannon": {
-    "webDataType": "equipment",
-    "internalName": "roguebarragecannon",
-    "fullName": "Rogue Barrage Cannon"
-  },
-  "roguerailgun": { "webDataType": "equipment", "internalName": "roguerailgun", "fullName": "Rogue Railgun" },
-  "rogueminigun": { "webDataType": "equipment", "internalName": "rogueminigun", "fullName": "Rogue Minigun" },
-  "roguebomblauncher": {
-    "webDataType": "equipment",
-    "internalName": "roguebomblauncher",
-    "fullName": "Rogue Bomb Launcher"
-  },
-  "civiliancannon": { "webDataType": "equipment", "internalName": "civiliancannon", "fullName": "Civilian Cannon" },
-  "lightrailgun": { "webDataType": "equipment", "internalName": "lightrailgun", "fullName": "Light Railgun" },
-  "antimatterrailcannon": {
-    "webDataType": "equipment",
-    "internalName": "antimatterrailcannon",
-    "fullName": "Antimatter Railcannon"
-  },
-  "hypercannon": { "webDataType": "equipment", "internalName": "hypercannon", "fullName": "Hypercannon" },
-  "lightmissilebay": {
-    "webDataType": "equipment",
-    "internalName": "lightmissilebay",
-    "fullName": "Light Missile Bay"
-  },
-  "vectormissilebay": {
-    "webDataType": "equipment",
-    "internalName": "vectormissilebay",
-    "fullName": "Vector Missile Bay"
-  },
-  "rapidrocketlauncher": {
-    "webDataType": "equipment",
-    "internalName": "rapidrocketlauncher",
-    "fullName": "Rapid Rocket Launcher"
-  },
-  "gatlingcannon": { "webDataType": "equipment", "internalName": "gatlingcannon", "fullName": "Gatling Cannon" },
-  "smallpulselaser": {
-    "webDataType": "equipment",
-    "internalName": "smallpulselaser",
-    "fullName": "Small Pulse Laser"
-  },
-  "smallenergyneutralizer": {
-    "webDataType": "equipment",
-    "internalName": "smallenergyneutralizer",
-    "fullName": "Small Energy Neutralizer"
-  },
-  "smallenergyvampire": {
-    "webDataType": "equipment",
-    "internalName": "smallenergyvampire",
-    "fullName": "Small Energy Vampire"
-  },
-  "mediumenergyneutralizer": {
-    "webDataType": "equipment",
-    "internalName": "mediumenergyneutralizer",
-    "fullName": "Medium Energy Neutralizer"
-  },
-  "smallshieldregenerator": {
-    "webDataType": "equipment",
-    "internalName": "smallshieldregenerator",
-    "fullName": "Small Shield Regenerator"
-  },
-  "smallshieldrecharger": {
-    "webDataType": "equipment",
-    "internalName": "smallshieldrecharger",
-    "fullName": "Small Shield Recharger"
-  },
-  "smallbatteryrecharger": {
-    "webDataType": "equipment",
-    "internalName": "smallbatteryrecharger",
-    "fullName": "Small Battery Recharger"
-  },
-  "smallcapacitorbank": {
-    "webDataType": "equipment",
-    "internalName": "smallcapacitorbank",
-    "fullName": "Small Capacitor Bank"
-  },
-  "smallcoprocessor": {
-    "webDataType": "equipment",
-    "internalName": "smallcoprocessor",
-    "fullName": "Small Co-Processor"
-  },
-  "smallcargoexpansion": {
-    "webDataType": "equipment",
-    "internalName": "smallcargoexpansion",
-    "fullName": "Small Cargo Expansion"
-  },
-  "atomicpropulsor": {
-    "webDataType": "equipment",
-    "internalName": "atomicpropulsor",
-    "fullName": "Atomic Propulsor"
-  },
-  "atomicoverdrive": {
-    "webDataType": "equipment",
-    "internalName": "atomicoverdrive",
-    "fullName": "Atomic Overdrive"
-  },
-  "smallstasiswebifier": {
-    "webDataType": "equipment",
-    "internalName": "smallstasiswebifier",
-    "fullName": "Small Statis Webifier"
-  },
-  "warpcoredisruptor": {
-    "webDataType": "equipment",
-    "internalName": "warpcoredisruptor",
-    "fullName": "Warpcore Disruptor"
-  },
-  "basicarmorplating": {
-    "webDataType": "equipment",
-    "internalName": "basicarmorplating",
-    "fullName": "Basic Armor Plating"
-  },
-  "heavyarmorplating": {
-    "webDataType": "equipment",
-    "internalName": "heavyarmorplating",
-    "fullName": "Heavy Armor Plating"
-  },
-  "smallshieldextender": {
-    "webDataType": "equipment",
-    "internalName": "smallshieldextender",
-    "fullName": "Small Shield Extender"
+  "solarsystems": {
+    "antonopoulos": {
+      "webDataType": "solarsystem",
+      "internalName": "antonopoulos",
+      "fullName": "antonopoulos",
+      "constellation": "defi",
+      "security": 9
+    },
+    "llarval": {
+      "webDataType": "solarsystem",
+      "internalName": "llarval",
+      "fullName": "llarval",
+      "constellation": "defi",
+      "security": 8
+    },
+    "rekkt": {
+      "webDataType": "solarsystem",
+      "internalName": "rekkt",
+      "fullName": "rekkt",
+      "constellation": "unikron",
+      "security": 4
+    },
+    "the circle": {
+      "webDataType": "solarsystem",
+      "internalName": "the circle",
+      "fullName": "the circle",
+      "constellation": "defi",
+      "security": 9
+    },
+    "v-ii": {
+      "webDataType": "solarsystem",
+      "internalName": "v-ii",
+      "fullName": "v-ii",
+      "constellation": "defi",
+      "security": 7
+    },
+    "cerberus": {
+      "webDataType": "solarsystem",
+      "internalName": "cerberus",
+      "fullName": "cerberus",
+      "constellation": "defi",
+      "security": 7
+    },
+    "hallow": {
+      "webDataType": "solarsystem",
+      "internalName": "hallow",
+      "fullName": "hallow",
+      "constellation": "defi",
+      "security": 7
+    },
+    "the void": {
+      "webDataType": "solarsystem",
+      "internalName": "the void",
+      "fullName": "the void",
+      "constellation": "defi",
+      "security": 4
+    },
+    "misery": {
+      "webDataType": "solarsystem",
+      "internalName": "misery",
+      "fullName": "misery",
+      "constellation": "defi",
+      "security": 3
+    },
+    "tarcq": {
+      "webDataType": "solarsystem",
+      "internalName": "tarcq",
+      "fullName": "tarcq",
+      "constellation": "unikron",
+      "security": 8
+    },
+    "majora minor": {
+      "webDataType": "solarsystem",
+      "internalName": "majora minor",
+      "fullName": "majora minor",
+      "constellation": "unikron",
+      "security": 6
+    },
+    "mikers": {
+      "webDataType": "solarsystem",
+      "internalName": "mikers",
+      "fullName": "mikers",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "adastar": {
+      "webDataType": "solarsystem",
+      "internalName": "adastar",
+      "fullName": "adastar",
+      "constellation": "synthesis",
+      "security": 6
+    },
+    "synthesis": {
+      "webDataType": "solarsystem",
+      "internalName": "synthesis",
+      "fullName": "synthesis",
+      "constellation": "synthesis",
+      "security": 8
+    },
+    "orwyn": {
+      "webDataType": "solarsystem",
+      "internalName": "orwyn",
+      "fullName": "orwyn",
+      "constellation": "synthesis",
+      "security": 8
+    },
+    "zero-x": {
+      "webDataType": "solarsystem",
+      "internalName": "zero-x",
+      "fullName": "zero-x",
+      "constellation": "defi",
+      "security": 8
+    },
+    "turbulensa": {
+      "webDataType": "solarsystem",
+      "internalName": "turbulensa",
+      "fullName": "turbulensa",
+      "constellation": "defi",
+      "security": 8
+    },
+    "szabo": {
+      "webDataType": "solarsystem",
+      "internalName": "szabo",
+      "fullName": "szabo",
+      "constellation": "legacy",
+      "security": 6
+    },
+    "satoshi": {
+      "webDataType": "solarsystem",
+      "internalName": "satoshi",
+      "fullName": "satoshi",
+      "constellation": "legacy",
+      "security": 8
+    },
+    "hal": {
+      "webDataType": "solarsystem",
+      "internalName": "hal",
+      "fullName": "hal",
+      "constellation": "legacy",
+      "security": 7
+    },
+    "azlehria": {
+      "webDataType": "solarsystem",
+      "internalName": "azlehria",
+      "fullName": "azlehria",
+      "constellation": "legacy",
+      "security": 7
+    },
+    "m-vis": {
+      "webDataType": "solarsystem",
+      "internalName": "m-vis",
+      "fullName": "m-vis",
+      "constellation": "legacy",
+      "security": 8
+    },
+    "shiba": {
+      "webDataType": "solarsystem",
+      "internalName": "shiba",
+      "fullName": "shiba",
+      "constellation": "legacy",
+      "security": 7
+    },
+    "snarks": {
+      "webDataType": "solarsystem",
+      "internalName": "snarks",
+      "fullName": "snarks",
+      "constellation": "legacy",
+      "security": 5
+    },
+    "serenity": {
+      "webDataType": "solarsystem",
+      "internalName": "serenity",
+      "fullName": "serenity",
+      "constellation": "node",
+      "security": 8
+    },
+    "the fringe": {
+      "webDataType": "solarsystem",
+      "internalName": "the fringe",
+      "fullName": "the fringe",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "hex": {
+      "webDataType": "solarsystem",
+      "internalName": "hex",
+      "fullName": "hex",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "erebus": {
+      "webDataType": "solarsystem",
+      "internalName": "erebus",
+      "fullName": "erebus",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "frontier": {
+      "webDataType": "solarsystem",
+      "internalName": "frontier",
+      "fullName": "frontier",
+      "constellation": "unikron",
+      "security": 3
+    },
+    "metropolis": {
+      "webDataType": "solarsystem",
+      "internalName": "metropolis",
+      "fullName": "metropolis",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "valhalla": {
+      "webDataType": "solarsystem",
+      "internalName": "valhalla",
+      "fullName": "valhalla",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "quanta": {
+      "webDataType": "solarsystem",
+      "internalName": "quanta",
+      "fullName": "quanta",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "insidia": {
+      "webDataType": "solarsystem",
+      "internalName": "insidia",
+      "fullName": "insidia",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "the valley": {
+      "webDataType": "solarsystem",
+      "internalName": "the valley",
+      "fullName": "the valley",
+      "constellation": "unikron",
+      "security": 5
+    },
+    "amethyst": {
+      "webDataType": "solarsystem",
+      "internalName": "amethyst",
+      "fullName": "amethyst",
+      "constellation": "nomad",
+      "security": 4
+    },
+    "uruk": {
+      "webDataType": "solarsystem",
+      "internalName": "uruk",
+      "fullName": "uruk",
+      "constellation": "nomad",
+      "security": 3
+    },
+    "mode": {
+      "webDataType": "solarsystem",
+      "internalName": "mode",
+      "fullName": "mode",
+      "constellation": "nomad",
+      "security": 2
+    },
+    "vorta": {
+      "webDataType": "solarsystem",
+      "internalName": "vorta",
+      "fullName": "vorta",
+      "constellation": "the arc",
+      "security": 2
+    },
+    "farse": {
+      "webDataType": "solarsystem",
+      "internalName": "farse",
+      "fullName": "farse",
+      "constellation": "the arc",
+      "security": 2
+    },
+    "xena": {
+      "webDataType": "solarsystem",
+      "internalName": "xena",
+      "fullName": "xena",
+      "constellation": "the arc",
+      "security": 3
+    },
+    "tornado": {
+      "webDataType": "solarsystem",
+      "internalName": "tornado",
+      "fullName": "tornado",
+      "constellation": "the arc",
+      "security": 3
+    },
+    "ream": {
+      "webDataType": "solarsystem",
+      "internalName": "ream",
+      "fullName": "ream",
+      "constellation": "the arc",
+      "security": 3
+    },
+    "the edge": {
+      "webDataType": "solarsystem",
+      "internalName": "the edge",
+      "fullName": "the edge",
+      "constellation": "the arc",
+      "security": 3
+    },
+    "xel": {
+      "webDataType": "solarsystem",
+      "internalName": "xel",
+      "fullName": "xel",
+      "constellation": "unikron",
+      "security": 4
+    }
   }
 }
