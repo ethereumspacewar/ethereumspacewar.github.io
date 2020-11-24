@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
- 
+import GameGuide from './views/GameGuide.vue'
+
 import Wiki from './views/Wiki.vue'
 
 Vue.use(Router)
@@ -20,6 +21,12 @@ export default new Router({
       path: '/wiki',
       name: 'wiki',
       component: Wiki,
+    },
+
+    {
+      path: '/guide',
+      name: 'gameguide',
+      component: GameGuide,
     },
   ]
 })

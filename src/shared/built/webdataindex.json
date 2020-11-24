@@ -1,0 +1,189 @@
+{
+  "metalscrap": {
+    "webDataType": "commodity",
+    "internalName": "metalscrap",
+    "fullName": "Metal Scrap",
+    "description": "One cubic meter of salvaged metal from outer space."
+  },
+  "vanadium": {
+    "webDataType": "commodity",
+    "internalName": "vanadium",
+    "fullName": "Vanadium",
+    "description": "An uncommon silvery-grey transition metal. Useful for producing space-grade weapons and armor."
+  },
+  "tritium": {
+    "webDataType": "commodity",
+    "internalName": "tritium",
+    "fullName": "Tritium",
+    "description": "A rare radioactive isotope of hydrogen. A Powerful source of energy for fusion reactions."
+  },
+  "uranium": {
+    "webDataType": "commodity",
+    "internalName": "uranium",
+    "fullName": "Uranium",
+    "description": "A rare unstable metal, offering superb power density in high powered applications."
+  },
+  "nanocrystals": {
+    "webDataType": "commodity",
+    "internalName": "nanocrystals",
+    "fullName": "Nano Crystals",
+    "description": "Microscopic crystalline microstructures ideal for producing nanobots and wetware."
+  },
+  "ionizedfluid": {
+    "webDataType": "commodity",
+    "internalName": "ionizedfluid",
+    "fullName": "Ionized Fluid",
+    "description": "A blend of synthetic fluid with properties ideal for electromechanical engineering."
+  },
+  "plasmids": {
+    "webDataType": "commodity",
+    "internalName": "plasmids",
+    "fullName": "Plasmids",
+    "description": "Soluble mutagenic fluids ideal for bio-engineering."
+  },
+  "hexinite": {
+    "webDataType": "commodity",
+    "internalName": "hexinite",
+    "fullName": "Hexinite",
+    "description": "A rare metal that can only be mined from deep within the cores of barren planets."
+  },
+  "antimatter": {
+    "webDataType": "commodity",
+    "internalName": "antimatter",
+    "fullName": "Antimatter",
+    "description": "Highly dangerous antimatter, capable of producing unfathomable amounts of energy if combined with matter."
+  },
+  "carbonizedmembranes": {
+    "webDataType": "commodity",
+    "internalName": "carbonizedmembranes",
+    "fullName": "Carbonized Membranes",
+    "description": "Hardened and woven nano-membrane material, able to protect against radiation and extreme temperature."
+  },
+  "devcannon": { "webDataType": "equipment", "internalName": "devcannon", "fullName": "Dev Cannon" },
+  "roguephotoncannon": {
+    "webDataType": "equipment",
+    "internalName": "roguephotoncannon",
+    "fullName": "Rogue Photon Cannon"
+  },
+  "roguebarragecannon": {
+    "webDataType": "equipment",
+    "internalName": "roguebarragecannon",
+    "fullName": "Rogue Barrage Cannon"
+  },
+  "roguerailgun": { "webDataType": "equipment", "internalName": "roguerailgun", "fullName": "Rogue Railgun" },
+  "rogueminigun": { "webDataType": "equipment", "internalName": "rogueminigun", "fullName": "Rogue Minigun" },
+  "roguebomblauncher": {
+    "webDataType": "equipment",
+    "internalName": "roguebomblauncher",
+    "fullName": "Rogue Bomb Launcher"
+  },
+  "civiliancannon": { "webDataType": "equipment", "internalName": "civiliancannon", "fullName": "Civilian Cannon" },
+  "lightrailgun": { "webDataType": "equipment", "internalName": "lightrailgun", "fullName": "Light Railgun" },
+  "antimatterrailcannon": {
+    "webDataType": "equipment",
+    "internalName": "antimatterrailcannon",
+    "fullName": "Antimatter Railcannon"
+  },
+  "hypercannon": { "webDataType": "equipment", "internalName": "hypercannon", "fullName": "Hypercannon" },
+  "lightmissilebay": {
+    "webDataType": "equipment",
+    "internalName": "lightmissilebay",
+    "fullName": "Light Missile Bay"
+  },
+  "vectormissilebay": {
+    "webDataType": "equipment",
+    "internalName": "vectormissilebay",
+    "fullName": "Vector Missile Bay"
+  },
+  "rapidrocketlauncher": {
+    "webDataType": "equipment",
+    "internalName": "rapidrocketlauncher",
+    "fullName": "Rapid Rocket Launcher"
+  },
+  "gatlingcannon": { "webDataType": "equipment", "internalName": "gatlingcannon", "fullName": "Gatling Cannon" },
+  "smallpulselaser": {
+    "webDataType": "equipment",
+    "internalName": "smallpulselaser",
+    "fullName": "Small Pulse Laser"
+  },
+  "smallenergyneutralizer": {
+    "webDataType": "equipment",
+    "internalName": "smallenergyneutralizer",
+    "fullName": "Small Energy Neutralizer"
+  },
+  "smallenergyvampire": {
+    "webDataType": "equipment",
+    "internalName": "smallenergyvampire",
+    "fullName": "Small Energy Vampire"
+  },
+  "mediumenergyneutralizer": {
+    "webDataType": "equipment",
+    "internalName": "mediumenergyneutralizer",
+    "fullName": "Medium Energy Neutralizer"
+  },
+  "smallshieldregenerator": {
+    "webDataType": "equipment",
+    "internalName": "smallshieldregenerator",
+    "fullName": "Small Shield Regenerator"
+  },
+  "smallshieldrecharger": {
+    "webDataType": "equipment",
+    "internalName": "smallshieldrecharger",
+    "fullName": "Small Shield Recharger"
+  },
+  "smallbatteryrecharger": {
+    "webDataType": "equipment",
+    "internalName": "smallbatteryrecharger",
+    "fullName": "Small Battery Recharger"
+  },
+  "smallcapacitorbank": {
+    "webDataType": "equipment",
+    "internalName": "smallcapacitorbank",
+    "fullName": "Small Capacitor Bank"
+  },
+  "smallcoprocessor": {
+    "webDataType": "equipment",
+    "internalName": "smallcoprocessor",
+    "fullName": "Small Co-Processor"
+  },
+  "smallcargoexpansion": {
+    "webDataType": "equipment",
+    "internalName": "smallcargoexpansion",
+    "fullName": "Small Cargo Expansion"
+  },
+  "atomicpropulsor": {
+    "webDataType": "equipment",
+    "internalName": "atomicpropulsor",
+    "fullName": "Atomic Propulsor"
+  },
+  "atomicoverdrive": {
+    "webDataType": "equipment",
+    "internalName": "atomicoverdrive",
+    "fullName": "Atomic Overdrive"
+  },
+  "smallstasiswebifier": {
+    "webDataType": "equipment",
+    "internalName": "smallstasiswebifier",
+    "fullName": "Small Statis Webifier"
+  },
+  "warpcoredisruptor": {
+    "webDataType": "equipment",
+    "internalName": "warpcoredisruptor",
+    "fullName": "Warpcore Disruptor"
+  },
+  "basicarmorplating": {
+    "webDataType": "equipment",
+    "internalName": "basicarmorplating",
+    "fullName": "Basic Armor Plating"
+  },
+  "heavyarmorplating": {
+    "webDataType": "equipment",
+    "internalName": "heavyarmorplating",
+    "fullName": "Heavy Armor Plating"
+  },
+  "smallshieldextender": {
+    "webDataType": "equipment",
+    "internalName": "smallshieldextender",
+    "fullName": "Small Shield Extender"
+  }
+}

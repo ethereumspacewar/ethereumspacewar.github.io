@@ -14,13 +14,6 @@
           </div>
 
 
-          <div class="pl-4">
-            <form v-on:submit.prevent="onSearchSubmit()">
-              <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-               id="query" type="text" placeholder="Search..." v-model="searchQuery">
-             </form>
-          </div>
-
 
     		</div>
     	</nav>
@@ -97,8 +90,7 @@ export default {
   components:{Footer},
   data() {
     return {
-      activeContent: 'thegame',
-      searchQuery: null
+      activeContent: 'thegame'
     }
   },
   methods: {
@@ -106,20 +98,6 @@ export default {
     setContent (contentName) {
       console.log('set content', contentName)
       this.activeContent = contentName;
-    },
-
-    onSearchSubmit (){
-      this.handleSearchQuery( this.searchQuery )
-
-
-      this.searchQuery = null
-    },
-
-    handleSearchQuery(query){
-      console.log('on search submit ', query)
-
-
-
     }
   }
 }

@@ -5,6 +5,10 @@
       <span class="mx-4 text-gray-500">|</span>
 
       <router-link class="font-semibold text-gray-700 hover:underline" to="/wiki">Wiki</router-link>
+
+      <span class="mx-4 text-gray-500">|</span>
+
+      <router-link class="font-semibold text-gray-700 hover:underline" to="/guide">Game Guide</router-link>
     </div>
     <div class="mt-2">
       <a href="https://github.com/ethereumspacewar" class="text-sm font-semibold text-gray-600 hover:underline">
@@ -21,7 +25,7 @@
     props: [ ],
     data() {
       return {
-     
+
       }
     },
     methods: {

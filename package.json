@@ -8,6 +8,7 @@
     "build": "vue-cli-service build",
     "express": "node express.js",
     "deploy": "node deploy.js",
+    "buildwebdata": "node src/shared/lib/buildwebdata.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -28,6 +29,7 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
     "gh-pages": "^3.1.0",
+    "json-beautify": "^1.1.1",
     "vue-template-compiler": "^2.5.21"
   }
 }
