@@ -18,7 +18,12 @@ export default new Router({
     },
 
     {
-      path: '/wiki',
+      path: '/wiki/',
+      name: 'wiki',
+      component: Wiki,
+    },
+    {
+      path: '/wiki/:query',
       name: 'wiki',
       component: Wiki,
     },

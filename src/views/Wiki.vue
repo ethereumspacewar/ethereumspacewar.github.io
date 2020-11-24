@@ -101,11 +101,26 @@ export default {
       searchQuery: null
     }
   },
+  mounted(){
+        this.loadContentUsingQuery(this.$route.params.query)
+
+  },
+  watch: {
+    $route(to, from) {
+          this.loadContentUsingQuery(this.$route.params.query)
+
+      // react to route changes...
+    }
+  },
   methods: {
 
     setContent (contentName) {
       console.log('set content', contentName)
       this.activeContent = contentName;
+    },
+
+    loadContentUsingQuery(query){
+          console.log('loading query ',query)
     },
 
     onSearchSubmit (){
@@ -118,7 +133,7 @@ export default {
     handleSearchQuery(query){
       console.log('on search submit ', query)
 
-
+      this.$router.push ( '/wiki/'.concat(query))
 
     }
   }
